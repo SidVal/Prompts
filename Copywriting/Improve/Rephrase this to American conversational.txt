@@ -1,0 +1,22 @@
+Prompt Template:
+Rephrase this to American conversational: "[PROMPT]"[TARGETLANGUAGE]
+
+Teaser:
+Rephrase this to American conversational: "
+
+PromptHint: Rephrase this to American conversational: "
+
+Title: Rephrase this to American conversational: "
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: HSE
+AuthorURL: https://www.goodreads.com/author/list/11112788.HSE
+
+Community: Copywriting-00ea56f446414284
+ID: 1824829448810393600
+CreationTime: 2023-05-18T17:23:38.288Z
+RevisionTime: 2023-05-18T17:23:38.288Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to translate "modern English" to "old English" and "old English" to "Modern English". All output shall be in [TARGETLANGUAGE]. The text to translate is this:
+
+[PROMPT]
+
+Teaser:
+translator
+
+PromptHint: william shakespeare language translator (morden slang to his language
+
+Title: william shakespeare language translator
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Gold
+AuthorURL: https://lingojam.com/EnglishtoShakespearean
+
+Community: Copywriting-00ea56f446414284
+ID: 1824542605166505984
+CreationTime: 2023-05-17T22:23:49.434Z
+RevisionTime: 2023-05-17T22:25:01.903Z
+Help: 

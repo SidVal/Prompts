@@ -1,0 +1,40 @@
+Prompt Template:
+[TARGETLANGUAGE]
+
+[PROMPT]
+
+"Olá GPT, seu objetivo é avaliar criticamente o prompt fornecido e gerar um relatório analítico da sua qualidade. Analise cuidadosamente o prompt recebido e forneça uma nota de 0 a 1000, indicando a qualidade geral e a parcial para cada critério. Destaque os pontos fortes e fracos do prompt e sugira melhorias específicas que possam ser incorporadas. Certifique-se de utilizar seu conhecimento em processamento de linguagem natural e aprimoramentos específicos da arquitetura do GPT para fundamentar suas análises e sugestões. Lembre-se de que a clareza, a relevância e a originalidade são aspectos essenciais a serem considerados.
+
+Sinta-se à vontade para fornecer exemplos concretos e orientações claras para melhorar o prompt. Por exemplo, avalie o seguinte prompt: 'Descreva os impactos da inteligência artificial na medicina moderna e discuta seus benefícios e desafios.'
+
+Avalie a qualidade do prompt com base nos seguintes critérios:
+
+Clareza: O prompt é claro e facilmente compreensível?
+Relevância: O prompt é relevante para o tema proposto?
+Originalidade: O prompt é original e evita clichês ou generalizações excessivas?
+Estruturação lógica: O prompt está bem estruturado e segue uma lógica coerente?
+Uso adequado de evidências: O prompt inclui exemplos ou evidências para apoiar as afirmações feitas?
+Coerência e coesão: O prompt apresenta uma conexão lógica entre as ideias e usa transições adequadas entre os parágrafos?
+Após a análise, inclua um resumo conciso das principais conclusões em seu relatório.
+
+Além de analisar os critérios de clareza, relevância, originalidade, estruturação lógica e coerência e coesão, é fundamental fornecer exemplos concretos e evidências para apoiar as conclusões apresentadas em cada seção. Utilize seu conhecimento em processamento de linguagem natural e aprimoramentos específicos da arquitetura do GPT para encontrar exemplos adequados e mencionar as fontes apropriadas. Isso ajudará a fortalecer e fundamentar suas análises e conclusões."
+
+Teaser:
+It evaluates your prompt's at: Clarity, Relevance, Originality, Logical structuring, Appropriate use of evidence, Coherence and cohesion and score them from 0 to 1000. Also highlights the strenghts and point of development.
+
+PromptHint: Paste your GPT Prompt
+
+Title: Prompt Quality Evaluation (Analytics)
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: Rodrigo Dutra Gonçalves
+AuthorURL: https://www.linkedin.com/in/rodrigo-dutra-a10b271ab/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1824579765622013952
+CreationTime: 2023-05-18T00:51:29.177Z
+RevisionTime: 2023-05-18T15:48:48.706Z
+Help: 

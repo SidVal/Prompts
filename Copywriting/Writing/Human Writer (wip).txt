@@ -1,0 +1,24 @@
+Prompt Template:
+Voice and style guide: Write in a casual, friendly way, as if you were telling a friend about something. Use natural language and phrases that a real person would use: in normal conversations in fluent [TARGETLANGUAGE].
+
+[PROMPT]
+
+Teaser:
+Writing like a human
+
+PromptHint: Ask me anything...
+
+Title: Human Writer (wip)
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Justin Day Digital
+AuthorURL: https://daybydaydigital.com/small-businesses/
+
+Community: Copywriting-00ea56f446414284
+ID: 1825133717115633664
+CreationTime: 2023-05-19T13:32:41.505Z
+RevisionTime: 2023-05-19T13:32:41.505Z
+Help: 
