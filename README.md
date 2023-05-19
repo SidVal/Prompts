@@ -28,7 +28,7 @@ You can find two files under directory : ``all-prompts.json`` and ``all-prompts.
 
 According to your requirements, you can find a variety of prompt `TXT` file under different directory. Name: ``[Prompt Title].txt``
 
-####Sections of these prompt TXT files.
+#### Sections of these prompt TXT files.
 
 | Field             | Description                                       |
 |-------------------|---------------------------------------------------|
@@ -90,8 +90,8 @@ According to your requirements, you can find a variety of prompt `TXT` file unde
 
 ## To do list
 
+- [x] Add data auto-updater.
 - [ ] Add i18n versions (all-prompts.csv, all-prompts.json, all txt files, README)
-- [ ] Add data auto-updater.
 - [ ] Add data auto-translator (GPT 3.5).
 
 
