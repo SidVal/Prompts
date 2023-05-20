@@ -32,11 +32,11 @@ Topic: SEO
 
 Activity: writing
 
-AuthorName: AI MARKETING PLAN
-AuthorURL: https://aimarketingplan.com/AIPRM
+AuthorName: THE ULTIMATE AI COURSE
+AuthorURL: https://www.pecertified.com/?utm_source=AIPRM
 
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1802430788290207744
 CreationTime: 2023-03-17T21:59:21.473Z
-RevisionTime: 2023-03-18T14:25:39Z
+RevisionTime: 2023-05-19T23:53:07.15Z
 Help: 

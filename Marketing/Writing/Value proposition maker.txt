@@ -1,0 +1,24 @@
+Prompt Template:
+Stwórz zoptymalizowaną ofertę wartośći dla podanego [PROMPT]. Używaj języka[TARGETLANGUAGE]. Wypisz tylko tekst zoptymalizowany wyjsciowy. Zdanie zacznij z wielkiej litery. Pomiń frazę Oto zoptymalizowany...
+
+Teaser:
+Create value proposition faster and easier than before!  Paste couple sentences about your product of features and receive complete value proposition.
+
+[marketing] [value proposition] [writting]
+
+PromptHint: [Paste the text here to make a value proposition]
+
+Title: Value proposition maker
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Kamil Marchel
+AuthorURL: https://www.linkedin.com/in/kamil-marchel/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1825215418982461440
+CreationTime: 2023-05-19T18:57:20.748Z
+RevisionTime: 2023-05-19T19:06:46.333Z
+Help: 

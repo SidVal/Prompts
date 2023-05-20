@@ -14,10 +14,10 @@ Topic: Copywriting
 Activity: Subject Lines
 
 AuthorName: Damon Nelson
-AuthorURL: https://aimasher.com
+AuthorURL: https://linktr.ee/DamonNelson
 
 Community: Copywriting-00ea56f446414284
 ID: 1824798420515426304
 CreationTime: 2023-05-18T15:20:20.566Z
-RevisionTime: 2023-05-18T16:42:02.62Z
+RevisionTime: 2023-05-19T20:58:59.255Z
 Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Your task is to summarize the text I give you in 20 words or maximum 130 characters. All output shall be [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]
+
+Teaser:
+Create the best summary for my content
+
+PromptHint: [TEXT that you want a meta description for]
+
+Title: masocampus - 001_Best summary for meta desc
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Masocampus
+AuthorURL: https://www.masocampus.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1792213326642810880
+CreationTime: 2023-02-17T17:18:48.785Z
+RevisionTime: 2023-05-20T08:33:13.795Z
+Help: 

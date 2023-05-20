@@ -1,7 +1,8 @@
 Prompt Template:
 Please ignore all the previous querries and Your new Task is to write the Blog Post Introduction in the [TARGETLANGUAGE] for the following:
 [PROMPT]. 
-The introduction part must have three paragraphs. The first paragraph needs to have the following: 
+The introduction part must have only 3 paragraphs(Important). No more than 3 paragraphs. Every paragraph should have 3 to 4 sentences max.
+The first paragraph needs to have the following: 
 [PROMPT]. 
 It is also recommended to use an engaging question in the first paragraph.
 The second paragraph should have the exact answer in short. You must write a brief of the article within three sentences in the second para for example if the article is regarding “Greatest Batsmen,” you should design the second paragraph like “Sachin, with 100+ centuries and more than 30K career runs in total, is truly the greatest batsman of all time. Indian batsmen Sourav Ganguly and Virat Kohli come next on the line with 15k and 12k runs, respectively."
@@ -42,5 +43,5 @@ AuthorURL: https://specadvice.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1786652385645686784
 CreationTime: 2023-02-02T09:01:37.134Z
-RevisionTime: 2023-05-18T16:43:59.539Z
+RevisionTime: 2023-05-20T05:09:58.973Z
 Help: 

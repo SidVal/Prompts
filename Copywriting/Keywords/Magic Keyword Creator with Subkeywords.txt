@@ -13,10 +13,10 @@ Topic: Copywriting
 Activity: keywords
 
 AuthorName: Damon Nelson
-AuthorURL: https://aimasher.com
+AuthorURL: https://linktr.ee/DamonNelson
 
 Community: Copywriting-00ea56f446414284
 ID: 1824818333971898368
 CreationTime: 2023-05-18T16:39:28.304Z
-RevisionTime: 2023-05-18T16:46:04.899Z
+RevisionTime: 2023-05-19T20:58:50.626Z
 Help: 
