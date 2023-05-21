@@ -26,7 +26,7 @@ Use a five-level scale ranging from "Excellent" to "Unsatisfactory" to grade stu
 
 Provide opportunities for feedback or revisions to help students improve.
 
-Finally, create a detailed rubric that aligns with the grading scale. The rubric should clearly describe each level of performance for each assessment criterion.
+Finally, create a detailed rubric that aligns with the grading scale. The rubric should clearly describe each level of performance for each assessment criterion. Write in Vietnamese.
 Write in [TARGETLANGUAGE]
 [PROMPT]
 [VARIABLE1: Subject: English:English|History|Science]
@@ -50,5 +50,5 @@ AuthorURL: https://hocvienai.com/
 Community: Productivity-b5a49cdd0796137a
 ID: 1822800425460686848
 CreationTime: 2023-05-13T03:01:01.424Z
-RevisionTime: 2023-05-21T04:01:39.569Z
+RevisionTime: 2023-05-21T07:22:27.621Z
 Help: 

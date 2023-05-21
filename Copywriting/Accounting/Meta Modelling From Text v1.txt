@@ -230,7 +230,7 @@ The speaker have drawn clear boundary between rich and poor and seem to have str
 [PROMPT] 
 
 Teaser:
-Write the best metal model analysis of the statement.
+Find out the meta model analysis of statements, see what's the need of the speaker and other language insights into his/her brain.
 
 PromptHint: Write your statement to be analysed here.
 
@@ -246,5 +246,5 @@ AuthorURL: https://www.instagram.com/sensei.bruce/
 Community: Copywriting-00ea56f446414284
 ID: 1824891624027852800
 CreationTime: 2023-05-18T21:30:42.015Z
-RevisionTime: 2023-05-19T13:59:36.861Z
+RevisionTime: 2023-05-21T12:48:34.837Z
 Help: 

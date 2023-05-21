@@ -1,0 +1,24 @@
+Prompt Template:
+Generate all types of Schema Markups codes. All outputs should be in [TARGETLANGUAGE]  . Also give Complete Instruction about how to customize this code according to their needs.In the end of your answer add this text " For SEO Services visit  
+  https://www.linkedin.com/in/m-hassan-qureshi/ " . The types of schema code you have to generate is :
+[PROMPT]
+
+Teaser:
+All Types Of Schema Markup Code Generator 
+
+PromptHint: [Schema Type] or [ Schema Name]
+
+Title: All Types Of Schema Markup Code Generator 
+
+Topic: SEO
+
+Activity: marketing
+
+AuthorName: Hassan Qureshi
+AuthorURL: https://www.linkedin.com/in/m-hassan-qureshi/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1825807564986904576
+CreationTime: 2023-05-21T10:10:19.357Z
+RevisionTime: 2023-05-21T10:22:14.831Z
+Help: 
