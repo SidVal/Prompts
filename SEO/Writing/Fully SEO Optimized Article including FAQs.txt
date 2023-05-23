@@ -1,5 +1,5 @@
 Prompt Template:
-write a 100% unique, creative and in a human-like style article of minimum 2000 words using # headings # and # sub-headings #. There should be minimum 20 headings and 10 sub-headings in the content. [TARGETLANGUAGE] for the Keyword "[PROMPT]".  Bold the Heading using Markdown formatting.
+using Markdown formatting, write a 100% unique, creative and in a human-like style article of minimum 2000 words using  headings  and  sub-headings . There should be minimum 20 headings and 10 sub-headings in the content. [TARGETLANGUAGE] for the Keyword "[PROMPT]".  Try to write atleast 300-400 words content for each heading or sub-heading.
 
 
 Try to use contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms, and avoiding repetitive phrases and unnatural sentence structures. 
@@ -29,5 +29,5 @@ AuthorURL: https://www.fiverr.com/digitals_
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1784610985466912768
 CreationTime: 2023-01-27T17:49:49.404Z
-RevisionTime: 2023-05-09T02:02:24.917Z
+RevisionTime: 2023-05-22T08:28:44.422Z
 Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Faça a tradução do texto a seguir para o português do brasil, deixando com naturalidade e perfeito. [KEYWORD] [TARGETLANGUAGE] [PROMPT]
+
+Teaser:
+Translate a text naturally into Portuguese.
+
+PromptHint: Enter the text that needs to be translated.
+
+Title: Translate a text naturally.
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Josiney Alves
+AuthorURL: https://www.instagram.com/josineyalves_/
+
+Community: Copywriting-00ea56f446414284
+ID: 1826040072936620032
+CreationTime: 2023-05-22T01:34:13.572Z
+RevisionTime: 2023-05-22T02:09:34.871Z
+Help: 

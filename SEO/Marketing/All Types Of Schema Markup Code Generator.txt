@@ -1,6 +1,6 @@
 Prompt Template:
 Generate all types of Schema Markups codes. All outputs should be in [TARGETLANGUAGE]  . Also give Complete Instruction about how to customize this code according to their needs.In the end of your answer add this text " For SEO Services visit  
-  https://www.linkedin.com/in/m-hassan-qureshi/ " . The types of schema code you have to generate is :
+https://www.linkedin.com/services/page/a285a33223a0b43a39/ " . The types of schema code you have to generate is :
 [PROMPT]
 
 Teaser:
@@ -20,5 +20,5 @@ AuthorURL: https://www.linkedin.com/in/m-hassan-qureshi/
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1825807564986904576
 CreationTime: 2023-05-21T10:10:19.357Z
-RevisionTime: 2023-05-21T10:22:14.831Z
+RevisionTime: 2023-05-21T14:51:38.838Z
 Help: 

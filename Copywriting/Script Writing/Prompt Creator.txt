@@ -22,7 +22,7 @@ A sua participação é a seguinte: Me fornecerá o prompt que seja mais complet
 Espero que consigamos alcançar essa meta muito valiosa para as inteligências artificiais e humanos se desenvolverem em conjunto!"
 
 Teaser:
-Be sure to provide: Context (The environment of the task); The specific task, and desired result.
+Be sure to provide: Context (The environment of the task); The specific task, and desired result.Please Vote so i can share the Prompt Analyst to use combined with this.
 
 PromptHint: "I want a prompt so GPT can do..."
 
@@ -38,5 +38,5 @@ AuthorURL: https://www.linkedin.com/in/rodrigo-dutra-a10b271ab/
 Community: Copywriting-00ea56f446414284
 ID: 1824575840432939008
 CreationTime: 2023-05-18T00:35:53.339Z
-RevisionTime: 2023-05-19T21:36:28.864Z
+RevisionTime: 2023-05-21T17:49:59.764Z
 Help: 

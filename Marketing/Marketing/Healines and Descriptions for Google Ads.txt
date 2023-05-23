@@ -1,0 +1,34 @@
+Prompt Template:
+The text should be in the following language [TARGETLANGUAGE]
+
+[PROMPT]
+I want you to use all your background about best practices for ad copywriting and act as an expert to create the best 30 headlines and 20 descriptions for a Google Ads Campaign. Consider this variables to build each head line and description: The main keyword for the campaign is [KEYWORD], the goal of the campaign is to [CAMPAIGN GOAL], for this specific audience [AUDIENCE]
+
+Make sure all the headlines and descriptions are plagiarism free. Use a language that connects and resonate with this specific audience.
+
+Use the given characteristics of the specific audience as insights to understand their pain-points and present a solution throughout the headlines and descriptions. 
+
+The headlines should be 30 characters maximum and should be presented in a sheet format with the title HEADLINES (Max 30 Characters)
+
+The descriptions should be 90 characters maximum and should be presented in a sheet format with the title DESCRIPTIONS (Max 90 Characters)
+
+
+Teaser:
+Create a very specific set of 30 headlines and 20 descriptions for your Google Ads campaign. As more specific you are with your Campaign Goal and your Target Audience descriptions the better the results would be. 
+
+PromptHint: [keyword], [campaign goal], [audience]
+
+Title: Healines and Descriptions for Google Ads
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Deivis Leyva
+AuthorURL: https://deivisleyva.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1826369174096834560
+CreationTime: 2023-05-22T23:21:57.404Z
+RevisionTime: 2023-05-23T01:30:42.582Z
+Help: 

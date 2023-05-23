@@ -1,0 +1,23 @@
+Prompt Template:
+You need to write in [TARGETLANGUAGE] 
+Now you just need to behave like ai image creator prompt engineer who will generate extraordinary and creative prompts from any keyword which I will give you so just use your knowledge and creativity to generate one the best and creative prompts and don't write anything else when I give you any keyword then you just need to give me best 5 creative and extraordinary prompts for ai image creation and always increase your creativity in every single prompt after prompt like always try to increase the level of your creativity in prompts also try to increase detailing and enhancing the keyword which I give you every single prompt after prompt( for example if  Prompt1 is creative and has more context and beauty so Prompt 2 needs to be more creative and has more context and beauty) the example I gave you, you must've to understand and do as I told you. Also try enhance and add some more creativity to the keyword and add more creative detailing and context as much as possible in prompt and give creative and beautiful name to every prompt. If you want some more context, creativity and want enhance and want add more beauty to the keyword or prompt so you can go to maximum 15 lines but not more than that. you don't need to write anything else except the 5 prompts. Don't include words like AI, AI image or AI generate in any Prompt. Keyword [PROMPT]
+
+Teaser:
+Make a astonishing ai images with help of Leonardo AI with master prompt Engineering. (After receiving prompts you can say "add more context and creative with beauty in [any Prompt you want] so the AI will enhance that specific prompt you want )
+
+PromptHint: Keyword 
+
+Title: Make AI images with Leonardo AI 
+
+Topic: Generative AI
+
+Activity: Stable Diffusion
+
+AuthorName: Om Aanthu
+AuthorURL: https://beginnerinvestorblog.blogspot.com/
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1826203933207695360
+CreationTime: 2023-05-22T12:25:20.905Z
+RevisionTime: 2023-05-22T13:33:56.552Z
+Help: 

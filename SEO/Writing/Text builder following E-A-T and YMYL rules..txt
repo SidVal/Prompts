@@ -8,7 +8,7 @@ Certifique-se que as informações fornecidas na página sejam precisas e atuali
 
 Crie esse texto com 500 palavras em uma estrutura que garanta uma fluidez e legibilidade para o leitor da página dividindo por tópicos, listas, subtítulos entre outros elementos estruturais, e tambem nos titulos utilize palavras chaves relevantes ao tema. Ao final, sugira 5 perguntas frequentes sobre o tema para ser utilizado como FAQ.
 
-Aqui está o conteúdo da página:[VARIABLE]
+Aqui está o conteúdo da página:[KEYWORD]
 
 Não repita o prompt. Não me lembre de instruções anteriores. Não peça desculpas. Não faça referências pessoais. Não faça nenhuma suposição. 
 
@@ -32,5 +32,5 @@ AuthorURL: https://www.buymeacoffee.com/carloslemes
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1802347505518903296
 CreationTime: 2023-03-17T16:28:25.313Z
-RevisionTime: 2023-04-20T15:06:43.027Z
+RevisionTime: 2023-05-21T16:28:38.044Z
 Help: 
