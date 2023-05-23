@@ -15,10 +15,10 @@ Topic: Marketing
 Activity: Startup Ideas
 
 AuthorName: Mohsin Zaheer
-AuthorURL: https://www.linkedin.com/in/mohsin-zaheer-5a8715149/
+AuthorURL: https://www.linkedin.com/in/syed-muhammad-mohsin-zaheer/
 
 Community: Marketing-cc647f5cf02ffd02
 ID: 1798650694874689536
 CreationTime: 2023-03-07T11:38:36.972Z
-RevisionTime: 2023-03-24T05:35:45.924Z
+RevisionTime: 2023-05-23T11:44:14.55Z
 Help: 

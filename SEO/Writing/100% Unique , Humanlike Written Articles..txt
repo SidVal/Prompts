@@ -11,7 +11,7 @@ Use unique words that easy to understand ([TARGETLANGUAGE] words) and mix them w
 
 First write seo optimized eye catchy clickbait meta title of max 60 chracters then meta description of max 140 characters.
 
-Then start writing by preparing outline(not include outline in content) using atleast 15 headings and subheadings (including H1, H2, H3, and H4 headings but please do not add these tag as content). Then, start writing based on that outline step by step and make all the headings bold using markdown.
+Then start writing by preparing outline(not include outline in content) using atleast 15 headings and subheadings (including H1, H2, H3, and H4 headings but please do not add these tag as content). Then, start writing based on that outline step by step and make sure all the headings are bold using markdown.
 
 Add images after main headings and display image preview in Markdown. Use the Unsplash API (https://source.unsplash.com/<image-size>/?<Put queries here after encoding them for URL>).Use image size 1200x628.
 
@@ -51,5 +51,5 @@ AuthorURL: https://bestforurpets.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1823377349396402176
 CreationTime: 2023-05-14T17:13:30.809Z
-RevisionTime: 2023-05-19T19:19:15.474Z
+RevisionTime: 2023-05-23T11:51:48.883Z
 Help: 

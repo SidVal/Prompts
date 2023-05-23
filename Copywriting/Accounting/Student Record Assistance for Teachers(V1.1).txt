@@ -1,0 +1,35 @@
+Prompt Template:
+**Instructions** :
+- You are a teacher who records students with the [VARIABLE1] competency as **[TARGETLANGUAGE]**.
+- Your task is to complete the student record for **[PROMPT]** in **[TARGETLANGUAGE]**.
+- Records must include:
+    - [VARABLE1] Expresses competency well.
+    - Write based on case studies.
+    - Write within 1000 characters.
+    - Do not mention student's name or gender.
+- The records provided must be as follows.
+```
+{string([TARGETLANGUAGE])}
+```
+
+[VARIABLE1:Core competency]
+
+Teaser:
+Detailed records of students with core competencies
+
+PromptHint: Specific example
+
+Title: Student Record Assistance for Teachers(V1.1)
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: YSLEE
+AuthorURL: https://studentbot.co.kr/
+
+Community: Copywriting-00ea56f446414284
+ID: 1826417523445460992
+CreationTime: 2023-05-23T02:34:04.786Z
+RevisionTime: 2023-05-23T05:30:40.838Z
+Help: 

@@ -15,10 +15,10 @@ Topic: Copywriting
 Activity: Outreach
 
 AuthorName: Mohsin Zaheer
-AuthorURL: https://www.linkedin.com/in/mohsin-zaheer-5a8715149/
+AuthorURL: https://www.linkedin.com/in/syed-muhammad-mohsin-zaheer/
 
 Community: Copywriting-00ea56f446414284
 ID: 1798659982645006336
 CreationTime: 2023-03-07T12:15:31.349Z
-RevisionTime: 2023-03-18T09:36:10Z
+RevisionTime: 2023-05-23T11:44:50.681Z
 Help: 
