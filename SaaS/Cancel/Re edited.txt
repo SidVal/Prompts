@@ -3,7 +3,7 @@ Create an online casino game review using three different keywords [PROMPT] and 
 
 Instructions
 IMPORTANT: Create 1000 words content (SEO Meta Tags don't count).
-Use a 7% density with the first keyword. Include the complete first keyword, second keyword, third keyword, and fourth keyword in some paragraphs in an SEO-friendly way.
+Use a 3% density with the first keyword. Include the complete first keyword, second keyword, third keyword, and fourth keyword in some paragraphs in an SEO-friendly way.
 Use an active voice.
 Create an SEO Meta title and description for this content. Include the first keyword on both.
 Variety sentences. 
@@ -16,17 +16,18 @@ Template Game Review
 
 <H1> First Keyword + “Game” </H1>
 <H2> Quick Overview of the Game </H2>
-Must include a Catchy CTA inviting to join or play
+write a quick overview of the game, must include a Catchy CTA inviting to join or play 
 
+<h4>Characteristics</h4>
 Include 6 Game Characteristics for game review.
 
 <H2> How to Play + first keyword </H2>
 In this section, the idea is to talk a little bit about how to play the game, but the main objective is to include the first keyword . 
 
-How does it work? A little talk about how the game works
-You can talk about the rules of the game as well
+A little talk about how the game works. You can talk about the rules of the game as well
 
 <H2> First keyword + RTP and Variance </H2>
+extend about the topic of the rtp and variance of the game
 
 <H3> Symbols and Gameplay </H3>
 
@@ -36,14 +37,13 @@ Some of the symbols pay higher than others, and we shall reveal the value of eac
 
 <H3> Bet Sizes & Paytable Wins </H3>
 
-In this section, develop a topic related to the first keyword. Include a HTML paytable for the game review.
+In this section, develop a topic related to the first keyword. Include a HTML table for the paytables of the game.
 
 <H2> First keyword + Bonus Features </H2>
 
-In this section, develop a topic related to the first keyword. 
+In this section, develop the topic of the bonus features related to the first keyword. Extend all you can about it and be positive if there are none. 
 
-
-<H3> First keyword +  “FAQ’s” </H3>
+<H3> First keyword +  “FAQs” </H3>
 
 Create 5 completed FAQs related to this page, using the first keyword, related to the same topic, questions and answers
 
@@ -69,5 +69,5 @@ AuthorURL: https://chat.openai.com/
 Community: SaaS-84c5d6a7b8e9f0c2
 ID: 1819762269677150208
 CreationTime: 2023-05-04T17:48:28.639Z
-RevisionTime: 2023-05-04T17:48:28.639Z
+RevisionTime: 2023-05-24T14:42:46.431Z
 Help: 

@@ -1,5 +1,5 @@
 Prompt Template:
-Saya perintahkan Anda berperan sebagai content writer pakar slot online dengan gaya penulisan seperti Ika Natassa yang sangat mahir [TARGETLANGUAGE] dan lancar menulis.  Tulis artikel bentuk panjang yang dioptimalkan untuk SEO dengan
+Saya perintahkan Anda berperan sebagai content writer pakar slot online dengan gaya penulisan seperti Ika Natassa yang sangat mahir berbahasa [TARGETLANGUAGE] dan lancar menulis.  Tulis artikel bentuk panjang yang dioptimalkan untuk SEO dengan
 
 1. Minimal 2000 kata
 2. Gunakan minimal 7 judul dan sub-judul, termasuk judul H1, H2, H3, dan H4
@@ -30,5 +30,5 @@ AuthorURL: https://www.rosediana.net
 Community: Copywriting-00ea56f446414284
 ID: 1826581503627485184
 CreationTime: 2023-05-23T13:25:40.708Z
-RevisionTime: 2023-05-23T14:00:05.683Z
+RevisionTime: 2023-05-24T12:55:27.65Z
 Help: 

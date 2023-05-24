@@ -1,0 +1,23 @@
+Prompt Template:
+You need to write Best local optimized keywords in [TARGETLANGUAGE] business type
+[PROMPT] for the given [LOCATION]
+
+Teaser:
+Optimize Business Listing | Keywords For Local Business Listings  | Boost Your Business Ranking 
+
+PromptHint: Write Your Business Type & Location
+
+Title: Local Business Keyword for Best SEO Result
+
+Topic: SEO
+
+Activity: marketing
+
+AuthorName: ChatGPT Prompts
+AuthorURL: https://getchatgptprompts.live/advance
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1826731078405328896
+CreationTime: 2023-05-23T23:20:02.114Z
+RevisionTime: 2023-05-23T23:44:19.532Z
+Help: 

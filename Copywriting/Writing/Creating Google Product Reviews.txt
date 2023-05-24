@@ -11,6 +11,8 @@ Expand on each subtitle with paragraphs and complete sentences; Focus on providi
 
 Write from first person narrative. Use informal language to be more casual and spontaneous.
 
+Write in markdown format.
+
 Here’s the content:
 [CRAWLEDTEXT]
 [PROMPT]
@@ -32,5 +34,5 @@ AuthorURL: https://smallbizways.com
 Community: Copywriting-00ea56f446414284
 ID: 1824282248665620480
 CreationTime: 2023-05-17T05:09:15.607Z
-RevisionTime: 2023-05-17T05:09:15.607Z
+RevisionTime: 2023-05-23T17:54:02.934Z
 Help: 

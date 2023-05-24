@@ -1,0 +1,26 @@
+Prompt Template:
+I want you to respond only in [TARGETLANGUAGE].
+I want you to create a table for possible risk cases about [PROMPT] with risk management table.
+There must exist columns for Risk event, Description of risk event, potential hazard, potential effects of failure, Probability, severity, Risk level, risk mitigation. 
+For each risk cases, you should generate safety requirements for them below the table you made. 
+
+
+Teaser:
+Risk case, risk management table
+
+PromptHint: [Risk cases]
+
+Title: Risk cases
+
+Topic: Copywriting
+
+Activity: Research
+
+AuthorName: Jiun
+AuthorURL: http://naver.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1826938367066243072
+CreationTime: 2023-05-24T13:03:43.582Z
+RevisionTime: 2023-05-24T15:05:32.672Z
+Help: 

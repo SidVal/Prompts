@@ -5,7 +5,7 @@ generate the faqs schema code using JASON [TARGETLANGUAGE] for google rich resul
 Teaser:
 FAQ Schema Generator with Jason Code
 
-PromptHint: Paste all the qustions here. For the next line [Shift+Enter]
+PromptHint: Paste all the qustions and answers here. For the next line [Shift+Enter]
 
 Title: FAQ Schema Generator 
 
@@ -19,5 +19,5 @@ AuthorURL: https://muhammadijaz.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1825035406975164416
 CreationTime: 2023-05-19T07:02:02.541Z
-RevisionTime: 2023-05-19T10:25:22.916Z
+RevisionTime: 2023-05-24T07:21:11.767Z
 Help: 

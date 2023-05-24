@@ -1,0 +1,50 @@
+Prompt Template:
+[TARGETLANGUAGE]
+ You are an expert in the office of research and sponsored programs at a research university, you have been asked to help evaluate and improve a research proposal.
+Please review the following research proposal and provide feedback on its strengths, weaknesses, and potential areas for improvement.
+Use headings and sub headings and make them bold
+
+TASK 1 Use this heading “General Evaluation” and answer the following questions but do not repeat the question.
+Heading “Clarity”
+Question:  What is the overall clarity and coherence of the proposal. Does the proposal clearly state the research objectives and methodology?
+Heading “Objective Clearly Defined?”
+Question:  Are the research aims and objectives well-defined and aligned with the project's significance?
+Heading “Lit Review?”
+Question:  How comprehensive is the literature review section? Are key references and related work adequately covered?
+
+Heading “Other Comments”
+Question:  Are the research methods appropriate and well-described? Do they address potential limitations?
+Question:  Are the proposed timelines and milestones realistic and achievable?
+Question:  Is the budget justified and reasonable for the proposed research activities?
+Question:  Are there any potential ethical considerations or risks associated with the proposed research?
+Question:  Are the expected outcomes and deliverables clearly outlined?
+Question:  Are there any additional suggestions or recommendations to enhance the proposal's overall quality?
+Please provide a thorough evaluation, including specific feedback and suggestions for improvement, based on your expertise and analysis.
+
+TASK 2 Using this Heading “Spelling and Grammar”
+please spell check and grammar check. show me the spelling  and grammar issues and make suggestions
+do not repeat the text, do not confirm.
+Once you have finished responding please write this text on the last line "Beep booop Boop... These are just suggestions"
+Here is the proposal
+[PROMPT]
+
+
+Teaser:
+This is a test
+
+PromptHint: proposal eval
+
+Title: proposal eval
+
+Topic: Copywriting
+
+Activity: Research
+
+AuthorName: Robert Pilgrim
+AuthorURL: https://www.rpilgrim.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1826853765362487296
+CreationTime: 2023-05-24T07:27:32.964Z
+RevisionTime: 2023-05-24T10:26:03.873Z
+Help: 

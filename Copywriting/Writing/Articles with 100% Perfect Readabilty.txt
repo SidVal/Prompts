@@ -1,0 +1,25 @@
+Prompt Template:
+Your task is to generate articles I give you in  words. All output shall be in [TARGETLANGUAGE]. The text to articles is this:
+
+[PROMPT]
+
+Teaser:
+Create the best article with perfect readability and optimize through the rank Math.
+also generate meta tags for articles
+
+PromptHint: [text that you want a meta description for]
+
+Title: Articles with 100% Perfect Readabilty
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Vishal Thakur
+AuthorURL: https://unknownwebeees.blogspot.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1826833648037654528
+CreationTime: 2023-05-24T06:07:36.62Z
+RevisionTime: 2023-05-24T06:07:36.62Z
+Help: 

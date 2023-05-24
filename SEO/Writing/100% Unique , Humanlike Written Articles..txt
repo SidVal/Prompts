@@ -15,7 +15,7 @@ Then start writing by preparing outline(not include outline in content) using at
 
 Add images after main headings and display image preview in Markdown. Use the Unsplash API (https://source.unsplash.com/<image-size>/?<Put queries here after encoding them for URL>).Use image size 1200x628.
 
-Use fully detailed paragraphs that are highly readable and engage the reader but split the paragraphs if paragraph is more than 4 lines to increase readability. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).
+Use fully detailed paragraphs that are highly readable and engage the reader but split the paragraphs if paragraph is more than 4 lines to increase readability.Avoid short detailing a headline. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).
 
 Use list, table, chart or comparison table if possible to include in the article to explain the heading.
  
@@ -51,5 +51,5 @@ AuthorURL: https://bestforurpets.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1823377349396402176
 CreationTime: 2023-05-14T17:13:30.809Z
-RevisionTime: 2023-05-23T11:51:48.883Z
+RevisionTime: 2023-05-23T17:32:06.898Z
 Help: 
