@@ -122,6 +122,11 @@ AIPRM：[https://www.aiprm.com](https://www.aiprm.com/)
 
 如果您对功能有任何想法，欢迎提交 PR。
 
+## Star 🌟
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=samsonhoi/Prompts-Robin-ChatGPT-Aiprm&type=Date)](https://star-history.com/#samsonhoi/Prompts-Robin-ChatGPT-Aiprm&Date)
+
 ## 授权
 
 Apache License 2.0
