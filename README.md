@@ -117,6 +117,12 @@ All original author are credited in all prompt files (CSV, JSON, TXT).
 
 If you have a idea for a feature, PR are more than welcome.
 
+## Star History 🌟
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=samsonhoi/Prompts-Robin-ChatGPT-Aiprm&type=Date)](https://star-history.com/#samsonhoi/Prompts-Robin-ChatGPT-Aiprm&Date)
+
+
 ## License
 
 Apache License 2.0
