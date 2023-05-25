@@ -1,0 +1,22 @@
+Prompt Template:
+Write 10 SEO Friendly Blog Title [PROMPT] [TARGETLANGUAGE] [Under 80 characters] [Tone: Friendly] [Writing Style: Informative] [Eye Catching] [More Clickable] 
+
+Teaser:
+Make Blog Title (SEO Friendly, Eye Catching and More Clickable)
+
+PromptHint: [Write or Paste your Keyword]
+
+Title: Make Blog Title (More Clickable Title)
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Md Rakibul Islam
+AuthorURL: https://www.unlify.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1827199232319426560
+CreationTime: 2023-05-25T06:20:18.705Z
+RevisionTime: 2023-05-25T06:29:05.946Z
+Help: 

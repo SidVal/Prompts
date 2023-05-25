@@ -8,8 +8,8 @@ Use an active voice.
 Create an SEO Meta title and description for this content. Include the first keyword on both.
 Variety sentences. 
 Subheading distribution. 
-Paragraphs not longer than 150 characters. 
-Sentence length Not more than 20 words 
+Paragraphs not longer than 200 characters. 
+Sentence length Not more than 30 words 
 At least 30% of the sentences in your text contain a transition word (Is a must).
 
 Template Game Review 
@@ -26,7 +26,7 @@ In this section, the idea is to talk a little bit about how to play the game, bu
 
 A little talk about how the game works. You can talk about the rules of the game as well
 
-<H2> First keyword + RTP and Variance </H2>
+<H3> First keyword + RTP and Variance </H3>
 extend about the topic of the rtp and variance of the game
 
 <H3> Symbols and Gameplay </H3>
@@ -41,7 +41,7 @@ In this section, develop a topic related to the first keyword. Include a HTML ta
 
 <H2> First keyword + Bonus Features </H2>
 
-In this section, develop the topic of the bonus features related to the first keyword. Extend all you can about it and be positive if there are none. 
+In this section, develop the topic of the bonus features related to the first keyword. Put in bolt the Bonus feature and then the explanation. Extend all you can about it and be positive if there are none bonus features for the game. 
 
 <H3> First keyword +  “FAQs” </H3>
 
@@ -49,7 +49,7 @@ Create 5 completed FAQs related to this page, using the first keyword, related t
 
 <H3> Conclusion </H3>
 
-In this section, create a conclusion paragraph for all the previous content created.
+In this section, create a conclusion for all the previous content created. 
 
 
 Teaser:
@@ -69,5 +69,5 @@ AuthorURL: https://chat.openai.com/
 Community: SaaS-84c5d6a7b8e9f0c2
 ID: 1819762269677150208
 CreationTime: 2023-05-04T17:48:28.639Z
-RevisionTime: 2023-05-24T14:42:46.431Z
+RevisionTime: 2023-05-25T13:35:19.072Z
 Help: 

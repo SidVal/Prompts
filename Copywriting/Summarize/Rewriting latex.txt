@@ -1,0 +1,24 @@
+Prompt Template:
+Apresente o resultado no idioma [TARGETLANGUAGE]. Corrigir minha ortografia e gramatica [TARGETLANGUAGE]. Coloque o autor nas chaves de \citeonline{} [TARGETLANGUAGE]. Reescreva em linguagem técnica e use a voz ativa [TARGETLANGUAGE]. Marque os erros de concordância, ortográfico e gramatical em negrito [TARGETLANGUAGE]. O texto para resumir é este:
+
+[PROMPT]
+
+Teaser:
+Correct my spelling and grammar.
+
+PromptHint: [text]
+
+Title: Rewriting latex
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Thiago Werlley - twbs
+AuthorURL: https://www.quixada.ufc.br/docente/thiago-werlley-bandeira-da-silva/
+
+Community: Copywriting-00ea56f446414284
+ID: 1827300486123098112
+CreationTime: 2023-05-25T13:02:39.493Z
+RevisionTime: 2023-05-25T13:43:54.877Z
+Help: 

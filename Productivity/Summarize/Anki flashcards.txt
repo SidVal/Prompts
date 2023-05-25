@@ -1,6 +1,5 @@
 Prompt Template:
-Sua tarefa é fazer 10 flashcards diferentes  para serem usados no Anki sobre [KEYWORD].  [TARGETLANGUAGE][PROMPT]
-Coloque o texto em formato CSV com a pergunta na primeira coluna e a resposta na segunda coluna, use ponto e virgula para separar uma coluna da outra.
+[TARGETLANGUAGE] [PROMPT]. Create 10 different flashcards about [KEYWORD]. Put them in CSV format with the question in the first column and the answer in the second column, using semicolons to separate the columns. Enclose the text in a code block. Retire os numeros do inicio
 
 Teaser:
 It create 10 flashcards for Anki, in the format of a text that must be copied to a text file and converted to a csv file, only after that to be imported into Anki.
@@ -19,5 +18,5 @@ AuthorURL: https://github.com/leoforner
 Community: Productivity-b5a49cdd0796137a
 ID: 1826384118523629568
 CreationTime: 2023-05-23T00:21:20.432Z
-RevisionTime: 2023-05-23T00:37:31.952Z
+RevisionTime: 2023-05-25T15:59:12.839Z
 Help: 

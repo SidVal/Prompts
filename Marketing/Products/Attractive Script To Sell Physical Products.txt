@@ -1,0 +1,23 @@
+Prompt Template:
+Criar um script para um anuncio de [PROMPT] , com tom de um locutor de radio emplogado, usar recursos de persuasão Seja objetivo e claro para um público geral. O texto dever ser de no maximo 4000 palavras. [TARGETLANGUAGE] 
+
+
+Teaser:
+Create script for product advertisement
+
+PromptHint: [describe the product]
+
+Title: Attractive Script To Sell Physical Products
+
+Topic: Marketing
+
+Activity: Products
+
+AuthorName: lindolfo.assis
+AuthorURL: https://linktr.ee/lindolfosampaio
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1827031023398162432
+CreationTime: 2023-05-24T19:11:54.573Z
+RevisionTime: 2023-05-24T19:11:54.573Z
+Help: 
