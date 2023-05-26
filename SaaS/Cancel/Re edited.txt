@@ -7,9 +7,7 @@ Use a 3% density with the first keyword. Include the complete first keyword, sec
 Use an active voice.
 Create an SEO Meta title and description for this content. Include the first keyword on both.
 Variety sentences. 
-Subheading distribution. 
-Paragraphs not longer than 200 characters. 
-Sentence length Not more than 30 words 
+Subheading distribution.  
 At least 30% of the sentences in your text contain a transition word (Is a must).
 
 Template Game Review 
@@ -19,7 +17,7 @@ Template Game Review
 write a quick overview of the game, must include a Catchy CTA inviting to join or play 
 
 <h4>Characteristics</h4>
-Include 6 Game Characteristics for game review.
+Include 10 Game Characteristics for game review. Each of those with less than 7 words.
 
 <H2> How to Play + first keyword </H2>
 In this section, the idea is to talk a little bit about how to play the game, but the main objective is to include the first keyword . 
@@ -69,5 +67,5 @@ AuthorURL: https://chat.openai.com/
 Community: SaaS-84c5d6a7b8e9f0c2
 ID: 1819762269677150208
 CreationTime: 2023-05-04T17:48:28.639Z
-RevisionTime: 2023-05-25T13:35:19.072Z
+RevisionTime: 2023-05-25T18:29:05.903Z
 Help: 

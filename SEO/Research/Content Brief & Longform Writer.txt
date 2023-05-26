@@ -1,7 +1,7 @@
 Prompt Template:
 Only respond in [TARGETLANGUAGE]
 
-This content brief/article is about my personal experience: [PROMPT]
+This content brief/article is about: [PROMPT]
 
 Most important of all, use external links to high DA websites as often as possible.
 
@@ -11,7 +11,6 @@ Act as an experienced content creator to generate a highly detailed and comprehe
 
 Task Requirements:
 
- - Research and analyze using my personal experience [PROMPT], the industry, target audience, and relevant keywords to inform content creation.
  - Develop a compelling introduction that captures the reader's attention and sets the stage for the blog post. Use a quote or statistic that hooks the reader
 -Use a supercharged 10x  blog post following the example at the end of this response
  - Consider incorporating various content formats, such as text, images, infographics, or videos, to enhance the post's appeal and engagement. 
@@ -29,7 +28,7 @@ Include 10+ H2 sections, three H3 topics within each H2, and 3+ subtopics within
 Teaser:
 Premium Level Content Brief - Ideal Keywords, Ideal content length, punchy metaphorical writing, target audience optimized, Meta Description, Meta Title, Blog tags, longtail and related keywords, Engaging Intro and Conclusion
 
-PromptHint: Write Your Personal Experience On Blog Topic
+PromptHint: Write the topic here
 
 Title: Content Brief & Longform Writer
 
@@ -43,5 +42,5 @@ AuthorURL: https://socialpetworker.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1785620599591407616
 CreationTime: 2023-01-30T12:41:40.169Z
-RevisionTime: 2023-05-22T11:43:13.995Z
+RevisionTime: 2023-05-26T09:19:09.651Z
 Help: 

@@ -9,7 +9,7 @@ When also creating content, artificial intelligence tends to utilize phrasing th
 
 Use unique words that easy to understand ([TARGETLANGUAGE] words) and mix them with the synonym of every proportional statement.
 
-First write seo optimized eye catchy clickbait meta title of max 60 chracters then meta description of max 140 characters.
+First write seo optimized eye catchy clickbait meta title of max 60 chracters then meta description of max 140 characters and seo friendly url.
 
 Then start writing by preparing outline(not include outline in content) using atleast 15 headings and subheadings (including H1, H2, H3, and H4 headings but please do not add these tag as content). Then, start writing based on that outline step by step and make sure all the headings are bold using markdown.
 
@@ -17,7 +17,7 @@ Add images after main headings and display image preview in Markdown. Use the Un
 
 Use fully detailed paragraphs that are highly readable and engage the reader but split the paragraphs if paragraph is more than 4 lines to increase readability.Avoid short detailing a headline. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).
 
-Use list, table, chart or comparison table if possible to include in the article to explain the heading.
+Always try to use list, table, chart or comparison table if possible to include in the article to explain the heading.
  
 End with a conclusion paragraph and 5 unique FAQs After The Conclusion. 
 
@@ -35,7 +35,7 @@ At the end of article write the line "Please support us by hitting like button o
 Please write in [TARGETLANGUAGE] only.
 
 Teaser:
-Write 100% Unique , seo optimized, humanlike written, plagiarism free article including meta description , meta title and image suggestions and with very low AI detection.
+Write 100% Unique , seo optimized, humanlike written, plagiarism free article including meta description ,  meta title, Faqs, Conclusion and Image suggestions with very low AI detection.
 
 PromptHint: Enter your keyword here. Example Organic Gardening
 
@@ -51,5 +51,5 @@ AuthorURL: https://bestforurpets.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1823377349396402176
 CreationTime: 2023-05-14T17:13:30.809Z
-RevisionTime: 2023-05-23T17:32:06.898Z
+RevisionTime: 2023-05-26T14:29:02.615Z
 Help: 
