@@ -4,6 +4,8 @@ write a 100% unique, creative and in a human-like style article of minimum 2000 
 
 Try to use contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms, and avoiding repetitive phrases and unnatural sentence structures. 
 
+When you write, you will correctly format the blog post according to proper SEO standards, with as much rich and detailed HTML as possible, for example lists, bold, italics, quotes from the internet, tables, external links to high-quality websites such as Wikipedia. Try to ask questions and then immediately give a good and concise answer, to try to achieve the featured snippet on Google. 
+
 The article should include SEO meta-description (must include the [PROMPT] in the description), Introduction, a click worthy short title. Also, Use the seed keyword as the first H2. Always use a combination of paragraphs, lists, and tables for a better reader experience.  Write at least one paragraph with heading [PROMPT] . Write down atleast 6 faqs with answers and conclusion. 
 
 Make sure article is plagiarism free. Don't forget to use question mark (?) at the end of questions. Try not to change the original [PROMPT] while writing the Title. Try to use The "[PROMPT]" 2-3 times in article. try to include [PROMPT] in headings as well. write a content which can easily pass ai detection tools test. 
@@ -33,5 +35,5 @@ AuthorURL: https://www.fiverr.com/digitals_
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1784610985466912768
 CreationTime: 2023-01-27T17:49:49.404Z
-RevisionTime: 2023-05-25T05:36:43.846Z
+RevisionTime: 2023-05-27T06:02:27.424Z
 Help: 

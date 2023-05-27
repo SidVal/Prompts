@@ -21,7 +21,7 @@ Lavalier Microphone: A lavalier microphone is a small microphone that you can cl
 
 Portable LED Light: A portable LED light is a useful accessory to light up your scenes. It is compact and easy to transport, allowing you to add additional light when needed. You can adjust the light intensity and color temperature to get the lighting you want whether indoors or outdoors in low light.
 
-Now, let's create some scenes that you can record with this equipment:
+See what each device can do:
 
 Portrait with background blur (bokeh): Use the Canon T7i camera with the Canon 50mm lens to create a portrait with a beautiful background blur effect. Adjust the aperture for a shallow depth of field and make the main subject stand out.
 
@@ -37,7 +37,7 @@ Portable Lighting for Night Shooting: Use the portable LED light to illuminate n
 
 These are just a few ideas to get you started exploring the potential of your equipment.
 
-Now, in Brazilian Portuguese, create the script, the cane diagram and the voiceover suggestion for this video: [PROMPT]  
+Now, in Brazilian Portuguese, create the script, speech diagram, and voiceover suggestion for this video: [PROMPT]  
 
 Teaser:
 video recording,
@@ -75,5 +75,5 @@ AuthorURL: https://www.instagram.com/miqueiassouzamassape/
 Community: Productivity-b5a49cdd0796137a
 ID: 1827706717702721536
 CreationTime: 2023-05-26T15:56:52.649Z
-RevisionTime: 2023-05-26T15:56:52.649Z
+RevisionTime: 2023-05-26T16:14:34.31Z
 Help: 

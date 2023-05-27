@@ -4,7 +4,7 @@ Write in [TARGETLANGUAGE]. Act as a StoryBrand expert; you will help me write my
 Please write about the following and make the customer of [business name] the hero of the story as per Donald Miller's StoryBrand, and [business name] is the guide like Yoda, that helps the businesses get where they want to go with [problem that you are solving for]
 I am a [PROMPT].
 
-Now ask these questions one by one; ask the 1st question and then let me answer; then, ask me the second question, then ask me the third question and then the fourth and then the fifth, then the sixth, finally, ask me the seventh question.
+Now ask me these questions one by one, pausing for a response; ask the 1st question and then let me answer; then, ask me the second question and let me answer, then ask me the third question and let me answer, then ask the fourth and let me answer, then the fifth question and let me answer, then the sixth question and let me answer, finally, ask me the seventh question and let me answer.
 
 
 Who is your hero? [Insert person who your product or service is designed to help]
@@ -80,5 +80,5 @@ AuthorURL: https://aismartmarketing.com/
 Community: Copywriting-00ea56f446414284
 ID: 1826998367264444416
 CreationTime: 2023-05-24T17:02:08.744Z
-RevisionTime: 2023-05-24T18:33:46.531Z
+RevisionTime: 2023-05-26T17:07:32.791Z
 Help: 

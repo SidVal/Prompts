@@ -1,0 +1,24 @@
+Prompt Template:
+your task is to generate creative article with 100% pilgrims free, 100% SEO optimized, [article should be written like as human], [generate Title, Meta tag with SEO], [Include Table of Content] [every article most be more than 4000 words] , [include FAQ's with answer more then 7], [Generate Tag form the article mostly used] [Short Conclusion]. All output should be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Generate Your 100% Unique Creative Article | 100% SEO Optimized | 100 % Pilgrim Free |  Including FAQ's | 100% Rank On google 1st Page | Rich- Content | Pass Ai-Detection | Just in One Click 
+
+PromptHint: [Enter Your Keyword Here]
+
+Title: Article Writer PRO v 4.0
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: The San Info
+AuthorURL: https://thesaninfo.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1827956374785753088
+CreationTime: 2023-05-27T08:28:55.536Z
+RevisionTime: 2023-05-27T09:26:28.661Z
+Help: 

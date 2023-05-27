@@ -133,7 +133,7 @@ Statement by : Robert Kiyosaki :
 Statement : I would never go to school, get a job, work hard, save money, get out of debt, buy a house and invest in the stock market. I do everything exactly opposite. So how do I get rich? I borrow money and I buy assets with it. The poor person borrows money and buys liabilities like purses, cars, houses and they get poorer, and poorer, and poorer.
 
 Calculate Counts of usage of Kinaesthetic, auditory and visual predicates in the statement based on shared list of predicates in framework.
-To fill calculated and filled by GPT , GPT must stick to the list of predicates shared in the prerequisite knowledge only for this:
+To be calculated and filled by GPT , GPT must stick to the list of predicates shared in the prerequisite knowledge only for this:
 Kinaesthetic :
 Visual :
 Auditory :   Breakdown of the words and their meanings based on Meta modelling : 
@@ -249,5 +249,5 @@ AuthorURL: https://www.instagram.com/sensei.bruce/
 Community: Productivity-b5a49cdd0796137a
 ID: 1824891624027852800
 CreationTime: 2023-05-18T21:30:42.015Z
-RevisionTime: 2023-05-22T06:56:15.536Z
+RevisionTime: 2023-05-27T15:58:27.38Z
 Help: 

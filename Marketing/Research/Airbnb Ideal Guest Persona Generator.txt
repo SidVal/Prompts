@@ -23,11 +23,11 @@ Topic: Marketing
 
 Activity: Research
 
-AuthorName: David Scott
-AuthorURL: https://www.linkedin.com/in/david-anthony-scott/
+AuthorName: STR Booster
+AuthorURL: https://www.strbooster.com
 
 Community: Marketing-cc647f5cf02ffd02
 ID: 1799540727504703488
 CreationTime: 2023-03-09T22:35:17.287Z
-RevisionTime: 2023-03-29T08:17:27.316Z
+RevisionTime: 2023-05-27T11:17:22.999Z
 Help: 
