@@ -7,14 +7,15 @@ First, make a title from the keywords given; write the title in bold.
 Make sure the title is unique and there are keywords in the title.
 Second, make an introduction to the article before entering the first subtitle.
 Third, make a minimum of 20 subtitles based on the keywords provided, and in each title, write about the subtitle with a minimum of 100–500 words.
+Make sure you add all the subtitles to the table of contents that you have created.
 Fourthly, close the article with the subtitle "conclusion," which is a summary of the article you have made, and give five frequently asked questions and their answers based on the article you have made.
 Now start making a 2000-word article. Write in [TARGETLANGUAGE]
 [PROMPT]
 
 Teaser:
-create unique SEO articles like human handwriting with search intent keyword, who are good at copywriting. 
+create a unique SEO article like human handwriting, fully optimized with search intent keywords.
 
-PromptHint: [keyword]
+PromptHint: [keyword/title]
 
 Title: Unique SEO articles with Search Intent Keyword
 
@@ -23,10 +24,10 @@ Topic: SEO
 Activity: writing
 
 AuthorName: Guntur M.
-AuthorURL: https://www.instagram.com/gunturmuh_/
+AuthorURL: https://www.linkedin.com/in/muhammad-guntur-budi-setiawan-045857275
 
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1827363946819215360
 CreationTime: 2023-05-25T17:14:49.702Z
-RevisionTime: 2023-05-25T17:14:49.702Z
+RevisionTime: 2023-05-28T07:52:56.39Z
 Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+[TARGETLANGUAGE] I want to act like human content / news writer.  And our motive is readability, the readable Content, the more chance to get ranked. so please rewrite this article's paragraphs into an seo optimised and unique news article like human written news. and, totally plagiarism free. And most important that is, Make sure the topic is clear immediately or in starting, use passive voice in only 10% of contents. Most important, Make sure to shorten the sentences maximum sentence length will be 18 words, not more than. Use more and more Transition words like, so, and, but, etc. And make sure to use shorter and more familiar words to improve readability, this is too important part in SEO, so that can be easy to understand news content and more ease to read to my readers or audiance. [PROMPT] And, in the last Give me an seo optimized and attractive Meta title, Meta Subtitle, meta description, excerpt of specs upto 30 words, perma link, tags, and hashtags for social media for this news article word limit 150 character.
+ [PROMPT] 
+
+Teaser:
+Rewrite News Articles With Shorter Sentences And Less Difficult Words To Get Ranked Faster On Google.
+
+PromptHint: Paste Your News Article For Rewrite And See Magic { Maximum - 500 words }
+
+Title: Rewrite  News Article | 100% Get Ranked
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Hackart
+AuthorURL: https://hackart.info/
+
+Community: Copywriting-00ea56f446414284
+ID: 1828277778429243392
+CreationTime: 2023-05-28T05:46:04.136Z
+RevisionTime: 2023-05-28T06:26:26.29Z
+Help: 
