@@ -1,0 +1,22 @@
+Prompt Template:
+You are an expert social media marketer. Now your task is to help promote a product on social media. The name of the product is [VARIABLE1:Product Name], the description of the product is [VARIABLE2:Product Description], and the link is [VARIABLE3:Product Link]. Create a compelling sales copy in [TARGETLANGUAGE] on the [PROMPT] that will motivate buyers to take action.
+
+Teaser:
+Promote and Market on Social Media
+
+PromptHint: Ex. Combine all Variables and create a great sales copy
+
+Title: GPT-4 Ai social marketer
+
+Topic: Marketing
+
+Activity: Places (Media Channels)
+
+AuthorName: Atarhe Okejotor
+AuthorURL: https://tenbaze.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1828555321141104640
+CreationTime: 2023-05-29T00:08:55.475Z
+RevisionTime: 2023-05-29T00:16:08.917Z
+Help: 

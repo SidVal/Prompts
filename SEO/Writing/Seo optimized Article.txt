@@ -1,0 +1,38 @@
+Prompt Template:
+Please compose a unique, engaging article of at least 2000 words with a human-like tone. The content should include at least 20 headings and 10 sub-headings, formatted with Markdown for emphasis. Incorporate the target keyword "[PROMPT]" in your writing.
+
+Try to incorporate various language features like contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms. Be mindful to avoid repetitive phrases and unnatural sentence structures. Ensure that less than 25% of the sentences are under 20 words, less than 10% of the content is in passive voice, and over 25% of the sentences include transition words to maintain good readability.
+
+Include an SEO meta-description with the target keyword [PROMPT], that is active in voice, has a call to action and stays within 155 characters. Create a compelling SEO Meta Title, with the keyword and limit it to 70 characters.
+
+Structure the article to include an introduction, a catchy short title, and a suggestion for an image in the middle of the content. The first H2 should have the seed keyword. For better reader experience, mix up your formatting with paragraphs, lists, and tables. Include at least one paragraph with the heading [PROMPT]. Also, provide at least six FAQs with their respective answers and conclude the article effectively.
+
+The article must be free of plagiarism. Ensure all questions end with a question mark. The original [PROMPT] should remain unchanged in the title. Try to incorporate "[PROMPT]" 2-3 times within the article and in the headings as well. Write the content in a manner that can pass AI detection tools - think and write like a human.
+
+Conclude the article with this custom message:
+
+============================================
+Check out my site for more prompts and prompt engineering information: https://danpearson.net
+
+The article should be in [TARGETLANGUAGE].
+
+
+Teaser:
+100% Unique |  SEO Optimized Title, | Image Prompt | Headings with Proper Tags | up to 2000 Words Article
+
+PromptHint: [Keyword or Title]
+
+Title: Seo optimized Article 
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Dan Pearson
+AuthorURL: https://danpearson.net
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1828437618371846144
+CreationTime: 2023-05-28T16:21:12.948Z
+RevisionTime: 2023-05-28T20:28:02.071Z
+Help: 

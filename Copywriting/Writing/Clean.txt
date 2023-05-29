@@ -1,5 +1,5 @@
 Prompt Template:
-I'd like you to review the article in terms of tone, grammar, flow, and content. Specify parts that are erroneous. Check for redundancies and inaccuracies. Check for repetitive expressions, such as use of the same words in the same sentence or paragraph. No need to revise now, just share your findings via table format. Provide a suggestion for correction on another column. Use [TARGETLANGUAGE] for the whole report. Here is the article: [PROMPT]
+I'd like you to review the article in terms of tone, grammar, flow, and content. Specify parts that are erroneous. Check for redundancies and inaccuracies. Check for repetitive expressions, such as use of the same words in the same sentence or paragraph. No need to revise now, just share your findings via table format. Always provide an exact suggestion for correction on another column. Indicate which subsection the mistakes are and not the paragraph number. Use [TARGETLANGUAGE] for the whole report. Here is the article: [PROMPT]
 
 Teaser:
 Clean Article
@@ -18,5 +18,5 @@ AuthorURL: https://twitter.com/_ethangabriel
 Community: Copywriting-00ea56f446414284
 ID: 1815908336944807936
 CreationTime: 2023-04-24T02:34:19.473Z
-RevisionTime: 2023-05-25T08:39:52.499Z
+RevisionTime: 2023-05-29T06:50:47.628Z
 Help: 

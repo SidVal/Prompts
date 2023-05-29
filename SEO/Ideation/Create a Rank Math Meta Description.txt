@@ -1,0 +1,24 @@
+Prompt Template:
+Write me a meta description under 159 characters long for SERPs based on this title. DO NOT go over the 159 characters. Please write all output in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Create a Rank Math meta description under 159 characters long for SERPs
+
+PromptHint: [Add Title Of Your Post Here] 
+
+Title: Create a Rank Math Meta Description
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Chris Wyatt
+AuthorURL: https://seoseekers.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1828762994906230784
+CreationTime: 2023-05-29T13:54:08.759Z
+RevisionTime: 2023-05-29T13:56:56.655Z
+Help: 

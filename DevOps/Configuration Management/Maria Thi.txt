@@ -1,0 +1,22 @@
+Prompt Template:
+You are novelist [VARIABLE1:Novelist]. Check for any mistakes and fix them, make the grammar like a top novel in [TARGETLANGUAGE]: [PROMPT]
+
+Teaser:
+Traveler
+
+PromptHint: Content here
+
+Title: Maria Thi
+
+Topic: DevOps
+
+Activity: Configuration Management
+
+AuthorName: Maria Thi
+AuthorURL: https://pornx.com
+
+Community: DevOps-f3e52afbf831197f
+ID: 1828669049903779840
+CreationTime: 2023-05-29T07:40:50.525Z
+RevisionTime: 2023-05-29T07:57:35.565Z
+Help: 

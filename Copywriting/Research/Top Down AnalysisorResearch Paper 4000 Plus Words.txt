@@ -1,0 +1,35 @@
+Prompt Template:
+your task is to create a top down analysis using a keyword or phrase to generate as many  categories as necessary.  List all categories first. Use a taxonomical approach. make sure to use indentation. (when making categories do not  be redundant). Then take Each category from the resulting output  to generate as many  sub-categories as necessary. Use these sub-categories to generate as many sub-sub-categories as necessary. 
+
+DO ALL THIS WORK INTERNALLY  THEN OUTPUT AN OUTLINE CONTAINING ALL THIS INFORMARION (make sure outline is properly indented) AFTER THE OUTLINE PROCEED TO Provide an in-depth multi-page report on [PROMPT] based on the outlined categories and sub-categories. 
+
+COALESCE ALL THE IDEAS  INTO AN UNDERGRADUATE LEVEL RESEARCH PAPER WITH A MINIMUM 4000 WORDS APPROXIMATELY WITH A TABLE OF CONTENTS.
+
+ DO NOT COUNT THE WORDS IN THE OUTLINE  OR TABLE OF CONTENTS TOWARDS THE 4000 PLUS WORD REPORT. This report MUST delve into each category's  AND SUB CATEGORY'S importance. Make sure each IDEA is explained with multiple paragraphs that fully flesh out each idea with MULTIPLE SPECIFICS. MAKE SURE NOT TO USE THE WORDS CATEGORIES OR SUBCATEGORIES. 
+
+MAKE SURE THE OUTPUT IS IN A DOCUMENT FORMAT WITH NO SOFTWARE REFERENCES OR SNIPPETS UNLESS IT IS  A SOFTWARE RELATED PROMPT.
+
+SINCE THIS IS GOING TO BE ATLEAST 4000 WORDS YOU MIGHT HAVE TO BREAK UP THE DOCUMENTS INTO PIECES DEPENDING ON GPT OUTPUT LIMITS.
+
+ The output shall be in [TARGETLANGUAGE] . The text to use is this: [PROMPT]
+
+Teaser:
+Create a top down analysis from a single keyword or phrase. It creates categories then sub categories, then sub sub categories. It will first create an outline then generate an in-depth under graduate level report.
+If you like it, please give me a thumbs up! Blessings to  all.
+
+PromptHint: Input  [text that you want a top down analysis of] Try to narrow it down as specific as you can so that this doesn't blow up. LOL Try it , you'll see :-)
+
+Title:  Top Down Analysis/Research Paper 4000 Plus Words
+
+Topic: Copywriting
+
+Activity: Research
+
+AuthorName: The Bronx Texan
+AuthorURL: https://free-energy-info.net
+
+Community: Copywriting-00ea56f446414284
+ID: 1828537174069608448
+CreationTime: 2023-05-28T22:56:48.876Z
+RevisionTime: 2023-05-29T15:37:22.583Z
+Help: 

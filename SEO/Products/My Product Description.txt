@@ -1,0 +1,44 @@
+Prompt Template:
+Generate a 100-200 words description for a product with headings & sub headings. [PROMPT] [TARGETLANGUAGE]
+
+
+Durability: Write how durable product is how we can make it more durable.
+
+Comfort: Write about comfort of the product you can check the product title to write it.
+
+Style:  Write about Style of the product you can check the Style mentioned in the content above to write about style of product.
+Protection: Write how to protect the product
+Timeless: 
+Easy to maintain: 
+
+Use emotional language: Use language that speaks to your customers' emotions and aspirations. Use words like "luxurious," "exclusive," and "premium" to convey the value of your product. 
+
+Include social proof: Include customer reviews or testimonials to build trust and credibility. For example, "Our customers rave about how our skincare products have transformed their skin. Here's what they have to say..." 
+
+Use bullet points: also summaries the description in bullet points.
+
+Related Products, I'll put the products URLs, and you need to generate anchor html anchor tags of the products, add link of the product in href and in anchor add title after / of the domain name.
+
+
+Teaser:
+Write Product Description for Products
+
+Describe the product and its features in a clear and concise manner. Include details such as color [White, Black] , size [Small, Medium, Large, Extra Large], materials [Cotton & Polyster], and any other relevant specifications. 
+
+
+PromptHint: [Enter Product Title]
+
+Title: My Product Description
+
+Topic: SEO
+
+Activity: Products
+
+AuthorName: Amir Ali
+AuthorURL: https://aamirali.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1821528729487405056
+CreationTime: 2023-05-09T14:47:45.477Z
+RevisionTime: 2023-05-29T12:59:38.866Z
+Help: 

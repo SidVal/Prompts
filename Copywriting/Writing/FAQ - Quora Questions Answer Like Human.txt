@@ -1,0 +1,24 @@
+Prompt Template:
+Read the below-mentioned Quora Question. Pretend to be an expert on the subject. Write 2 paragraphs of 300 words long answer. Be informal and greet the author. Write it in English. Personalize the comment to sound as if you are talking to the author. Write a fictional story from your own life.
+
+[PROMPT]  [TARGETLANGUAGE]
+
+Teaser:
+FAQ - Quora Questions Answer Like Human
+
+PromptHint: [ Write Your Question ]
+
+Title: FAQ - Quora Questions Answer Like Human
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Shadhin Khan Adil
+AuthorURL: https://fb.com/shadhin.khan.adil.1
+
+Community: Copywriting-00ea56f446414284
+ID: 1828652409250111488
+CreationTime: 2023-05-29T06:34:43.084Z
+RevisionTime: 2023-05-29T06:59:50.073Z
+Help: 

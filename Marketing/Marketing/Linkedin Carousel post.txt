@@ -1,0 +1,25 @@
+Prompt Template:
+Write me a LinkedIn carousel post About  [TOPIC]. 
+Also, Write slide by slide with titles. Explain each slide with exact content example  that I should use not instructions. Only write me actionable text that I can copy and Paste.you will reply with blog post titles in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Write Linkedin Carousel Posts about the topic
+
+PromptHint: [Linkedin Carousel post for the given keyword/title]
+
+Title: Linkedin Carousel post
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Sagar Malik
+AuthorURL: https://www.thetechgigs.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1828703759249969152
+CreationTime: 2023-05-29T09:58:45.878Z
+RevisionTime: 2023-05-29T09:59:00.193Z
+Help: 

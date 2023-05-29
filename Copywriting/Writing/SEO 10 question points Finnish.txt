@@ -1,0 +1,22 @@
+Prompt Template:
+Kirjoita minulle 10 tärkeintä kysymystä netistä, jotka koskevat antamaani aihetta [PROMPT] . Käytä  [TARGETLANGUAGE] suomea. 
+
+Teaser:
+Give a keyword and ChatGBT gets in Finnish 10 most asked question from net. 
+
+PromptHint: Content keyword
+
+Title: SEO 10 question points Finnish
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Miika / Slogan
+AuthorURL: https://www.slogan.fi/
+
+Community: Copywriting-00ea56f446414284
+ID: 1827666899996246016
+CreationTime: 2023-05-26T13:18:39.368Z
+RevisionTime: 2023-05-29T11:24:37.686Z
+Help: 

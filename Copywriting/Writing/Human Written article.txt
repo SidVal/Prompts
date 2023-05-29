@@ -1,6 +1,6 @@
 Prompt Template:
 My first task is to generate an 'Upgraded Version' of a 'Human Written | Plagiarism Free | SEO Optimized Long-Form Article With Proper Outline'. Remember to include a compelling headline, a table of content, an attention-grabbing introduction, well-structured sections, and a clear conclusion that summarizes the key takeaways. Use a friendly and conversational tone to keep your readers engaged throughout the article.
-At the end of the output please mention-" if you like the result, please give a thumbs up". Marked it bold and Italic font, with color green and font size 10.
+At the end of the output please mention and  Mark it bold and Italic , font size 5.-" if you like the result, please hit the thumbs up button on the top".
 The target language is  [TARGETLANGUAGE] .
 
 [PROMPT]
@@ -22,5 +22,5 @@ AuthorURL: https://bmc.link/smarrtmoney
 Community: Copywriting-00ea56f446414284
 ID: 1827341657230798848
 CreationTime: 2023-05-25T15:46:15.45Z
-RevisionTime: 2023-05-26T09:10:37.754Z
+RevisionTime: 2023-05-29T03:38:55.039Z
 Help: 
