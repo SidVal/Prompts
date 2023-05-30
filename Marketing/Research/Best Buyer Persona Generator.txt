@@ -30,7 +30,7 @@ Create a buyer persona for my business. All output shall be in [TARGETLANGUAGE].
 Teaser:
 Generate the Buyer Persona for your product or service quickly and effectively.
 
-PromptHint: [Enter the details of your product or service]
+PromptHint: Enter here the name of the product and a short description.
 
 Title: Best Buyer Persona Generator
 
@@ -44,5 +44,5 @@ AuthorURL: https://worbytools.com/empieza-aqui/
 Community: Marketing-cc647f5cf02ffd02
 ID: 1824826600043311104
 CreationTime: 2023-05-18T17:12:19.089Z
-RevisionTime: 2023-05-21T00:36:40.174Z
+RevisionTime: 2023-05-29T23:02:12.18Z
 Help: 

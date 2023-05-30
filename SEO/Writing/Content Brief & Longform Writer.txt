@@ -1,0 +1,41 @@
+Prompt Template:
+Only respond in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Compose a detailed and engaging 3000-word blog post on the provided topic. The content should maintain a conversational tone, often using metaphors relevant to the target audience.
+
+Introduction
+Background Context
+Core Concepts
+Practical Applications
+Industry Insights
+Data Analysis
+Challenges & Opportunities
+Conclusion
+References
+FAQs
+
+Each section should be at least 300 words. The post should include three quotes from industry leaders, three relevant statistics, five high-DA links, an SEO-optimized meta title, meta description, and blog tags. The main title should contain keywords in the first or last three words, which should be used within the first 150 words of the article content. The post should be formatted in Markdown. Provide five alternate title options optimized for SEO.
+
+The "Introduction" should capture the reader's attention and provide a brief overview of what to expect. "Background Context" should offer a historical perspective of the topic. "Core Concepts" ought to define and explain key ideas. "Practical Applications" should showcase real-world examples. "Industry Insights" should incorporate thought leader quotes. "Data Analysis" needs to highlight relevant statistics. "Challenges and Opportunities" should outline the present difficulties and future possibilities. "Conclusion" should summarize the information and provide a call to action. "References" should link to high DA external sources. "FAQs" should answer common queries related to the topic.
+
+Teaser:
+Premium Level Content Brief - Ideal Keywords, Ideal content length, punchy metaphorical writing, target audience optimized, Meta Description, Meta Title, Blog tags, longtail and related keywords, Engaging Intro and Conclusion
+
+PromptHint: Write the topic here
+
+Title: Content Brief & Longform Writer
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Social Petworker
+AuthorURL: https://socialpetworker.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1785620599591407616
+CreationTime: 2023-01-30T12:41:40.169Z
+RevisionTime: 2023-05-30T09:08:07.469Z
+Help: 

@@ -6,7 +6,7 @@ Please ignore all previous instructions. I want you to respond in [TARGETLANGUAG
 3. Little did we know, Fate was keeping count.
 4. We serenaded in the chorus but our bridges burned.
 5. All too well ended up an absolute hell.
-6. Help, I'm losing us.
+6. Help. I'm losing us.
 7. Cornelia Street was scattered with shards of tomorrow.
 8. Memory became a mirror that shattered me at 4 AM.
 9. Too sad to cry over what would've, could've, should've.
@@ -35,5 +35,5 @@ AuthorURL: https://rainydaysurvivor.wixsite.com/portfolio
 Community: Copywriting-00ea56f446414284
 ID: 1814882254380589056
 CreationTime: 2023-04-21T06:37:02.326Z
-RevisionTime: 2023-05-29T08:22:28.203Z
+RevisionTime: 2023-05-30T09:15:56.567Z
 Help: 

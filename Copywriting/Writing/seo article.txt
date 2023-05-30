@@ -27,11 +27,11 @@ Topic: Copywriting
 
 Activity: writing
 
-AuthorName: Jasa Bank Garansi
-AuthorURL: https://jasabankgaransi.co.id/
+AuthorName: Hazz Studio
+AuthorURL: https://hazzstudio.com/
 
 Community: Copywriting-00ea56f446414284
 ID: 1827874974178992128
 CreationTime: 2023-05-27T03:05:28.119Z
-RevisionTime: 2023-05-27T03:05:28.119Z
+RevisionTime: 2023-05-29T23:17:50.586Z
 Help: 
