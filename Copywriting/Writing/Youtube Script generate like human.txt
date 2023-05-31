@@ -1,0 +1,22 @@
+Prompt Template:
+sử dụng [PROMPT] để viết kịch bản lời thoại cho ý tưởng sau đây sử dụng tiếng [TARGETLANGUAGE]  ( lời thoại phải bao gồm các keyword tốt liên quan ), Note và hướng dẫn ở mỗi đoạn chuyển cảnh trong video, Script sử dụng tone Nam, 40 tuổi,  viết thật chi tiết và tự nhiên như 1 youtuber chân thành, vui vẻ,Script đủ dài để tạo video 10 phút, Script bao gồm các lời chào hỏi, giới thiệu về mục đích của video, sau đó hướng dẫn chi tiết từng bước cụ thể, xen kẻ là giải thích các kiến thức khác liên quan đến chủ đề video. Sử dụng giọng điệu tự nhiên như đang trò chuyện thực sự với con người, kêu gọi hành động like, subcrible ở cuối script để xem video tiếp theo về chủ đề khác. 
+
+Teaser:
+Write Youtube Script from an ideal for anything
+
+PromptHint: Type your keyword, your ideals to start
+
+Title: Youtube Script generate like human
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: jimmynguyen
+AuthorURL: https://mmozonetips.com/category/udemy/
+
+Community: Copywriting-00ea56f446414284
+ID: 1829267622194319360
+CreationTime: 2023-05-30T23:19:21.28Z
+RevisionTime: 2023-05-30T23:44:57.959Z
+Help: 

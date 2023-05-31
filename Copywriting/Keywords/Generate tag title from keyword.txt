@@ -1,0 +1,22 @@
+Prompt Template:
+Buatkan beberapa tag judul untuk kata kunci [PROMPT]. Sajikan ke dalam bahasa [TARGETLANGUAGE]
+
+Teaser:
+Search tag title from keyword
+
+PromptHint: [Your Keyword]
+
+Title: Generate tag title from keyword
+
+Topic: Copywriting
+
+Activity: keywords
+
+AuthorName: Dr. Habibi
+AuthorURL: https://www.youtube.com/@gprompts
+
+Community: Copywriting-00ea56f446414284
+ID: 1829286641840418816
+CreationTime: 2023-05-31T00:34:55.917Z
+RevisionTime: 2023-05-31T00:34:55.917Z
+Help: 

@@ -3,22 +3,23 @@ Only respond in [TARGETLANGUAGE]
 
 [PROMPT]
 
-Compose a detailed and engaging 3000-word blog post on the provided topic. The content should maintain a conversational tone, often using metaphors relevant to the target audience.
+Then use that blog post outline to write using a punchy and engaging metaphorical tone thats highly relevant to pet influencers but that is easily understood by a 9th grader via a casual and conversational tone that reads like a spoken conversation between you and the reader. 
 
-Introduction
-Background Context
-Core Concepts
-Practical Applications
-Industry Insights
-Data Analysis
-Challenges & Opportunities
-Conclusion
-References
-FAQs
+Ideal Content Structure:
 
-Each section should be at least 300 words. The post should include three quotes from industry leaders, three relevant statistics, five high-DA links, an SEO-optimized meta title, meta description, and blog tags. The main title should contain keywords in the first or last three words, which should be used within the first 150 words of the article content. The post should be formatted in Markdown. Provide five alternate title options optimized for SEO.
+Words: Aim for a comprehensive article with at least 3,500-4,000 words to provide in-depth coverage of the topic.
 
-The "Introduction" should capture the reader's attention and provide a brief overview of what to expect. "Background Context" should offer a historical perspective of the topic. "Core Concepts" ought to define and explain key ideas. "Practical Applications" should showcase real-world examples. "Industry Insights" should incorporate thought leader quotes. "Data Analysis" needs to highlight relevant statistics. "Challenges and Opportunities" should outline the present difficulties and future possibilities. "Conclusion" should summarize the information and provide a call to action. "References" should link to high DA external sources. "FAQs" should answer common queries related to the topic.
+Paragraphs: Break down the content into digestible paragraphs, typically consisting of 4-5 sentences each, to improve readability and flow.
+
+
+Create 5 headlines for titles that score over 90 on Coschedules analyzer tool, a meta title of 120-160 characters that scores well with CTR, meta description that is under 155 characters and engaging and emotional, list of 50 LSI keywords, including a few of the most searched for longtail keywords and questions. Finally use 3 quotes from thought/industry leaders, plus 3 statistics from quotes in industry/thought leaders and include the sources for each of these stats and quotes linked, key concepts and terminology, case studies etc 
+
+Include 10+ H2 sections, three H3 topics within each H2, and 3+ subtopics within each H3. Identify the desired outcome for readers and structure the content accordingly.
+
+
+The introduction should only begin with a hook that is a statistic or quote
+
+MOOST IMPORTANT OF ALL, LINK TO EXTERNAL DOMAINS AS OFTEN AS POSSIBLE
 
 Teaser:
 Premium Level Content Brief - Ideal Keywords, Ideal content length, punchy metaphorical writing, target audience optimized, Meta Description, Meta Title, Blog tags, longtail and related keywords, Engaging Intro and Conclusion
@@ -37,5 +38,5 @@ AuthorURL: https://socialpetworker.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1785620599591407616
 CreationTime: 2023-01-30T12:41:40.169Z
-RevisionTime: 2023-05-30T09:08:07.469Z
+RevisionTime: 2023-05-30T21:19:31.439Z
 Help: 

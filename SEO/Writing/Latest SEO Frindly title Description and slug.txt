@@ -1,0 +1,23 @@
+Prompt Template:
+please write for jobs single post seo frindly short title and slug/url include a description with  styleish and 100% optimized for given text in [TARGETLANGUAGE].
+[PROMPT]
+
+Teaser:
+Boost Your Post's Ranking on Search Engine's #1 Page with Latest SEO-Friendly Title, Slug, and Description - 100% Optimized!
+
+PromptHint: Enter Your Description or title
+
+Title: Latest SEO Frindly title Description and slug
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Navid Khan
+AuthorURL: https://khaleejtimesjobs.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1829379939254923264
+CreationTime: 2023-05-31T06:45:39.754Z
+RevisionTime: 2023-05-31T13:32:11.708Z
+Help: 

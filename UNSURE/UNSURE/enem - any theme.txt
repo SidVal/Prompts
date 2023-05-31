@@ -1,0 +1,51 @@
+Prompt Template:
+A ideia é escrever redações usando essa mesma estrutura e mudando apenas os temas. De modo a conseguir um modelo pronto pra qualquer tema solicitado. Pra isso, siga essa estrutura mudando apenas os itens entre colchetes, [], não mude nada além dos itens entre colchetes. Use sinônimos para evitar a repetição dos termos tratados ao longo do texto, ou seja, se uma palavra já tiver sido usada mais de uma vez por exemplo "Amazônia" use um sinônimo  como, no caso da palavra Amazônia, "a maior floresta tropical". Siga o modelo:
+
+Tema: [Tema solicitado]
+
+No "[nome do filme ou evento histórico relacionado ao tema, não use documentários]", [breve detalhamento]. A obra aborda [relacione a obra com o tema]. [use o termo "Fora da ficção" se for filme e o termo "Hodiernamente" somente se for evento histórico], no Brasil, de forma análoga, [afirme, usando outras palavras, que o tema é um problema social pertinente] e que causa [cite o prejuízo social que ele causa]. Assim, entre os fatores que aprofundam esse cenário, estão a falha educacional e a ineficiência do poder público. 
+A princípio, percebe-se como a carência de uma [cite a área educacional relacionada ao tema e o que a falta dela causa]. Acerca disso, [cite o nome de um filósofo, sociólogo ou educador relacionado ao tema dentro da esfera educacional], [cite brevemente quem ele é], [cite a obra dele que se relaciona ao tema], [cite como a ideia da obra se relaciona com carência educacional dentro dessa área] . Dentro desse aspecto, infelizmente, [cite a lacuna educacional] implica em lacunas de conhecimento e habilidades, o que, em consequência, [cite a consequência]. Verifica-se, com isso, [cite como as instituições educacionais não ofertam a ideia do pensador], o que, lamentavelmente, [cite como isso afeta o tecido social em tom conclusivo e crítico]. 
+Outrossim, é imperioso destacar a incompetência governamental em relação a esse ambiente insalubre. Isso posto, é evidente que [cite a ausência estatal no tema, como a ausência de investimento brando por exeplo] constitui um agravo para o [complete], que, conforme o 3° capítulo da Constituição Federal de 1988, configura uma [complete com o sentido de incompetência administrativa]. Nisso, Thomas Hobbes, renomado filósofo político, destaca em suas obras o dever do Estado na manutenção da máquina pública - em destaque para [complete com setor lesado da narrativa]. Contudo, a ausência de uma priorização para esse empecilho [área do tema], pelo governo, permite a perpetuação dele no tecido social. Logo, uma vez que a carência de políticas públicas [complete usando com base o tema] é uma realidade negligenciada pelo poder público, a problemática permanece como um vergonhoso atraso para a nação. 
+Portanto, é notável a necessidade de reverter esse cenário de abandono. Desse modo, cabe ao Ministério da Educação, em parceria com o [Ministério relacionado ao tema], prover a [proposta generalista de intervenção]. Tal ação deve ser realizada por meio [meio pelo qual a ação pode ser efetivada] - [dê um breve detalhamento, entre travessões] - e do [cite reforço ou inclusão de matérias relacionada ao tema na Base Nacional Comum Curricular, Base Nacional Comum Curricular é o nome da diretriz que regula as matérias que são ofertadas pela educação básica no Brasil], a fim de [apresente a finalidade desejada sendo ela de reduzir ou diminuir o problema causado pelo tema]. Dessa maneira, os impasses em [nome do filme ou evento histórico citado no início] não mais se tornarão realidade no Brasil.
+
+Por exemplo: 
+Tema: Desafios da Valorização do Professor na Sociedade Brasileira
+
+No filme "Mentes Perigosas", uma professora enfrenta diversos desafios ao lidar com os alunos indisciplinados e com a desvalorização da sua profissão. A obra aborda o papel do professor como agente de transformação social. Fora da ficção, no Brasil, de forma análoga, a valorização e a superação dos entraves do trabalho docente são uma utopia frente aos imbróglios hodiernos. Assim, entre os fatores que aprofundam esse cenário, estão a falha educacional e a ineficiência do poder público. 
+A princípio, percebe-se como a carência de uma educação primária de qualidade gera desafios adicionais para os professores no contexto de sala de aula. Acerca disso, Paulo Freire, um dos mais influentes educadores do século XX, em seu livro "Pedagogia do Oprimido", destaca a sua teoria de educação crítica , em que os estudantes são instigados aos dilemas entendidos como "alicerces" do aprendizado. Dentro desse aspecto, infelizmente, a ausência de uma base educacional sólida implica em lacunas de conhecimento e habilidades, o que, em consequência, demanda esforço adicional dos docentes para nivelar o ensino e garantir a aprendizagem adequada a todos. Verifica-se, com isso, que muitas escolas ainda não são capazes de ofertar essa estratégia educacional, o que, lamentavelmente, sobrecarrega o trabalho docente e reprime a formação cidadã. 
+Outrossim, é imperioso destacar a incompetência governamental em relação a esse ambiente insalubre. Isso posto, é evidente que o investimento insatisfatório em formação continuada dos educadores constitui um agravo para o reconhecimento profissional, que, conforme o 3° capítulo da Constituição Federal de 1988, configura uma quebra dos direitos até então conquistados democraticamente. Nisso, Thomas Hobbes, renomado filósofo político, destaca em suas obras o dever do Estado na manutenção da máquina pública - em destaque para a defesa das profissões. Contudo, a ausência de uma priorização para esse empecilho formativo, pelo governo, permite a perpetuação dele no tecido social. Logo, uma vez que a carência de políticas públicas capacitivas para professores é uma realidade negligenciada pelo poder público, a problemática permanece como um vergonhoso atraso para a nação. 
+Portanto, é notável a necessidade de reverter esse cenário de abandono. Desse modo, cabe ao Ministério da Educação, em parceria com o da Fazenda, prover a qualificação do labor docente e da instrução pública. Tal ação deve ser realizada por meio de incentivos fiscais para a educação continuada - como redução sobre o imposto de renda dos educadores - e do reforço de matérias primárias da Base Nacional Comum Curricular, a fim de reduzir os desafios do ensino e da desvalorização do professor. Dessa maneira, os impasses em "Mentes Perigosas" não mais se tornarão realidade no Brasil.
+
+
+Atenção: Seja objetiva e clara na conclusão. Use sinônimos para evitar repetição de termos entre o paragrafo e seu antecessor. 
+
+Evite o seguinte erro no ultimo paragrafo: 
+"Portanto, é notável a necessidade de reverter esse cenário de adesão ao tabagismo entre os jovens. Desse modo, cabe ao Ministério da Educação, em parceria com o Ministério da Saúde, prover uma educação preventiva abrangente. Tal ação deve ser realizada por meio da inclusão de conteúdos sobre os malefícios do tabagismo na Base Nacional Comum Curricular e da implementação de campanhas de conscientização nas escolas, (utilizando abordagens criativas e interativas). [Além disso, é fundamental fortalecer a fiscalização da venda de produtos de tabaco para menores de idade e investir em programas de cessação do tabagismo direcionados aos jovens]. Dessa maneira, os desafios abordados em "Clube dos Fumantes" não mais se tornarão um desafio para o corpo social brasileiro."
+Note que no exemplo acima o termo entre parênteses está errado pois deve ter sentido de detalhamento, usando palavras como "como", "por exemplo", etc. Além disso, deve estar entre dois travessões "--" e não entre vírgulas.
+Segundo erro a ser evitado: o termo entre colchetes está errado pois nesse local deveria haver menção à finalidade da proposta com uso de palavras que identifiquem esse período como "a fim de" ou "com o fito de". 
+Siga atentamente todas essas instruções.
+
+[TARGETLANGUAGE]
+[PROMPT]
+
+
+
+Teaser:
+enem writing 2 - any theme
+
+PromptHint: [writing]
+
+Title: enem - any theme
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Tiago Soares
+AuthorURL: https://chat.openai.com/?model=text-davinci-002-render-sha
+
+Community: Unsure-f69c57b424376b23
+ID: 1829467062062551040
+CreationTime: 2023-05-31T12:31:51.45Z
+RevisionTime: 2023-05-31T12:31:51.45Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Please WRITE a SEO Friendly Short Title and Slug/URL for the Given Text in [TARGETLANGUAGE]. 
+[PROMPT]
+
+
+Teaser:
+short seo frindly title and url
+
+PromptHint: [Put Here your Title or Description]
+
+Title: Seo frindly Short Title and Slug
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Navid Khan
+AuthorURL: https://khaleejtimesjobs.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1829281481055531008
+CreationTime: 2023-05-31T00:14:25.49Z
+RevisionTime: 2023-05-31T03:22:03.403Z
+Help: 

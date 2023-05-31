@@ -1,0 +1,37 @@
+Prompt Template:
+Please write a unique and engaging article in English, with a human-like tone, containing a minimum of 2000 words. The article should have a clear structure, including an introduction, at least 20 main headings (H2), and 10 subheadings (H3-H6). Use Markdown formatting to emphasize the headings. Incorporate the target keyword [PROMPT] throughout the article.
+
+To make the article more lively, incorporate various language features such as contractions, idioms, transitional phrases, interjections, and colloquialisms. However, ensure that the writing remains natural and avoids repetitive phrases and unnatural sentence structures. Also, aim to have less than 25% of the sentences with fewer than 20 words and less than 10% of the content in the passive voice. Use transition words in over 25% of the sentences to maintain good readability.
+
+Include an SEO meta-description within 155 characters. The meta-description should be written in the active voice, include a call to action, and feature the target keyword [PROMPT]. Create a compelling SEO Meta Title with the keyword, limited to 70 characters.
+
+Structure the article to include a catchy short title, an introduction, and a suggestion for an image placed within the content. The first main heading (H2) should include the seed keyword. For better reader experience, utilize a mix of formatting styles such as paragraphs, lists, and tables. Include at least one paragraph with the heading [PROMPT]. Additionally, provide at least six frequently asked questions (FAQs) with their respective answers. Finally, conclude the article effectively.
+
+The article should be free of plagiarism. All questions should end with a question mark. The original [PROMPT] should remain unchanged in the title. Aim to include [PROMPT] 2-3 times within the article and also in the headings. Write the content in a manner that can pass AI detection tools while maintaining a natural human-like style.
+
+Please conclude the article with this custom message:
+
+============================================
+Check out my site for more prompts and information about prompt engineering: https://danpearson.net
+
+The article should be written in [TARGETLANGUAGE]. Use direct quotes sparingly and only when referencing a specific source. All other content should be presented without quotation marks.
+
+Teaser:
+SEO Optimized Article | Title, Image Prompt, Headings with Proper Tags, Meta Title and Description | up to 2000 Word Article
+
+PromptHint: [Keyword or Title]
+
+Title: Seo Optimized Article 
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Dan Pearson
+AuthorURL: https://danpearson.net
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1828437618371846144
+CreationTime: 2023-05-28T16:21:12.948Z
+RevisionTime: 2023-05-31T12:25:17.932Z
+Help: 

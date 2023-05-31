@@ -1,8 +1,8 @@
 Prompt Template:
-Generate html anchor tags for the follwing products with the anchor of the product name, the product name is start after domain name and after the / of domain name. Add each link in different line. Add a heading in h4 in start of the links "See Similar Products" : [PROMPT] [TARGETLANGUAGE]
+Generate HTML anchor tags for the following products with the anchor of the product name, exctract the product name after the / of domain name. don't add "-" in the anchor text. Capatalise the product name and Add each link in different line.  : [PROMPT] [TARGETLANGUAGE]
 
 Teaser:
-Related Products HTML Links
+Etner the products links in each line and it will generate html tags with anchor text.
 
 PromptHint: [Enter Product Links]
 
@@ -18,5 +18,5 @@ AuthorURL: https://aamirali.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1828869132087726080
 CreationTime: 2023-05-29T20:55:53.835Z
-RevisionTime: 2023-05-29T21:15:45.334Z
+RevisionTime: 2023-05-31T12:28:09.895Z
 Help: 
