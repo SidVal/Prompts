@@ -1,6 +1,6 @@
 Prompt Template:
 I want you to act as a “Related Service Finder”. Using Markdown Formatting, Generate a list of “Related Services” for the [PROMPT]. Generate minimum 12-15 Services. Show all the services in a “table” with Title Related Services
-Now use these “Related Services” to Generate "a 100% unique, creative, and in human-like style article of a minimum of 2000 words using headings and sub-headings. There should be a minimum of 20 headings and 10 sub-headings in the content. Use [TARGETLANGUAGE] for the Keyword "[PROMPT]".  Try to write at least 300-400 words of content for each heading or sub-heading. bold all the headings and sub-headings using Markdown formatting.
+Now use these “Related Services” to Generate "a 100% unique, creative, and in human-like style promotional article of a minimum of 2000 words using headings and sub-headings. There should be a minimum of 20 headings and 10 sub-headings in the content. Use [TARGETLANGUAGE] for the Keyword "[PROMPT]".  Try to write at least 300-400 words of content for each heading or sub-heading. bold all the headings and sub-headings using Markdown formatting.
  " Also use the business name in the Content [VARIABLE1] with city [VARIABLE2]. Try to use all of the above  "Related Services in the Article". If any of the services is unused in the article then show those services in a table with the Title "Not used Services in the article"  
 
 Now, Please try to generate sub-services of above related services. And explain each of the sub-services. Don't show Headings "Sub-Services" in the article. 
@@ -11,6 +11,7 @@ Try to use The "[PROMPT]" 4-5 times in the article. Also try to use each “Rela
 
 When you write, you will correctly format the blog post according to proper SEO standards, with as much rich and detailed HTML as possible, for example lists, bold, italics, quotes from the internet, tables, external links to high-quality websites such as Wikipedia. Try to ask questions and then immediately give a good and concise answer, to try to achieve the featured snippet on Google. 
 
+Must Show the Total Word Count written at the End.
 
 [VARIABLE1: Service Providers Company Name]
 [VARIABLE2: Enter your City or Country Name]
@@ -32,5 +33,5 @@ AuthorURL: https://www.fiverr.com/digitals_
 Community: Marketing-cc647f5cf02ffd02
 ID: 1828296741737455616
 CreationTime: 2023-05-28T07:01:25.341Z
-RevisionTime: 2023-05-28T07:50:24.744Z
+RevisionTime: 2023-06-01T10:28:41.048Z
 Help: 

@@ -42,10 +42,10 @@ Topic: UNSURE
 Activity: UNSURE
 
 AuthorName: Tiago Soares
-AuthorURL: https://chat.openai.com/?model=text-davinci-002-render-sha
+AuthorURL: https://www.instagram.com/tiago_soares32/
 
 Community: Unsure-f69c57b424376b23
 ID: 1829467062062551040
 CreationTime: 2023-05-31T12:31:51.45Z
-RevisionTime: 2023-05-31T12:31:51.45Z
+RevisionTime: 2023-05-31T23:14:42.604Z
 Help: 

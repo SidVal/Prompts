@@ -1,0 +1,24 @@
+Prompt Template:
+ Short Title and Slug and description for google [TARGETLANGUAGE]. 
+[PROMPT]
+
+
+Teaser:
+short seo-friendly title and
+
+PromptHint: [Put Here your Title or Description]
+
+Title: Meta  Title  and description for google
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Navid Khan
+AuthorURL: https://khaleejtimesjobs.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1829281481055531008
+CreationTime: 2023-05-31T00:14:25.49Z
+RevisionTime: 2023-06-01T06:51:29.824Z
+Help: 

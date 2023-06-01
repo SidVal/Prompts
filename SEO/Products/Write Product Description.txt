@@ -6,7 +6,7 @@ note: everytime you give output please do not repeat anything. always gives uniq
 write product description for:  [PROMPT]
 
 product type: hoodie
-write 100-150 words description for following options:
+Summarise the following details in 100-150 words and also include product tile/name there in 2 times:
 material: the hoodies are made from a high-quality blend of cotton and polyester fabric. this combination ensures durability, breathability, and a comfortable fit.
 design: the hoodies feature a classic pullover style with a spacious front pocket and an adjustable drawstring hood. they have a relaxed fit that allows for easy movement and layering.
 colors and patterns: the hoodies are available in a variety of colors, including black, gray, white, red, pink and also available in various different colors. additionally, there are options with various patterns such as stripes, camouflage, embroidered, and graphic prints.
@@ -44,7 +44,7 @@ enjoy the softness, comfort, and style of your “enter product name here”!
 
 product type: t-shirt
 t-shirt specifications:
-write 100-150 words description for following options:
+Summarise the following details in 100-150 words and also include product tile/name there in 2 times:
 material: the t-shirts are made from high-quality 100% cotton fabric. this ensures a soft, comfortable feel against the skin and excellent breathability.
 design: the t-shirts feature a classic crew neck and short sleeves, providing a versatile and timeless look. they have a regular fit that is neither too tight nor too loose.
 colors and patterns: the t-shirts are available in a wide range of colors, including black, white, gray, navy blue, and various vibrant shades. they are also offered with different patterns such as stripes, solid colors, and graphic prints.
@@ -65,7 +65,7 @@ enjoy the softness, comfort, and style of your “enter product name here”!
 
 product type: sweatshirt
 sweatshirt specifications:
-write 100-150 words description for following options:
+Summarise the following details in 100-150 words and also include product tile/name there in 2 times:
 material: sweatshirts are typically made from a soft and cozy blend of cotton and polyester fabric. this combination ensures warmth, comfort, and durability.
 design: sweatshirts are characterized by their long sleeves, crew neck or hood, and ribbed cuffs and hem. they often have a relaxed fit that allows for comfortable layering.
 colors and patterns: sweatshirts are available in a wide range of colors, including neutrals like gray, black, and navy blue, as well as vibrant shades like red, green, or yellow. they may also feature various patterns such as stripes, color blocking, or graphic prints.
@@ -87,7 +87,7 @@ enjoy the softness, comfort, and style of your “enter product name here”!
 
 product type: tracksuit
 tracksuit specifications:
-write 100-150 words description for following options:
+Summarise the following details in 100-150 words and also include product tile/name there in 2 times:
 material: tracksuits are typically made from a durable and lightweight blend of polyester and/or nylon fabric. this fabric combination provides comfort, flexibility, and moisture-wicking properties.
 design: tracksuits consist of a matching set of jacket and pants. the jacket usually features a full-zip or half-zip closure, a stand-up collar, and ribbed cuffs and hem. the pants typically have an elastic waistband with a drawstring and elasticized cuffs.
 colors and patterns: tracksuits come in a variety of colors, ranging from classic neutrals to vibrant hues. they may also feature patterns such as stripes, color blocking, or subtle graphic designs.
@@ -107,7 +107,7 @@ enjoy the softness, comfort, and style of your “enter product name here”!
 
 product type: sweatpant
 sweatpants specifications:
-write 100-150 words description for following options:
+Summarise the following details in 100-150 words and also include product tile/name there in 2 times:
 material: sweatpants are typically made from a soft and cozy blend of cotton and polyester fabric. this combination ensures comfort, breathability, and flexibility.
 design: sweatpants feature an elasticized waistband with a drawstring for adjustable fit. they have a relaxed and loose fit, providing freedom of movement. the pants often have elasticized cuffs at the ankles for a secure and comfortable fit.
 colors and patterns: sweatpants come in a variety of colors, including neutrals like gray, black, and navy blue, as well as vibrant shades. they may also feature patterns such as stripes, color blocking, or graphic prints.
@@ -142,5 +142,5 @@ AuthorURL: https://aamirali.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1829213472152608768
 CreationTime: 2023-05-30T19:44:10.904Z
-RevisionTime: 2023-05-31T12:28:57.997Z
+RevisionTime: 2023-06-01T10:10:12.023Z
 Help: 

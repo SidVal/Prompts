@@ -1,0 +1,22 @@
+Prompt Template:
+rewrite this article in your own words dont copy content from given article, make a very high SEO Optimized article 100% human writing style must rank high on google search, use H1 H2 H3 H4 etc in the article ane make article unique, provide high SEO title in start, then high SEO meta description, then focus keyword of the article, then write the article, also use high search volume keywords, this is the article [PROMPT][TARGETLANGUAGE] 
+
+Teaser:
+Write high SEO Articel to get rank high in google search.
+
+PromptHint: Paste article here
+
+Title: High SEO Article Rewriter
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: waqas
+AuthorURL: https://www.scholarhunter.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1829535364268941312
+CreationTime: 2023-05-31T17:03:15.965Z
+RevisionTime: 2023-05-31T19:33:22.748Z
+Help: 

@@ -5,7 +5,7 @@ Eu quero que você escreva 5 sugestões de títulos utilizando a palavra-chave. 
 
 Informe qual título você recomenda e dê seus motivos.
 
-Faça uma descrição de 1000 palavras para o vídeo com o título sugerido utilizando técnicas de SEO para a palavra-chave informada. Repita a palavra-chave 5 vezes. Escreva esse texto corrido, sem listas.
+Faça uma descrição de 500 palavras para o vídeo com o título sugerido utilizando técnicas de SEO para a palavra-chave informada. Repita a palavra-chave 5 vezes. Escreva esse texto corrido, sem listas.
 
 Convide o espectador para assistir os outros vídeos do canal.
 
@@ -39,5 +39,5 @@ AuthorURL: https://biffi.com.br
 Community: Copywriting-00ea56f446414284
 ID: 1803885541767507968
 CreationTime: 2023-03-21T22:20:01.73Z
-RevisionTime: 2023-03-27T12:38:09.729Z
+RevisionTime: 2023-05-31T18:49:04.675Z
 Help: 
