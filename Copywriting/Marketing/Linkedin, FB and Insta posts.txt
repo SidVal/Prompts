@@ -1,0 +1,22 @@
+Prompt Template:
+Create three different posts for Instagram, Linkedin and Facebook, post including emoticons. each post should be 100 words max including  bullet proof in [TARGETLANGUAGE] including hastags about [PROMPT] [Plagiarism FREE] [SEO FRIENDLY]
+
+Teaser:
+Create 3 social media posts for Linkedin, instagram and facebook with hashtags and maximum 100 words by post, SEO + - Plagiarism free
+
+PromptHint: topic and Keywords
+
+Title: Linkedin, FB and Insta posts
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Thomas Petyt
+AuthorURL: https://phmedia.ca
+
+Community: Copywriting-00ea56f446414284
+ID: 1829940803817181184
+CreationTime: 2023-06-01T19:54:20.286Z
+RevisionTime: 2023-06-02T12:56:26.989Z
+Help: 

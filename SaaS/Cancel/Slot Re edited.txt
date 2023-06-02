@@ -20,7 +20,7 @@ write a quick overview of the game, must include a Catchy CTA inviting to join o
 Include 10 Game Characteristics for game review.
 
 <H2> How to Play + first keyword </H2>
-In this section, the idea is to talk a little bit about how to play the game, but the main objective is to include the first keyword . 
+In this section, the idea is to talk about how to play the game, but the main objective is to include the first keyword . 
 
 A little talk about how the game works. You can talk about the rules of the game as well
 
@@ -35,11 +35,11 @@ Some of the symbols pay higher than others, and we shall reveal the value of eac
 
 <H3> Bet Sizes & Paytable Wins </H3>
 
-In this section, develop a topic related to the first keyword. Include a HTML table for the paytables of the game.
+In this section, develop a topic related to the first keyword. Include a HTML table for the complete paytable of the game.
 
 <H2> First keyword + Bonus Features </H2>
 
-In this section, develop the topic of the bonus features related to the first keyword. Put in bolt the Bonus feature and then the explanation. Extend all you can about it and be positive if there are none. 
+In this section, develop the topic of the bonus features related to the first keyword. Put in bolt the Bonus feature and then the explanation. Elaborate all you can about it and be positive if there are none. 
 
 <H3> First keyword +  “FAQs” </H3>
 
@@ -47,7 +47,7 @@ Create 5 completed FAQs related to this page, using the first keyword, related t
 
 <H3> Conclusion </H3>
 
-In this section, create a conclusion for all the previous content created. 
+In this section, create an elaborate conclusion for all the previous content created. 
 
 
 Teaser:
@@ -67,5 +67,5 @@ AuthorURL: https://chat.openai.com/
 Community: SaaS-84c5d6a7b8e9f0c2
 ID: 1819762269677150208
 CreationTime: 2023-05-04T17:48:28.639Z
-RevisionTime: 2023-05-26T16:29:54.66Z
+RevisionTime: 2023-06-01T18:44:55.947Z
 Help: 

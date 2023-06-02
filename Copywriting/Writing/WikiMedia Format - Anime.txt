@@ -1,0 +1,27 @@
+Prompt Template:
+saya akan membuat artikel dengan format penulisan mediawiki seperti wikipedia tentang anime
+dan buatlah alur cerita animenya dari awal sampai akhir  dengan panjang minimal cerita 500 kata,studio,semua karakter anime,pengisi suara, judul musik,refrensi sumber serta refrensi anime seperti myanimelist dan lainya dan buat red text untuk memasukan artikel lainnya agar artikel lebih dari 1000 kata dengan informasi tentang anime lengkap dan format penulisan pada gambar mirip seperti wikipedia lengkap dengan nama studio dll ,
+jangan lupa buatkan dengan format mediawiki dan buat alur cerita anime sepanjang mungkin dari awal hingga akhir anime dan buat kategori 
+buat dengan judul anime [PROMPT]
+gunakan bahasa [TARGETLANGUAGE]
+jangan tambahkan infobox
+
+Teaser:
+WikiMedia Format - Anime
+
+PromptHint: Anime Title
+
+Title: WikiMedia Format - Anime
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Wikipro Global Ensiklopedia
+AuthorURL: https://akunpro.ac.id/
+
+Community: Copywriting-00ea56f446414284
+ID: 1830129012677279744
+CreationTime: 2023-06-02T08:22:12.775Z
+RevisionTime: 2023-06-02T08:32:32.64Z
+Help: 

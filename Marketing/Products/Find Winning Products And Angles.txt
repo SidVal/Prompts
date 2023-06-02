@@ -43,7 +43,7 @@ My first task is the prompt to find dropshipping winning products. The target la
 Teaser:
 Find winning Dropshipping products, 5 Different marketing angle for your products, and creative ad copy headline and call to action
 
-PromptHint: [Enter Your Niche]
+PromptHint: Enter[Find me A Winning Product]
 
 Title: Find Winning Products And Angles
 
@@ -57,5 +57,5 @@ AuthorURL: https://dgilabs.com
 Community: Marketing-cc647f5cf02ffd02
 ID: 1829576753753096192
 CreationTime: 2023-05-31T19:47:43.987Z
-RevisionTime: 2023-05-31T20:04:59.918Z
+RevisionTime: 2023-06-02T12:04:59.588Z
 Help: 

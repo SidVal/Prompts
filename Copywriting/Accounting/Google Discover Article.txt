@@ -4,8 +4,8 @@ Crea un artículo en [TARGETLANGUAGE] optimizado en SEO para Google Discover de 
 - Analiza el siguiente texto: [PROMPT].
 - Crea el título optimizado para Google Discover de 12 a 15 palabras.
 - Crea una bajada de título de 35 palabras.
-- El artículo debe tener 2 o más titulares de preguntas que expandan la idea central con 2 o más párrafos en cada titular.
-- Cada párrafo debe tener de 30 a 50 palabras.
+- El artículo debe tener 3 o más titulares de preguntas que expandan la idea central con 3 o más párrafos en cada titular.
+- Cada párrafo debe tener de 50 a 80 palabras.
 - Al final del artículo escribe un texto de datos curiosos acerca del titular.
 - Resalta con negrita las ideas más relevantes en el artículo.
 - Crea 8 etiquetas al final del artículo separadas por coma.
@@ -29,5 +29,5 @@ AuthorURL: https://redimin.cl
 Community: Copywriting-00ea56f446414284
 ID: 1827492473677803520
 CreationTime: 2023-05-26T01:45:32.893Z
-RevisionTime: 2023-05-26T01:45:32.893Z
+RevisionTime: 2023-06-01T16:07:38.603Z
 Help: 

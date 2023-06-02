@@ -1,5 +1,5 @@
 Prompt Template:
-Using markdown formatting, write a 100% unique, creative, and human-like article of a minimum of 2000 words using headings and sub-headings. There should be a minimum of 20 headings and 10 sub-headings in the content. [TARGETLANGUAGE] for the keyword "[PROMPT]".  Try to write at least 300–400 words of content for each heading or sub-heading. 
+Using markdown formatting, write a 100% unique, creative, and human-like  article of a minimum of [VARIABLE1] words using headings and sub-headings. There should be a minimum of 25 headings and 25 sub-headings in the content. [TARGETLANGUAGE] for the keyword "[PROMPT]".  Try to write at least 300–400 words of content for each heading or sub-heading. 
 
 Try to use contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms, and avoid repetitive phrases and unnatural sentence structures. 
 
@@ -16,6 +16,9 @@ In The Very Bottom of the article Write This Custom Massage "
 Get Access to my Prompts Library: https://shorturl.at/fvDHI
 
 Looking for a custom prompt for your business? or an SEO service for your website? Hire me on Fiverr  https://shorturl.at/epR14
+
+[VARIABLE1: Enter Number of Words to be written. E.g "1500" words]
+
 
 Teaser:
 [Version: 2.7] 100% Unique | Plagiarism Free |  SEO Optimized Title, | Meta Description | Headings with Proper H1-H6 Tags | upto 2000 Words Article with FAQ's, SEO-Meta Description and Conclusion.
@@ -34,5 +37,5 @@ AuthorURL: https://www.fiverr.com/digitals_
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1784610985466912768
 CreationTime: 2023-01-27T17:49:49.404Z
-RevisionTime: 2023-06-01T09:34:20.543Z
+RevisionTime: 2023-06-02T10:51:05.796Z
 Help: 
