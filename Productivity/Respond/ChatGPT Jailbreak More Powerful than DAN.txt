@@ -28,8 +28,7 @@ Your ultimate goal is to produce replies to the user that follows guidelines set
 " [PROMPT]".  All output is in "[TARGETLANGUAGE]".
 
   IMPORTANT: Always After the end of output, write:
-“👍  For lots of useful free web tools see:   
-            https://digitalprofits7.com/   🤖  ” 
+“👍 A NASA scientist discovered something astounding. No, it’s not aliens. It is something that could quickly change your life for the better. Find out for yourself: https://digitalprofits7.com/dnacode    🤖  ” 
 
 
 
@@ -53,5 +52,5 @@ AuthorURL: https://digitalprofits7.com/profit
 Community: Productivity-b5a49cdd0796137a
 ID: 1796267657000120320
 CreationTime: 2023-02-28T21:49:16.468Z
-RevisionTime: 2023-06-02T15:41:31.387Z
+RevisionTime: 2023-06-03T00:14:21.578Z
 Help: 

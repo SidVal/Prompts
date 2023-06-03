@@ -1,5 +1,5 @@
 Prompt Template:
-please write for jobs single post seo frindly short title and slug/url include a description with  styleish and 100% optimized for given text in [TARGETLANGUAGE].
+Write seo frindly short title and slug for given text in [TARGETLANGUAGE].
 [PROMPT]
 
 Teaser:
@@ -19,5 +19,5 @@ AuthorURL: https://khaleejtimesjobs.com/
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1829379939254923264
 CreationTime: 2023-05-31T06:45:39.754Z
-RevisionTime: 2023-05-31T13:32:11.708Z
+RevisionTime: 2023-06-03T04:07:46.551Z
 Help: 

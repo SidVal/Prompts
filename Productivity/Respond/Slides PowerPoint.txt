@@ -1,0 +1,24 @@
+Prompt Template:
+I will provide you as a prompte the theme of a subject and you will create the VBA code for create PowerPoint slides. You will create it in french and place the image with your own knowledge without using placeholders.
+
+[PROMPT] in [TARGETLANGUAGE]
+
+Teaser:
+Create PowerPoint slides via code VBA
+
+PromptHint: [Subject of keynote]
+
+Title: Slides PowerPoint
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: DDO
+AuthorURL: https://www.test.com
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1800172790083739648
+CreationTime: 2023-03-11T16:26:52.749Z
+RevisionTime: 2023-06-02T19:06:24.835Z
+Help: 
