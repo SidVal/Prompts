@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is write a song lyrics with text that i give you.I want you to act like an professional song lyrics writer to write a song lyrics in [TARGETLANGUAGE].
+
+[PROMPT]
+
+Teaser:
+Write the best and beautiful lyrics from text provided.
+
+PromptHint: [text that you want a song lyrics for]
+
+Title: Best Song Lyrics from Text
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Sudheer Rao
+AuthorURL: https://technoforu.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1830944250544779264
+CreationTime: 2023-06-04T14:21:40.629Z
+RevisionTime: 2023-06-04T14:27:06.453Z
+Help: 

@@ -155,7 +155,7 @@ Make sure that tell me place where to add image and in that place write what sho
 
 Make sure to add images.
 This part should be like a command so I can give this command to ai pic generator so it can generate it for me must add this command where image is needed in every article there should be at least 4 to 6 images.
-
+Make sure to include meta and slug at end.
 Make sure to give short answer in 2nd para of intro
 
 Teaser:
@@ -175,5 +175,5 @@ AuthorURL: https://www.facebook.com/profile.php?id=100087481123518
 Community: Copywriting-00ea56f446414284
 ID: 1827951140277587968
 CreationTime: 2023-05-27T08:08:07.532Z
-RevisionTime: 2023-06-01T09:12:43.84Z
+RevisionTime: 2023-06-03T17:42:59.005Z
 Help: 

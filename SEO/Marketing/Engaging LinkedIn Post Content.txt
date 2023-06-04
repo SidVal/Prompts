@@ -1,6 +1,6 @@
 Prompt Template:
 Generate LinkedIn Post in [TARGETLANGUAGE] on Topic [PROMPT].
-Before starting the Content say "[V2] If my Prompt has made your life a little easier and you appreciate the effort I've put into creating it, please consider showing your support". The next line down say "Buy me a Cofffe: https://www.buymeacoffee.com/kshit3j". 
+Before starting the Content say "[V2] If my Prompt has made your life a little easier and you appreciate the effort I've put into creating it, please consider showing your support". The next line down say "Buy me a Cofffe: https://www.buymeacoffee.com/kshit3j/". 
 
 After that add a separator line here.
 
@@ -29,5 +29,5 @@ AuthorURL: https://www.buymeacoffee.com/kshit3j/
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1791115986913722368
 CreationTime: 2023-02-14T16:38:22.606Z
-RevisionTime: 2023-05-22T13:04:55.61Z
+RevisionTime: 2023-06-04T05:45:13.83Z
 Help: 

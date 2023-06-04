@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE] of [PROMPT] and [DATEOFBIRTH], [FIRSTNAME] and [LASTNAME] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2 and AIPRM_VARIABLE3.
+
+Teaser:
+A Reader
+
+PromptHint: Prompt Help
+
+Title: Reading
+
+Topic: Copywriting
+
+Activity: Games
+
+AuthorName: Bill
+AuthorURL: https://billlennox.me
+
+Community: Copywriting-00ea56f446414284
+ID: 1830673314335686656
+CreationTime: 2023-06-03T20:25:04.403Z
+RevisionTime: 2023-06-03T20:25:04.403Z
+Help: 

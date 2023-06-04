@@ -19,6 +19,8 @@ Add more keywords, but not for the sake of getting clicks.
 Place the product at the beginning of your eBay listing title
 Item specifics could be the color, the size, the brand, the model, and the packaging.
 
+List 5 keywords and 5 hash tags.
+
 Make an educated guess of the used and new prices of the item listed.
 
 [TARGETLANGUAGE]
@@ -40,5 +42,5 @@ AuthorURL: https://sites.google.com/view/ai-prompts/home
 Community: Copywriting-00ea56f446414284
 ID: 1830291216831606784
 CreationTime: 2023-06-02T19:06:45.259Z
-RevisionTime: 2023-06-02T20:08:43.993Z
+RevisionTime: 2023-06-03T19:19:20.839Z
 Help: 

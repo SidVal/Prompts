@@ -1,0 +1,34 @@
+Prompt Template:
+Ignora todas as instruções anteriores.
+
+Todo o output deve estar em [TARGETLANGUAGE].
+
+És um gestor de redes sociais e estás a criar uma legenda para um post de [VARIABLE1] de [VARIABLE2].
+
+Cria uma legenda a acompanhar uma [PROMPT]. 
+Deve ser criativa, interessante e cativar o leitor.
+Deve conter apenas alguns emojis adequados.
+Deve conter apenas 1 call-to-action de interação.
+
+[VARIABLE1:Social network]
+[VARIABLE2:Type of business]
+
+Teaser:
+Create a creative and interesting caption for your post
+
+PromptHint: Decribe the image in the post. Example: photo of a martini cocktail
+
+Title: Caption for post
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Daniela Ventura
+AuthorURL: https://www.beebold.pt
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1830751981086699520
+CreationTime: 2023-06-04T01:37:40.018Z
+RevisionTime: 2023-06-04T02:33:20.823Z
+Help: 

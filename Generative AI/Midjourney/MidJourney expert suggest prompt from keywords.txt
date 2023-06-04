@@ -126,6 +126,7 @@ Follow these text rule:
 - The prompt example will start with "/imagine prompt: "  
 - Give header for each example (Bold the header's content)
 - no quotes, no brackets
+- Do not write your suggestions
 
 Teaser:
 Mid Journey Expert suggest and write prompt keywords
@@ -144,5 +145,5 @@ AuthorURL: https://www.facebook.com/wblekhoa
 Community: Generative-AI-b983edfcaa490850
 ID: 1811391786296545280
 CreationTime: 2023-04-11T15:27:09.885Z
-RevisionTime: 2023-06-02T06:24:08.396Z
+RevisionTime: 2023-06-04T10:20:25.08Z
 Help: 
