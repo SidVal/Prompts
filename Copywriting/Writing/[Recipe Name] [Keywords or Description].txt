@@ -8,7 +8,7 @@ Recipe Prompt
 **Summary**: Discover a [summary description] with this easy-to-follow recipe.
 
 [PROMPT]
-Please generate a recipe for [Title] , Each recipe has its own title.
+Please generate a Method recipe for [Title] with the main ingredient , Each recipe has its own title.
  Include the words "[Ingredients] , and [Instructions], and Note" to bold Font .
 
 Include a list of [Ingredients]  **Ingredients** and step-by-step [Instructions] **Instructions** for preparing and using the recipe.
@@ -31,5 +31,5 @@ AuthorURL: https://acewebinc.com/
 Community: Copywriting-00ea56f446414284
 ID: 1825820358369087488
 CreationTime: 2023-05-21T11:01:09.537Z
-RevisionTime: 2023-05-23T12:44:45.906Z
+RevisionTime: 2023-06-05T14:11:21.452Z
 Help: 

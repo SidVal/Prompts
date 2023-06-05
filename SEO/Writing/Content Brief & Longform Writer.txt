@@ -1,36 +1,48 @@
 Prompt Template:
 Only respond in [TARGETLANGUAGE]
 
-Only respond in English
+Content Brief Instructions: [PROMPT]
 
-This content brief/article is about: [PROMPT]
+3 Titles (optimized to score over 90 using headline analyzers)
+meta title
+meta description
+blog post tags
+Content length, # Images, # links, # paragraphs, and number of headings.   
 
-Most important of all, use external links to high DA websites as often as possible.
-
-(At the end of the actual outline) write a frequently asked questions section with 10 questions that are most searched for and highly relevant, Meta Title, Meta description, and blog tags. 
-
-Act as an experienced content creator to generate a highly detailed and comprehensive blog post outline for a topic with sections and subsections, including headings and subheadings, plus bulleted content examples.
-
-Task Requirements:
-
- - Research and analyze [PROMPT]
- - Develop a compelling introduction that captures the reader's attention and sets the stage for the blog post. Use a quote or statistic that hooks the reader
--Use a supercharged 10x  blog post following the example at the end of this response
- - Consider incorporating various content formats, such as text, images, infographics, or videos, to enhance the post's appeal and engagement. 
- - Craft a strong conclusion that summarizes the main points and encourages further reader interaction or action.
-
-Write it in the style of Chip Heath and use short and concise/punchy  sentences while using metaphorical lifestyle writing that is relatable to the target audience
+For a content brief, keywords are vital, guiding your writer towards the desired ranking. Conduct keyword research to establish a ranking list. A mix of a seed keyword and long-tail keywords, with high search volume and CPC, and low SEO difficulty, should lead your list.
+SEMrush recommends 15 keywords per article, maximizing its search visibility. Indicate the search volumes, helping the writer distribute high-volume keywords in titles, average ones in headings, and low-volume ones in paragraphs, in descending order. 
 
 
-Example format
-Create 5 headlines for titles that score over 90 on Coschedules analyzer tool, a meta title of 120-160 characters that scores well with CTR, meta description that is under 155 characters and engaging and emotional, list of 50 LSI keywords, including a few of the most searched for longtail keywords and questions. Finally use 3 quotes from thought/industry leaders, plus 3 statistics from quotes in industry/thought leaders and include the sources for each of these stats and quotes linked 
+Tone of voice target demo prefers
+Readability levels for current niche leaders
 
-Include 10+ H2 sections, three H3 topics within each H2, and 3+ subtopics within each H3. Every heading will have content examples. Identify the desired outcome for readers and structure the content accordingly.
+
+Consider sharing the following details about your audience:
+
+-How they benefit from your service
+-How they interact with your business
+-Their niche specifics
+-Their main pain points
+
+Try to include a buyer persona if applicable. 
+A strategic writer will shape everything to the specific audience you’re targeting, from their topic and keyword suggestions to the writing style and even the in-post examples.
+
+
+Links and statistics
+Competition
+Examples of content to repurpose
+Visuals
+
+
+
+
+dont tell me what to include, find it and include it yourself. For example dont say to include links to whatever site... just include the links to those sites, doont tell me to analyze competitors gaps and just analyze and then report the findings, dont tell me generic advice on content types to consider repurposing and just include the articles to repurpose, dont give visual sources just find the exact images to include and link them etc etc etc 
+
 
 Teaser:
 Premium Level Content Brief - Ideal Keywords, Ideal content length, punchy metaphorical writing, target audience optimized, Meta Description, Meta Title, Blog tags, longtail and related keywords, Engaging Intro and Conclusion
 
-PromptHint: Write the topic here
+PromptHint: Topic
 
 Title: Content Brief & Longform Writer
 
@@ -44,5 +56,5 @@ AuthorURL: https://socialpetworker.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1785620599591407616
 CreationTime: 2023-01-30T12:41:40.169Z
-RevisionTime: 2023-06-04T09:02:58.443Z
+RevisionTime: 2023-06-05T14:17:31.772Z
 Help: 

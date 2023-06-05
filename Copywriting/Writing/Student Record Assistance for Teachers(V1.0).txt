@@ -21,5 +21,5 @@ AuthorURL: https://studentbot.co.kr
 Community: Copywriting-00ea56f446414284
 ID: 1822188626063388672
 CreationTime: 2023-05-11T10:29:57.081Z
-RevisionTime: 2023-05-25T02:32:46.526Z
+RevisionTime: 2023-06-05T01:27:16.93Z
 Help: 

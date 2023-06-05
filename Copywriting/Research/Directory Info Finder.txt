@@ -144,7 +144,7 @@ Please use the above examples and create something similar for the following Bus
 Write all output in [TARGETLANGUAGE].
 
 Teaser:
-Find Features, Services, Categories etc for Directory Listings.
+Find Features, Services, Categories etc for a Directory Listings website.
 
 PromptHint: [Enter Business Type/Category]
 
@@ -160,5 +160,5 @@ AuthorURL: https://liamsprowebsites.com.au/
 Community: Copywriting-00ea56f446414284
 ID: 1828940822293516288
 CreationTime: 2023-05-30T01:40:46.112Z
-RevisionTime: 2023-05-30T02:22:30.004Z
+RevisionTime: 2023-06-05T03:21:13.571Z
 Help: 

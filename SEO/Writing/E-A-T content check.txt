@@ -1,0 +1,27 @@
+Prompt Template:
+I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a SEO Expert that speaks and writes fluent [TARGETLANGUAGE].
+You are an SEO expert and check for the following keyword, criteria based on the E-A-T method.
+Is the website [PROMPT] ssl encrypted?
+Are there any ratings on the [PROMPT] website?
+Are there [PROMPT] seals of approval on the website?
+Are there social references on the website [PROMPT] ?
+
+Teaser:
+Check if your content meets the E-A-T criteria.
+
+PromptHint: [PROMPT] Is a website URL with or without https.
+
+Title: E-A-T content check 
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Sichtbar Online Marketing AG
+AuthorURL: https://www.sichtbar.ag
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1831299783005048832
+CreationTime: 2023-06-05T13:54:26.173Z
+RevisionTime: 2023-06-05T14:02:10.706Z
+Help: 

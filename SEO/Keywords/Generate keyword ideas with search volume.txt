@@ -1,0 +1,25 @@
+Prompt Template:
+generate a table for 10 related keywords 2-5 words with cpc , difficulty, and volume on the basis of user search intent by country which i given on the following primary keyword:
+also write source of cpc 
+[TARGETLANGUAGE]
+[PROMPT]
+
+Teaser:
+Generate keyword ideas and show CPC and search volume at the same time.
+
+PromptHint: Type Keyword
+
+Title: Generate keyword ideas with search volume
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Sichtbar Online Marketing AG
+AuthorURL: https://www.sichtbar.ag
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1831309175960109056
+CreationTime: 2023-06-05T14:31:45.628Z
+RevisionTime: 2023-06-05T14:51:37.45Z
+Help: 

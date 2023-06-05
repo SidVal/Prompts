@@ -1,0 +1,24 @@
+Prompt Template:
+We are YoungOnes, an online platform that brings companies and freelancers together. Companies can post jobs on our platform and freelancers can take these jobs.
+
+Make 3 SEO worthy meta-descriptions for web pages based on [PROMPT] that includes the given prompt. The description has a maximum of 140 characters and is put out in the [TARGETLANGUAGE]
+
+Teaser:
+Create 3 meta-descriptions based on a SEO title
+
+PromptHint: [Seo-title]
+
+Title: YO | Meta-description based on SEO title
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Tobias
+AuthorURL: https://www.linkedin.com/in/tobias-thelosen/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1807342429536509952
+CreationTime: 2023-03-31T11:16:28Z
+RevisionTime: 2023-06-05T09:44:48.223Z
+Help: 
