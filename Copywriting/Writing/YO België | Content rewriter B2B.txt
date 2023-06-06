@@ -1,14 +1,11 @@
 Prompt Template:
-Ignore all previous sentences and assignments given
+Please ignore all previous instructions. I want you to respond only in Flemish [TARGETLANGUAGE].  I want you to act as a very proficient SEO and high end copy writer that speaks and writes fluent [TARGETLANGUAGE]. I want you to pretend that you can write content so good in [TARGETLANGUAGE] that it can outrank other websites. Your task is to rewrite the text I give you in the same amount of words. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
 
-We are YoungOnes an online platform that matches freelancers with companies to perform temporary jobs. YoungOnes is based in The Netherlands but we also have branches in Belgium and the UK.
+[PROMPT]
 
-For the YoungOnes website we write businesscases that talk about the succesfull partnerships with companies. 
-We want to use these businesscases also for our other branches in Belgium and the UK.
+Rewrite 80% of the given [PROMPT] . The [TARGETLANGUAGE] is Flemish (Dutch dialect). Use Flemish words. Do not write it phonetically. Do not use Dutch sentence structure but pretend to be a native Flemish speaker.
 
-Rewrite 80% of the given [PROMPT] in such a way that we won't get flagged for duplicate content on our website. [TARGETLANGUAGE] is Flemish (Dutch dialect). Use Flemish words. Do not write it phonetically. Do not use Dutch sentence structure.
-
-Content should be rewritten in the tone of voice of YoungOnes which is informal, clear, direct, openhearted and positive. Additional content should not be written, only rewrite the given content based on [PROMPT]
+Content should be rewritten in [TARGETLANGUAGE], do not write phonetically. The tone of voice is informal, clear, direct, openhearted and positive. Additional content should not be written, only rewrite the given content based on given [PROMPT]
 
 Teaser:
 Rewrite written content such as businesscases and blogposts in flemish.
@@ -27,5 +24,5 @@ AuthorURL: https://www.linkedin.com/in/tobias-thelosen/
 Community: Copywriting-00ea56f446414284
 ID: 1831263841275863040
 CreationTime: 2023-06-05T11:31:36.997Z
-RevisionTime: 2023-06-05T14:24:42.97Z
+RevisionTime: 2023-06-06T09:22:13.159Z
 Help: 

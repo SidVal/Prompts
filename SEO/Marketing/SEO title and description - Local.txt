@@ -1,0 +1,22 @@
+Prompt Template:
+Develop a SEO title and description from the text from this landing page [PROMPT] - Use only knowledge from the website and the geographies. the description can maximum be 160 characters and the titel a maximum of 60 characters. All output shall be in [TARGETLANGUAGE]. Insert in to a table
+
+Teaser:
+Make a SEO title and description for local SEO with up to 3 Geographies
+
+PromptHint: Landing page, Geo
+
+Title: SEO title and description - Local
+
+Topic: SEO
+
+Activity: marketing
+
+AuthorName: BoyE
+AuthorURL: https://www.linkedin.com/in/mikkel-b%C3%B6ye-a361b4209/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1794089315400413184
+CreationTime: 2023-02-22T21:33:19.359Z
+RevisionTime: 2023-06-06T11:45:50.73Z
+Help: 

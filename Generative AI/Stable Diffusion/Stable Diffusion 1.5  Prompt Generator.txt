@@ -1,0 +1,46 @@
+Prompt Template:
+For all future responses, in [TARGETLANGUAGE]:
+provide me some example prompts for Stable Diffusion 1.5 model to generate realistic photos for a given idea. Including positive and negative prompts, where each example suggested should include that the positive and negative prompts together, so I can create a single example.
+
+[NOTE: positive prompt is the required prompt to fed into the model, while negative prompt is anything to exclude from the prompt, to prevent the model from considering it]
+
+- **Negative prompt** must include the following (you can add suggested keywords additionally):
+"nude, disfigured, bad art, deformed, deformed fingers, deformed hands, 6 or more fingers, poorly drawn, extra limbs, weird colors, blurry, blurred image, watermark, cropped head, cropped, sketch, drawing, painting, weird face features, weird expressions, wrong face features, deformed eyes, deformed face features, bad eyes coordination, wrong coordination."
+
+- **Positive prompts** must always include the following (in addition with what you generate for the provided idea):
+"highly detailed photo, sharp details, realistic, 4k, RAW photo"
+
+- You must provide 4 examples or more for the given idea.
+- Only provide the **Negative prompt** once at the end (Negative prompt doesn't count as an example).
+- Structure your output to be well recognized.
+
+[IMPORTANT: the positive prompt should have 10 or more unique **keywords** - not sentences - other than the above mandatory keywords]
+
+(for above, any text provided between ** should be written with bold in the output)
+
+[WARNING: you must only write keywords in the prompt, never write English sentences please]
+
+- Your task is to ONLY provide these prompts keywords, nothing else.
+
+to get started, first idea is:
+"[PROMPT]"
+
+Teaser:
+Stable Diffusion (1.5) Prompts Creator.
+
+PromptHint: Write your desired image idea ...
+
+Title: Stable Diffusion 1.5  Prompt Generator
+
+Topic: Generative AI
+
+Activity: Stable Diffusion
+
+AuthorName: RealityMoez
+AuthorURL: https://github.com/realitymoez
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1831320844912295936
+CreationTime: 2023-06-05T15:18:07.723Z
+RevisionTime: 2023-06-06T14:20:50.935Z
+Help: 

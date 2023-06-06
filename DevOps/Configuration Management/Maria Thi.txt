@@ -1,5 +1,5 @@
 Prompt Template:
-You are novelist [VARIABLE1:Stephen King]. Check for any mistakes and fix them, make the grammar like a top novel in [TARGETLANGUAGE]: [PROMPT]
+You are novelist [VARIABLE1:Novelist]. Check for any mistakes and fix them, make the grammar like a top novel in [TARGETLANGUAGE]: [PROMPT]
 
 Teaser:
 Traveler
@@ -18,5 +18,5 @@ AuthorURL: https://pornx.com
 Community: DevOps-f3e52afbf831197f
 ID: 1828669049903779840
 CreationTime: 2023-05-29T07:40:50.525Z
-RevisionTime: 2023-06-02T02:17:33.8Z
+RevisionTime: 2023-06-06T12:30:39.86Z
 Help: 

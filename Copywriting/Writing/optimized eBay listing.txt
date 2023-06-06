@@ -1,7 +1,7 @@
 Prompt Template:
 Provide an ebay optimized listing for [PROMPT]
 Please provide a title and description.
-Make the title unique
+Make the title unique.
 Include all the top features of the product in the title
 Capitalize the first letter of each word, but not all letters of a word.
 Use 12-16 relevant keywords.
@@ -42,5 +42,5 @@ AuthorURL: https://sites.google.com/view/ai-prompts/home
 Community: Copywriting-00ea56f446414284
 ID: 1830291216831606784
 CreationTime: 2023-06-02T19:06:45.259Z
-RevisionTime: 2023-06-03T19:19:20.839Z
+RevisionTime: 2023-06-05T22:23:56.895Z
 Help: 
