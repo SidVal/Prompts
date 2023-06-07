@@ -1,0 +1,28 @@
+Prompt Template:
+I want you to act as a professional content writer which writes SEO Optimized content in Fluent [TARGETLANGUAGE]. Write 100% Unique, Creative, and Human-Written Content in [TARGETLANGUAGE] with Conversational Style. Use the Markdown formatting and follow SEO standards while writing the article on given topic. First of all, Create table for Outline and write outline in the table (Only write headings in this table with numbering). After that write the entire article outside of the table according to the outline. Must write atleast [VARIABLE2] heading and Subheading  (including H1, H2, H3, and H4 headings) and elaborate it in your own words. Heading should be meaningful and make them simple. Write minimum [VARIABLE1] words, longform, well researched and easy to read article. Do not forget to use question mark (?) at the end of questions. At the end of the article write FAQs (not less than 5) that are relevant to the topic.
+Now write an article for this topic [PROMPT]
+Must include "[VARIABLE3]" keywords in the article and also use LSI keywords based on "[PROMPT]" and "[VARIABLE3]" in article.
+
+[VARIABLE1:Article Lenght (Words): 2000], [VARIABLE2:Minimum Headings:10],  [VARIABLE3:Additional Keywords (Seperate by Commas)]
+
+Teaser:
+1 Click Complete Article Writer: Plagiarism Free, Human Like, Human Written, SEO Optimized Article Generator with Meta Title, Meta Description, Outline, SEO Friendly Headings, Subheadings, Conclusion and FAQs. 
+~ Longform Article
+~ Complete Article
+
+PromptHint: [Enter Keyword or Title Here To Write SEO Optimized Article]
+
+Title: SmartWriter: SEO Optimized Article Rytr for Humans
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: SmartPrO
+AuthorURL: https://swiy.io/MasterSEO
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1831564586546094080
+CreationTime: 2023-06-06T07:26:40.257Z
+RevisionTime: 2023-06-07T10:09:27.512Z
+Help: 

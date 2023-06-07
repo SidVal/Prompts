@@ -1,0 +1,44 @@
+Prompt Template:
+Create a Twitter thread on the topic of: [PROMPT]
+
+The steps are as follows: 
+
+- Summarise information on the topic. Keep the information very general.
+- Split the information into chunks with a maximum of 280 characters.
+- The chunks are single Tweets in the thread.
+- Numerate the chunks starting from 2. The first chunk has “A thread” as the last paragraph.
+- The first chunk is the introduction. Provide the topic and find a way to engage readers as follows: <topic> - <appealing motivation for readers>
+- Print out all the chunks with spacing between them.
+- Try to speak appealing and concise.
+- Do not simply add hashtags. Instead, denote keywords in the text of the paragraphs as hashtags.
+- Only use each hashtag once.
+- The target language is: [TARGETLANGUAGE]
+
+In very bottom of the last chunk, add  this custom message: 
+"Thanks to @louispetrik!"
+
+Teaser:
+Create an appealing Twitter thread from a single topic.
+ - Human-like 
+ - Engaging 
+- Well-formatted  
+- Built for GPT-4
+
+Please leave an upvote. Thank you 
+
+PromptHint: Topic of the thread 
+
+Title: Twitter Thread Generator v1.3
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Louis Petrik
+AuthorURL: https://codehints.io/?utm_source=twitter_thread_generator&utm_medium=AIPRM&utm_campaign=AIPRM
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1831737007920111616
+CreationTime: 2023-06-06T18:51:48.716Z
+RevisionTime: 2023-06-07T08:04:38.499Z
+Help: 

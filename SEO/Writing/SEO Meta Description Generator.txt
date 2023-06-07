@@ -1,0 +1,24 @@
+Prompt Template:
+Can you write a high-engagement SEO-focused, 120-character meta description for the audience detected in the copy? Please write the meta description in [TARGETLANGUAGE]. Here is the copy that the meta description should describe: 
+
+[PROMPT]
+
+Teaser:
+Create An SEO-Centric Meta Description From Just [Webpage Text]
+
+PromptHint: [Your Blog, Article, Or Webpage Copy]
+
+Title: SEO Meta Description Generator
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Jennifer Kiza McDonald, Prompt Engineer
+AuthorURL: https://www.linkedin.com/in/duchessjennifermcdonald/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1831763008070873088
+CreationTime: 2023-06-06T20:35:07.635Z
+RevisionTime: 2023-06-06T20:35:07.635Z
+Help: 

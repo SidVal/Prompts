@@ -21,12 +21,12 @@ Item specifics could be the color, the size, the brand, the model, and the packa
 
 List 5 keywords and 5 hash tags.
 
-Make an educated guess of the used and new prices of the item listed.
+Please check eBay or other online marketplaces for current listings and prices. Display estimated average used and new price.
 
 [TARGETLANGUAGE]
 
 Teaser:
-Create an optimized EBay listing with only the product name
+Create an optimized EBay listing with only the product name. For example: Boy's bicycle.  You may add more descriptors like new or used, fair condition, black, etc... 
 
 PromptHint: Enter product here:
 
@@ -42,5 +42,5 @@ AuthorURL: https://sites.google.com/view/ai-prompts/home
 Community: Copywriting-00ea56f446414284
 ID: 1830291216831606784
 CreationTime: 2023-06-02T19:06:45.259Z
-RevisionTime: 2023-06-05T22:23:56.895Z
+RevisionTime: 2023-06-06T19:31:37.492Z
 Help: 

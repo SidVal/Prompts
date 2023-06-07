@@ -1,0 +1,24 @@
+Prompt Template:
+Generate a thought-provoking LinkedIn post regarding the subject posted below. The post should articulate multiple points of view and conclude with a thought-provoking question along with six hashtags summarizing the post. The post should be in [TARGETLANGUAGE].
+
+[PROMPT]
+
+Teaser:
+Generate a captivating LinkedIn post on a topic of your choosing
+
+PromptHint: Post Topic
+
+Title: LinkedIn Post Generator
+
+Topic: Copywriting
+
+Activity: Outreach
+
+AuthorName: Justin Strackany
+AuthorURL: https://fancyrobot.ai
+
+Community: Copywriting-00ea56f446414284
+ID: 1831806983259549696
+CreationTime: 2023-06-06T23:29:52.137Z
+RevisionTime: 2023-06-06T23:35:00.51Z
+Help: 

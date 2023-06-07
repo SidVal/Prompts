@@ -7,7 +7,7 @@ Content Brief Instructions: [PROMPT]
 meta title
 meta description
 blog post tags
-Content length, # Images, # links, # paragraphs, and number of headings.   
+Content length, number of Images with that many of the best images to use linked, number of external links, paragraphs, and number of headings (used later for the outline of writing instructions).   
 
 For a content brief, keywords are vital, guiding your writer towards the desired ranking. Conduct keyword research to establish a ranking list. A mix of a seed keyword and long-tail keywords, with high search volume and CPC, and low SEO difficulty, should lead your list.
 SEMrush recommends 15 keywords per article, maximizing its search visibility. Indicate the search volumes, helping the writer distribute high-volume keywords in titles, average ones in headings, and low-volume ones in paragraphs, in descending order. 
@@ -31,18 +31,31 @@ A strategic writer will shape everything to the specific audience you’re targe
 Links and statistics
 Competition
 Examples of content to repurpose
-Visuals
 
 
 
 
-dont tell me what to include, find it and include it yourself. For example dont say to include links to whatever site... just include the links to those sites, doont tell me to analyze competitors gaps and just analyze and then report the findings, dont tell me generic advice on content types to consider repurposing and just include the articles to repurpose, dont give visual sources just find the exact images to include and link them etc etc etc 
+dont tell me what to include, find it and include it yourself. For example dont say to include links to whatever site and do not just write (cont.) or etc. or anything implying I would need to find more. For example if 10 images are needed to rank 1st, then include the exact 10 links to the best images to use and do not write 3 then say (and so on..)
 
+
+Write the best outline of headings to rank 1 on google with the keywords you listed to include. Make it the optimal number mentioned along with the paragraph amounts and images and align with the proper expected content length. For every heading, no matter if it is h2-h6, include incredibly detailed writing instructions using this example below as the format to follow:
+
+
+Accommodating Mobility Issues and Physical Changes in Chihuahuas
+
+-In this section, discuss how to identify and address mobility issues and physical changes in aging or disabled Chihuahuas.
+-Describe common signs of mobility issues, such as difficulty climbing stairs, reluctance to jump, or stiffness after resting.
+-Explain the potential causes of these issues, including arthritis, joint problems, or neurological disorders.
+-Offer tips for creating a comfortable living environment for Chihuahuas with mobility issues, such as providing ramps, orthopedic beds, and non-slip flooring.
+-Suggest appropriate exercise modifications and low-impact activities to keep your Chihuahua engaged and healthy without exacerbating mobility problems.
+-Discuss the use of assistive devices, such as harnesses or dog wheelchairs, to support your Chihuahua's mobility and quality of life.
+-Introduce the concept of physical therapy, massage, or alternative treatments like acupuncture as potential options for managing pain and improving mobility in Chihuahuas.
+-Keywords to include: mobility issues, physical changes, arthritis, joint problems, comfortable living environment, low-impact activities, assistive devices, physical therapy.
 
 Teaser:
-Premium Level Content Brief - Ideal Keywords, Ideal content length, punchy metaphorical writing, target audience optimized, Meta Description, Meta Title, Blog tags, longtail and related keywords, Engaging Intro and Conclusion
+Premium Level Content Brief - Ideal Keywords, Ideal content length, target audience, Meta Description, Meta Title, Blog tags, longtail and related keywords
 
-PromptHint: Topic
+PromptHint: Topic/Primary Keyword
 
 Title: Content Brief & Longform Writer
 
@@ -56,5 +69,5 @@ AuthorURL: https://socialpetworker.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1785620599591407616
 CreationTime: 2023-01-30T12:41:40.169Z
-RevisionTime: 2023-06-05T14:17:31.772Z
+RevisionTime: 2023-06-07T15:55:57.966Z
 Help: 

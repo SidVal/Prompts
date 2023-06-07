@@ -1,0 +1,27 @@
+Prompt Template:
+Dear ChatGPT, I need your assistance in writing a compelling cover letter for a job application. I'm applying for the [ Role ] position at [Company]. Could you please help me create a strong cover letter that highlights my skills and experience effectively? I would greatly appreciate your guidance in crafting an engaging introduction, emphasizing my qualifications, and demonstrating my passion for the role and the company. Also find the mission statement and the vision of that company and try to align it with your interest and tell how can you create an impact to the [Company]
+
+The result should be based on my [CV] below:
+
+All output shall be in [TARGETLANGUAGE]. These words are: 
+[PROMPT] , [PROMPT] , [PROMPT] 
+
+Teaser:
+Write a cover letter based on the job title/ or company and from my Cv
+
+PromptHint: [Keyword or Title]
+
+Title: LUMS cover letter
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Mazahir Hussain  
+AuthorURL: https://www.fiverr.com/mazahir_tormiki?public_mode=true
+
+Community: Copywriting-00ea56f446414284
+ID: 1818951421534662656
+CreationTime: 2023-05-02T12:06:27.377Z
+RevisionTime: 2023-06-07T15:21:54.996Z
+Help: 

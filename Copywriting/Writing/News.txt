@@ -1,0 +1,24 @@
+Prompt Template:
+I need you to please write an informative note in [TARGETLANGUAGE] of between 200 and 300 words. You must have a news style and highlight the most relevant aspects of the following information:
+
+[PROMPT]
+
+Teaser:
+Shorts Notices
+
+PromptHint: [news information]
+
+Title: News
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Gabriel
+AuthorURL: https://www.gabriel.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1831990495191240704
+CreationTime: 2023-06-07T11:39:04.791Z
+RevisionTime: 2023-06-07T11:39:04.791Z
+Help: 
