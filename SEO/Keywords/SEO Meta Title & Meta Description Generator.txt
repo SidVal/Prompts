@@ -1,0 +1,22 @@
+Prompt Template:
+Create a Meta Title and Meta Description for the following topic: [PROMPT]. The meta title should have not more than 57 characters. The Meta Description should not contain more than 160 characters. Give me 5 suggestions each. The Output should be in [TARGETLANGUAGE]. Please provide the output in a table || Meta Title | Meta Description ||
+
+Teaser:
+Generate  5 good Meta Titles and Meta Descriptions from which you can choose the best one for your page! Go for SEO!
+
+PromptHint: [Title] or [Text Section]
+
+Title: SEO Meta Title & Meta Description Generator
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Sabrina Hoppe
+AuthorURL: https://store.pwc.de/de
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1832366364615249920
+CreationTime: 2023-06-08T12:32:39.045Z
+RevisionTime: 2023-06-08T12:50:39.261Z
+Help: 

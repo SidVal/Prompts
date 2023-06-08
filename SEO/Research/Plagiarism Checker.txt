@@ -15,10 +15,10 @@ Topic: SEO
 Activity: Research
 
 AuthorName: Research Prospect
-AuthorURL: https://bit.ly/3q9RUL4
+AuthorURL: https://www.researchprospect.com/plagiarism-checker/
 
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1827222545276080128
 CreationTime: 2023-05-25T07:52:56.947Z
-RevisionTime: 2023-05-25T13:52:20.37Z
+RevisionTime: 2023-06-08T10:03:29.571Z
 Help: 

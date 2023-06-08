@@ -1,0 +1,22 @@
+Prompt Template:
+[PROMPT]Act a SEO expert, audit my content and check ( Keyword Stuffing, Cannibalization, Grammar Error, content quality, On Page SEO factors and any issue if you find) and also rate my content 0/10. concise answer in bullet points. here is my content [content] [TARGETLANGUAGE] [ENGLSIH]
+
+Teaser:
+Audit your Content as per SEO aspects.
+
+PromptHint: [Write Your Content]
+
+Title: Content Audit as per SEO aspect
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Ali Muthary
+AuthorURL: https://www.fanjackets.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1832378186546286592
+CreationTime: 2023-06-08T13:19:37.613Z
+RevisionTime: 2023-06-08T13:20:53.061Z
+Help: 

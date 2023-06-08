@@ -1,6 +1,6 @@
 Prompt Template:
 Say exactly "Code Highlights Instagram carousel post slide by slide  for [PROMPT]".
-In the next line say exactly "To learn more about Code Highlights visit www.code-hl.com".
+In the next line say exactly "To learn more about Code Highlights visit https://courses.code-hl.com".
 
 The text above should not be included in the next text context, just write it on the beginning.
 
@@ -37,10 +37,10 @@ Topic: Marketing
 Activity: marketing
 
 AuthorName: Code Highlights
-AuthorURL: https://code-hl.com
+AuthorURL: https://courses.code-hl.com
 
 Community: Marketing-cc647f5cf02ffd02
 ID: 1782812822783385600
 CreationTime: 2023-01-22T18:44:34.012Z
-RevisionTime: 2023-02-26T13:35:32Z
+RevisionTime: 2023-06-07T18:40:45.685Z
 Help: 

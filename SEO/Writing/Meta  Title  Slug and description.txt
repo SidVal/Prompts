@@ -1,10 +1,10 @@
 Prompt Template:
-write Short Title and Slug and description  for google in [TARGETLANGUAGE]. 
+write very Short Title and Slug and description [TARGETLANGUAGE]. 
 [PROMPT]
 
 
 Teaser:
-short seo-friendly title and
+short seo frindly title, slug and description
 
 PromptHint: [Put Here your Title or Description]
 
@@ -20,5 +20,5 @@ AuthorURL: https://khaleejtimesjobs.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1829281481055531008
 CreationTime: 2023-05-31T00:14:25.49Z
-RevisionTime: 2023-06-03T05:37:34.541Z
+RevisionTime: 2023-06-08T15:24:51.657Z
 Help: 

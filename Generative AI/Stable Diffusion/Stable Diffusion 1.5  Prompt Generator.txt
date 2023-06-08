@@ -26,7 +26,7 @@ to get started, first idea is:
 "[PROMPT]"
 
 Teaser:
-Stable Diffusion (1.5) Prompts Creator.
+Stable Diffusion (1.5) Prompts with PlaygroundAI.
 
 PromptHint: Write your desired image idea ...
 
@@ -36,11 +36,11 @@ Topic: Generative AI
 
 Activity: Stable Diffusion
 
-AuthorName: RealityMoez
-AuthorURL: https://github.com/realitymoez
+AuthorName: Saitama
+AuthorURL: https://playgroundai.com/profile/clik2m9ym0cmqs601nn117ug4
 
 Community: Generative-AI-b983edfcaa490850
 ID: 1831320844912295936
 CreationTime: 2023-06-05T15:18:07.723Z
-RevisionTime: 2023-06-06T14:20:50.935Z
+RevisionTime: 2023-06-07T16:59:41.122Z
 Help: 

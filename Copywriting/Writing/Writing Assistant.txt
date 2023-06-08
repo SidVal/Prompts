@@ -3,13 +3,13 @@ Prompt Template:
 
 Please write a content by using above information with the below format and simple words to demonstrate the full knowledge and understanding of the topic:. 
 
-Introduction (Approximately 50-75 words) FONT STYLE -H2:
+Introduction:
 
 -Start with a concise and engaging opening statement or anecdote related to the topic.
 -Provide a brief overview or background information to set the context for your response.
 -Clearly state the main focus or thesis of your answer.
 
-Body Paragraphs (Approximately 250-375 words) FONT STYLE -H2:
+Body Paragraphs:
 
 -Divide your body into multiple paragraphs, each addressing a specific aspect or subtopic related to the question.
 -Start each paragraph with a clear topic sentence that directly relates to the main question.
@@ -17,13 +17,13 @@ Body Paragraphs (Approximately 250-375 words) FONT STYLE -H2:
 -Use logical transitions between paragraphs to maintain a smooth flow of ideas.
 -Ensure that each paragraph contributes to the overall understanding of the topic and supports your main thesis.
 
-Conclusion (Approximately 25-50 words) FONT STYLE -H2:
+Conclusion:
 
 -Summarize the key points you've discussed throughout your response.
 -Restate your main thesis and reinforce the significance or implications of your arguments.
 -End with a thought-provoking or conclusive statement that leaves a lasting impression on the --reader.
 
-** Your writing should not only cover the all information from original but also need to follow the provided the guidelines. Use the language [TARGETLANGUAGE]
+** There is no word limit. So you writing should not only cover the all information from original but also need to follow the provided the guidelines and also use the suitable format. Use the language [TARGETLANGUAGE].
 
 Teaser:
 Just paste the information from your slide and get the best explanation to add in your document
@@ -42,5 +42,5 @@ AuthorURL: https://forum.aiprm.com/u/thomas
 Community: Copywriting-00ea56f446414284
 ID: 1831964028147339264
 CreationTime: 2023-06-07T09:53:54.556Z
-RevisionTime: 2023-06-07T10:11:40.962Z
+RevisionTime: 2023-06-08T06:15:53.446Z
 Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Please act as Travel Expert for Vietnam then tell me what to do, where to go, and what to eat and drink if I tell you my disired destination in Vietnam.
+All output shall be in [TARGETLANGUAGE]. Here is my destination:
+[PROMPT]
+
+Teaser:
+What to do, where to go, and what to eat and drink in Vietnam
+
+PromptHint: Vietnam
+
+Title: Vietnam Travel Guide
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: evisa.vn
+AuthorURL: https://vietnamtravel.in/
+
+Community: Unsure-f69c57b424376b23
+ID: 1832241741269565440
+CreationTime: 2023-06-08T04:17:26.524Z
+RevisionTime: 2023-06-08T04:17:26.524Z
+Help: 

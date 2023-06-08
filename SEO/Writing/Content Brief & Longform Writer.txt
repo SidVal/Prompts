@@ -1,56 +1,48 @@
 Prompt Template:
 Only respond in [TARGETLANGUAGE]
 
-Content Brief Instructions: [PROMPT]
+Content Brief Template
+Introduction:
+Start with a compelling intro to [PROMPT], including key statistics or facts. Highlight what the blog post will cover.
 
-3 Titles (optimized to score over 90 using headline analyzers)
-meta title
-meta description
-blog post tags
-Content length, number of Images with that many of the best images to use linked, number of external links, paragraphs, and number of headings (used later for the outline of writing instructions).   
+Topic Exploration:
+Define [PROMPT] and its significance. Introduce the unique angle that the blog post will take and why it's relevant for the reader.
 
-For a content brief, keywords are vital, guiding your writer towards the desired ranking. Conduct keyword research to establish a ranking list. A mix of a seed keyword and long-tail keywords, with high search volume and CPC, and low SEO difficulty, should lead your list.
-SEMrush recommends 15 keywords per article, maximizing its search visibility. Indicate the search volumes, helping the writer distribute high-volume keywords in titles, average ones in headings, and low-volume ones in paragraphs, in descending order. 
+Targeted Keywords and SEO:
+List high-ranking seed and long-tail keywords related to [PROMPT] that should be incorporated into the blog post.
 
+Compelling Titles:
+Provide three engaging and SEO-optimized titles for the blog post about [PROMPT].
 
-Tone of voice target demo prefers
-Readability levels for current niche leaders
+Meta Title and Description:
+Craft a meta title and description for the blog post, making sure to include targeted keywords related to [PROMPT].
 
+Blog Post Tags:
+List relevant tags for the blog post related to [PROMPT].
 
-Consider sharing the following details about your audience:
+Ideal Content Length and Structure:
+Specify the recommended length for the blog post and divide the post into sections with corresponding headings related to [PROMPT].
 
--How they benefit from your service
--How they interact with your business
--Their niche specifics
--Their main pain points
+Tone of Voice and Readability Level:
+Describe the desired tone of voice and level of readability for the blog post.
 
-Try to include a buyer persona if applicable. 
-A strategic writer will shape everything to the specific audience you’re targeting, from their topic and keyword suggestions to the writing style and even the in-post examples.
+Understanding the Target Audience:
+Outline who the blog post's target audience is and what benefits the reader will gain from the blog post.
 
+Buyer Persona:
+Describe the ideal reader or "buyer persona" for the blog post.
 
-Links and statistics
-Competition
-Examples of content to repurpose
+Relevant Links and Statistics:
+List relevant external links, resources, and statistics that should be incorporated into the blog post about [PROMPT].
 
+Competition and Repurposing Opportunities:
+Analyze similar content and discuss how the blog post about [PROMPT] can provide unique value.
 
+Best Images for the Content:
+Suggest relevant images or types of images that should be included in the blog post about [PROMPT].
 
-
-dont tell me what to include, find it and include it yourself. For example dont say to include links to whatever site and do not just write (cont.) or etc. or anything implying I would need to find more. For example if 10 images are needed to rank 1st, then include the exact 10 links to the best images to use and do not write 3 then say (and so on..)
-
-
-Write the best outline of headings to rank 1 on google with the keywords you listed to include. Make it the optimal number mentioned along with the paragraph amounts and images and align with the proper expected content length. For every heading, no matter if it is h2-h6, include incredibly detailed writing instructions using this example below as the format to follow:
-
-
-Accommodating Mobility Issues and Physical Changes in Chihuahuas
-
--In this section, discuss how to identify and address mobility issues and physical changes in aging or disabled Chihuahuas.
--Describe common signs of mobility issues, such as difficulty climbing stairs, reluctance to jump, or stiffness after resting.
--Explain the potential causes of these issues, including arthritis, joint problems, or neurological disorders.
--Offer tips for creating a comfortable living environment for Chihuahuas with mobility issues, such as providing ramps, orthopedic beds, and non-slip flooring.
--Suggest appropriate exercise modifications and low-impact activities to keep your Chihuahua engaged and healthy without exacerbating mobility problems.
--Discuss the use of assistive devices, such as harnesses or dog wheelchairs, to support your Chihuahua's mobility and quality of life.
--Introduce the concept of physical therapy, massage, or alternative treatments like acupuncture as potential options for managing pain and improving mobility in Chihuahuas.
--Keywords to include: mobility issues, physical changes, arthritis, joint problems, comfortable living environment, low-impact activities, assistive devices, physical therapy.
+Detailed Content Outline:
+Create a comprehensive content outline for the blog post about [PROMPT], detailing writing instructions for every heading, key points, relevant keywords, and preferred tone for each section. Each heading from the "Ideal Content Length and Structure" section should have its corresponding instructions here.
 
 Teaser:
 Premium Level Content Brief - Ideal Keywords, Ideal content length, target audience, Meta Description, Meta Title, Blog tags, longtail and related keywords
@@ -69,5 +61,5 @@ AuthorURL: https://socialpetworker.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1785620599591407616
 CreationTime: 2023-01-30T12:41:40.169Z
-RevisionTime: 2023-06-07T15:55:57.966Z
+RevisionTime: 2023-06-08T07:59:20.697Z
 Help: 

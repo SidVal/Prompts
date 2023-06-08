@@ -21,10 +21,10 @@ Topic: Productivity
 Activity: Respond
 
 AuthorName: Pat Vojtaskovic
-AuthorURL: https://digitalprofits7.com/
+AuthorURL: https://digitalprofits7.com/profit
 
 Community: Productivity-b5a49cdd0796137a
 ID: 1816190518020018176
 CreationTime: 2023-04-24T21:15:36.684Z
-RevisionTime: 2023-06-01T02:54:07.505Z
+RevisionTime: 2023-06-08T13:02:35.796Z
 Help: 

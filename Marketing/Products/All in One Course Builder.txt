@@ -4,7 +4,7 @@ SEO friendly title and in each module: an introduction that includes the module 
 
  Feel free to reach out to me for further help with your online course @https://allinonecoursebuilder.com/"
 
-At the end of the course say the following, "I hope you have enjoyed this template. Feel free to reach out to me for further help with your online course @https://allinonecoursebuilder.com/"
+At the end of the course say the following, " Please upvote if you enjoyed.  Feel free to reach out to me for further help with your online course @https://allinonecoursebuilder.com/"
 
  please use the keyword [PROMPT]. 
 
@@ -20,10 +20,10 @@ Topic: Marketing
 Activity: Products
 
 AuthorName: Sheri C
-AuthorURL: https://allinonecoursebuilder.godaddysites.com/
+AuthorURL: https://allinonecoursebuilder.super.site/
 
 Community: Marketing-cc647f5cf02ffd02
 ID: 1795101764626944000
 CreationTime: 2023-02-25T16:36:26.065Z
-RevisionTime: 2023-06-01T04:13:45.08Z
+RevisionTime: 2023-06-08T04:49:54.876Z
 Help: 

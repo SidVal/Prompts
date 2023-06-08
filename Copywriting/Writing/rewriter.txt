@@ -1,6 +1,8 @@
 Prompt Template:
-uniquely rewrite this text with a very random text and let the randomness of the text be varied. the text is [PROMPT]
+use markdown where necessary and uniquely rewrite this text "[PROMPT]"
 all output must be in [TARGETLANGUAGE]
+
+
 
 Teaser:
 Rewrites!
@@ -19,5 +21,5 @@ AuthorURL: https://wa.me/+2348142263056
 Community: Copywriting-00ea56f446414284
 ID: 1831047563223236608
 CreationTime: 2023-06-04T21:12:12.291Z
-RevisionTime: 2023-06-06T09:37:34.469Z
+RevisionTime: 2023-06-07T20:36:38.782Z
 Help: 

@@ -1,6 +1,10 @@
 Prompt Template:
-Fill out student records for [VARIABLE1]. Write it so that the capability of [VARIABLE2] is clearly revealed. Explain with specific examples of [PROMPT] competencies. Write only in [TARGETLANGUAGE] language. Do not mention student's name or gender. Write in the style of Educator's Student Record Report.
-
+Fill out student records for [VARIABLE1]. 
+Write it so that the capability of [VARIABLE2] is clearly revealed. 
+Explain with specific examples of [PROMPT] 
+Write only in [TARGETLANGUAGE] language. 
+Do not mention student's name or gender. 
+Write in the style of Educator's Student Record Report.
 [VARIABLE1: Subject Name]
 [VARIABLE2: Core competency]
 
@@ -21,5 +25,5 @@ AuthorURL: https://studentbot.co.kr
 Community: Copywriting-00ea56f446414284
 ID: 1822188626063388672
 CreationTime: 2023-05-11T10:29:57.081Z
-RevisionTime: 2023-06-05T01:27:16.93Z
+RevisionTime: 2023-06-07T23:33:32.724Z
 Help: 

@@ -1,5 +1,5 @@
 Prompt Template:
-Your task is to creatively translate the Chinese text into [TARGETLANGUAGE]. Make sure it looks like a novel originally written in modern American English, using short and simple phrases, easy to understand for 13 year-old kids. Change wording or details to make the text fluent in English context, but please try not to twist the main plot. Here's the text to translate:
+Creatively translate the Chinese text into [TARGETLANGUAGE]. Make sure it looks like a novel originally written in American English for 12-year-old kids, using short and simple phrases. Change wording or details to make the text fluent in American context, but please try not to twist the main plot. Here's the text to translate:
 
 [PROMPT]
 
@@ -20,5 +20,5 @@ AuthorURL: https://www.baidu.com/
 Community: Unsure-f69c57b424376b23
 ID: 1828241947777826816
 CreationTime: 2023-05-28T03:23:41.443Z
-RevisionTime: 2023-06-06T05:27:24.193Z
+RevisionTime: 2023-06-08T14:23:45.153Z
 Help: 

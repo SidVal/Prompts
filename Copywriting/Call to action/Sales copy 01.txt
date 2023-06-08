@@ -1,0 +1,25 @@
+Prompt Template:
+**[copy me based on David Ogilvy's writings
+of [PRODUCT, SERVICE OR COURSE] will be directed to [TARGET AUDIENCE]**:[KEYWORD]
+[TARGETLANGUAGE]
+[PROMPT]
+
+Teaser:
+[command] make a copy with emotion and directed for the reader to make the decision to buy the [product or service]
+
+PromptHint: enter your niche keywords
+
+Title: Sales copy 01
+
+Topic: Copywriting
+
+Activity: call to action
+
+AuthorName: Luiz Paredão
+AuthorURL: https:luizvirgilato.com/copy/
+
+Community: Copywriting-00ea56f446414284
+ID: 1832392699324653568
+CreationTime: 2023-06-08T14:17:17.729Z
+RevisionTime: 2023-06-08T15:35:59.932Z
+Help: 
