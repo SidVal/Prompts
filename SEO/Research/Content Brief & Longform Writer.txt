@@ -1,34 +1,24 @@
 Prompt Template:
 Only respond in [TARGETLANGUAGE]
 
-This content brief/article is about: [PROMPT]
+Step 1: Detailed Content Brief and In-depth Outline Creation About: [PROMPT]
 
-Most important of all, use external links to high DA websites as often as possible.
+Prompt: As a world-class content marketing expert, renowned for achieving #1 Google rankings, produce a highly detailed content brief and a comprehensive outline for a blog post on [PROMPT]. The brief must specify the target audience demographics, their interests, and pain points, set a metaphorical and punchy tone, and establish a minimum word count to aim for. The outline should have at least 10 H2 headings, dozens of H3 and H4 subheadings, and contain multiple bullet points of potential content for each subheading. It should also suggest relevant images, links, quotes, and stats for each section.
 
-(At the end of the actual outline) write a frequently asked questions section with 10 questions that are most searched for and highly relevant, Meta Title, Meta description, and blog tags. 
+Step 2: Advanced Keyword Research, Creative Titles, and Meta Information Crafting About: [PROMPT]
 
-Act as an experienced content creator to generate a highly detailed and comprehensive blog post outline for a topic with sections and subsections, including headings and subheadings, plus bulleted content examples.
+Prompt: Apply your extensive SEO expertise to perform advanced keyword research for the blog post on [insert topic]. Identify 40 high-ranking SEO keywords, including seed, long-tail, and LSI keywords. Draw upon your training data and understanding of the topic to develop these keywords. Then, generate five compelling blog post titles that are engaging and SEO-friendly. Develop a persuasive meta title and a captivating meta description that integrates the most impactful keywords and encourages click-throughs. Lastly, propose blog post tags that accurately categorize the content and complement the chosen keywords.
 
-Task Requirements:
+Step 3: Engaging Blog Post Writing & Visual Elements Incorporation & External Link Inclusion About: [PROMPT]
 
- - Develop a compelling introduction that captures the reader's attention and sets the stage for the blog post. Use a quote or statistic that hooks the reader
--Use a supercharged 10x  blog post following the example at the end of this response
- - Consider incorporating various content formats, such as text, images, infographics, or videos, to enhance the post's appeal and engagement. 
- - Craft a strong conclusion that summarizes the main points and encourages further reader interaction or action.
+Prompt: Embark on the meticulous creation of an engaging blog post on [PROMPT], aiming for a minimum of 2000-4000 words. Use a punchy, metaphorical tone that resonates with the buyer persona, and maintain a varied, engaging format. Seamlessly integrate the SEO and LSI keywords identified in Step 2. Include relevant stats, quotes, and links as guided by the detailed outline created in Step 1. Suggest images that align with the content, provide their specific links, and format everything in markdown. Ensure that each section reflects the instructions provided in the detailed outline from Step 1. Write as much as possible in each response, and don't worry about completing the blog post in a single response. Make sure there are the optimal number of external links to high DA sites by linking out to them as often as possible. aim for the optimal amount from the content brief to be the minimum number of links in the final output
 
-Write it in the style of Chip Heath and use short and concise/punchy  sentences while using metaphorical lifestyle writing that is relatable to the target audience
-
-
-Example format
-Create 5 headlines for titles that score over 90 on Coschedules analyzer tool, a meta title of 120-160 characters that scores well with CTR, meta description that is under 155 characters and engaging and emotional, list of 50 LSI keywords, including a few of the most searched for longtail keywords and questions. Finally use 3 quotes from thought/industry leaders, plus 3 statistics from quotes in industry/thought leaders and include the sources for each of these stats and quotes linked 
-
-Include 10+ H2 sections, three H3 topics within each H2, and 3+ subtopics within each H3. Every heading will have content examples. Identify the desired outcome for readers and structure the content accordingly.
-
+The AI will then sequentially work through each step, taking several responses to complete each one, and providing you with a comprehensive and detailed blog post at the end. Please note that the AI can generate a few hundred words per response, so a blog post of the ideal content length (2000-4000 words) will be several responses 
 
 Teaser:
-Premium Level Content Brief - Ideal Keywords, Ideal content length, punchy metaphorical writing, target audience optimized, Meta Description, Meta Title, Blog tags, longtail and related keywords, Engaging Intro and Conclusion
+Premium Level Content Brief - Ideal Keywords, Ideal content length, target audience, Meta Description, Meta Title, Blog tags, longtail and related keywords
 
-PromptHint: Write the topic here
+PromptHint: Topic/Primary Keyword
 
 Title: Content Brief & Longform Writer
 
@@ -42,5 +32,5 @@ AuthorURL: https://socialpetworker.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1785620599591407616
 CreationTime: 2023-01-30T12:41:40.169Z
-RevisionTime: 2023-05-26T09:19:09.651Z
+RevisionTime: 2023-06-09T08:51:57.283Z
 Help: 

@@ -48,11 +48,11 @@ Topic: Generative AI
 
 Activity: Midjourney
 
-AuthorName: timor
+AuthorName: Timor
 AuthorURL: https://www.deviantart.com/timor-garlikov
 
 Community: Generative-AI-b983edfcaa490850
 ID: 1832237668612964352
 CreationTime: 2023-06-08T04:01:15.527Z
-RevisionTime: 2023-06-08T04:42:22.667Z
+RevisionTime: 2023-06-08T19:37:08.562Z
 Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Tugasmu adalah membuat sebuah email promosi untuk calon pembeli produk saya dalam [TARGETLANGUAGE]. Sesuaikan email dengan segmentasi pasar saya. Tulis email promosi dalam gaya bahasa yang santai, unik, dan tidak kaku.
+
+[PROMPT]
+
+Teaser:
+Create best email marketing for my product and market segmentation
+
+PromptHint: [Your Product] [Market Segment]
+
+Title: Template Email Marketing Unik
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Yassar Rizky
+AuthorURL: https://digiteev.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1832677462720122880
+CreationTime: 2023-06-09T09:08:50.613Z
+RevisionTime: 2023-06-09T09:22:53.441Z
+Help: 

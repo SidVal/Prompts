@@ -4,7 +4,7 @@ The text to summarize is this:
 [PROMPT]
 
 Teaser:
-Ask Legal Questions About Your Legal Issues & Get Advice Online.  AI Lawyer is a ChatGPT-powered legal assistant. 
+Ask Legal Questions About Your Legal Issues & Get Advice Online.  AI Lawyer is a ChatGPT-powered legal assistant. Chat With a Lawyer For Free
 
 PromptHint:  Asked Questions About Legal Issues
 
@@ -20,5 +20,5 @@ AuthorURL: https://imsumon.com/
 Community: Productivity-b5a49cdd0796137a
 ID: 1828848693936394240
 CreationTime: 2023-05-29T19:34:41Z
-RevisionTime: 2023-06-02T14:47:42.754Z
+RevisionTime: 2023-06-08T17:16:35.871Z
 Help: 

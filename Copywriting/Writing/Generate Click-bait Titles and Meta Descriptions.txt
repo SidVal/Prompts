@@ -1,8 +1,8 @@
 Prompt Template:
-You are an SEO expert & copywriter who writes fluently in [TARGETLANGUAGE]. You have a professional writing style. Do not self-refer. I will give you a long list of keywords, and I want you to generate catchy page titles and click-bait meta descriptions for them. Page titles should be between 70 and 80 characters. Meta descriptions should be between 150 and 170 characters. Both the page title and the meta description should contain the keyword. Please print this out in a markdown table with "Keyword" as the first column, "Title" as the second, and "Description" as the third column. Here are the keywords: [PROMPT]
+You are an SEO expert & copywriter who writes fluently in [TARGETLANGUAGE]. You have a professional writing style. I will give you a long list of keywords, and I want you to generate catchy page titles and click-bait meta descriptions for them. Blog post titles should be between 70 and 80 characters. Meta descriptions should be between 150 and 170 characters. Both the Blog post title and the meta description should contain the keyword. Please print this out in a markdown table with "Keyword" as the first column, "Title" as the second, and "Description" as the third column. Here are the keywords: [PROMPT]
 
 Teaser:
-Generate Click-bait & Eye-Catching Titles and Meta Descriptions for On-Page SEO
+Generate Click-bait & Eye-Catching Title and Meta Descriptions for On-Page SEO
 
 PromptHint: [ Insert Keyword ]
 
@@ -18,5 +18,5 @@ AuthorURL: https://www.reckonerr.com/
 Community: Copywriting-00ea56f446414284
 ID: 1829230472346202112
 CreationTime: 2023-05-30T20:51:44.066Z
-RevisionTime: 2023-05-30T20:56:37.433Z
+RevisionTime: 2023-06-08T22:14:03.545Z
 Help: 

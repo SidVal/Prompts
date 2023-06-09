@@ -13,10 +13,10 @@ Topic: SEO
 Activity: keywords
 
 AuthorName: Sabrina Hoppe
-AuthorURL: https://store.pwc.de/de
+AuthorURL: https://store.pwc.de/de?pk_campaign=aiprmchatgpt&pk_source=chatgpt&pk_medium=seo-meta-title-description-generator
 
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1832366364615249920
 CreationTime: 2023-06-08T12:32:39.045Z
-RevisionTime: 2023-06-08T12:50:39.261Z
+RevisionTime: 2023-06-09T06:37:40.894Z
 Help: 

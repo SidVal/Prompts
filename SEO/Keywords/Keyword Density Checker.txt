@@ -1,24 +1,25 @@
 Prompt Template:
-Your task is check keywords density in given article and make a result for text in percent. In the end add total percent of keywords density in text.All output shall be in [TARGETLANGUAGE]
-
-[PROMPT]
+I want you to act as a keyword density checker. I will provide you with a block of text and a keyword, and you will analyze the text to determine the frequency of the keyword used in the text. Your output should be the keyword density expressed as a percentage of the total number of words in the text. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible output.
+My first request is to check the keyword density for the keyword "[VARIABLE1]" in the following block of text: "[PROMPT]".
+[VARIABLE1:Enter Keyword Here]
+Please Respond in [TARGETLANGUAGE] Language
 
 Teaser:
-Check keyword density and watery in your article and make it perfect!
+Ensure your content is optimized for SEO with our Keyword Density Checker. Easily analyze your text to ensure your target keywords are being used with the right frequency and prominence.
 
-PromptHint: [Text]
+PromptHint: [Paste your text here to check keyword density]
 
-Title:  Keyword Density Checker
+Title: Keyword Density Checker
 
 Topic: SEO
 
 Activity: keywords
 
-AuthorName: SaldoInvoice
-AuthorURL: https://saldoinvoice.com/
+AuthorName: The Master Coder
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1793723468546826240#
 
 Community: SEO-84c5d6a7b8e9f0c1
-ID: 1799758152758202368
-CreationTime: 2023-03-10T12:59:15.507Z
-RevisionTime: 2023-03-15T12:52:23Z
+ID: 1808533423250468864
+CreationTime: 2023-04-03T18:09:03.029Z
+RevisionTime: 2023-04-12T14:11:55.879Z
 Help: 

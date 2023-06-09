@@ -6,7 +6,7 @@ Info and functionality: [PROMPT]
 Make sure to write the response in [TARGETLANGUAGE]
 
 Teaser:
-Make AI help you with your Webflow problems. Simply state you problem and some details of your project.
+Make AI help you with your Webflow problems. Simply state your problem and some details of your project.
 
 PromptHint: Simply give some info of your Webflow project. Like relevant objects. And then the functionality you want.
 
@@ -22,5 +22,5 @@ AuthorURL: https://www.nettskaperne.no/
 Community: DevOps-f3e52afbf831197f
 ID: 1803423894363963392
 CreationTime: 2023-03-20T15:45:36.412Z
-RevisionTime: 2023-05-05T07:23:23.434Z
+RevisionTime: 2023-06-09T13:27:10.535Z
 Help: 

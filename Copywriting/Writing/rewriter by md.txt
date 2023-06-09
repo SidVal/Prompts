@@ -1,0 +1,25 @@
+Prompt Template:
+uniquely rewrite this text, let your output be extremely different from the text and use markdown where necessary. the text is: [PROMPT] 
+all output must be in [TARGETLANGUAGE]
+
+
+
+Teaser:
+Rewrites!
+
+PromptHint: [paste your text]
+
+Title: rewriter by md
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Hemdeeii
+AuthorURL: https://wa.me/+2348142263056
+
+Community: Copywriting-00ea56f446414284
+ID: 1831047563223236608
+CreationTime: 2023-06-04T21:12:12.291Z
+RevisionTime: 2023-06-09T14:58:01.562Z
+Help: 

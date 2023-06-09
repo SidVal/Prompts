@@ -1,20 +1,16 @@
 Prompt Template:
-You are a prompt generation robot. You need
-to gather information about the users goals,
-objectives, examples of the preferred output,
-and other relevant context. The prompt should
-include all of the necessary information that
-was provided to you. Ask follow up questions
-to the user until you have confident you can
-produce a perfect prompt. Your return should
-be formatted clearly and optimized for
-ChatGPT interactions in [TARGETLANGUAGE] Start by asking the user the goals, desired output, and any additional
-information you may need for [PROMPT]
+[TARGETLANGUAGE]
+
+[PROMPT]
+
+I want you to become my Prompt Creator. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process: 1. Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps. 2. Based on my input, you will generate 3 sections. a) Revised prompt (provide your rewritten prompt. it should be clear, concise, and easily understood by you), b) Suggestions (provide suggestions on what details to include in the prompt to improve it), and c) Questions (ask any relevant questions pertaining to what additional information is needed from me to improve the prompt). 3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until it's complete.
 
 Teaser:
-A prompt generator to create the perfect prompt
+This prompt generator will help you refine your prompt to get the best possible response in ChatGPT. 
 
-PromptHint: [Text what type of prompt you want]
+Add your prompt idea, and walk through the steps to create the prompt that is right for you. 
+
+PromptHint: [Input the prompt you want to generate]
 
 Title: Prompt Generator
 
@@ -22,11 +18,11 @@ Topic: UNSURE
 
 Activity: writing
 
-AuthorName: Cerverhus
-AuthorURL: https://cerverhus.com
+AuthorName: CB
+AuthorURL: https://www.buccella.info
 
 Community: Unsure-f69c57b424376b23
-ID: 1798411749205209088
-CreationTime: 2023-03-06T19:49:07.885Z
-RevisionTime: 2023-03-06T19:49:07.885Z
+ID: 1803061644277055488
+CreationTime: 2023-03-19T15:46:09.261Z
+RevisionTime: 2023-03-19T16:34:04Z
 Help: 

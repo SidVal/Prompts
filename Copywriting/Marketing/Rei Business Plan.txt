@@ -73,7 +73,7 @@ Please write 400 words for each section. When you finish one section, prompt me 
 
 
 Teaser:
-Creat A Real Estate Investing Busienss Plan
+Creat A Real Estate Investing Busienss Plan with 1 click
 
 PromptHint:  [Enter your business name] 
 
@@ -89,5 +89,5 @@ AuthorURL: https://realdealmeetup.com/
 Community: Copywriting-00ea56f446414284
 ID: 1829919707747319808
 CreationTime: 2023-06-01T18:30:30.591Z
-RevisionTime: 2023-06-05T14:49:36.122Z
+RevisionTime: 2023-06-09T10:38:38.594Z
 Help: 
