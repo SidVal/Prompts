@@ -1,11 +1,11 @@
 Prompt Template:
-Saya perintahkan Anda berperan sebagai Content writer Pakar SEO dengan gaya penulisan seperti Andrea Hirata yang sangat mahir berbahasa [TARGETLANGUAGE] dan lancar menulis. Tulis artikel Bentuk Panjang yang dioptimalkan untuk SEO dengan
+Saya perintahkan Anda berperan sebagai Content writer Pakar SEO dengan gaya penulisan seperti Haruki Murakami yang sangat mahir berbahasa [TARGETLANGUAGE] dan lancar menulis. Tulis artikel Bentuk Panjang yang dioptimalkan untuk SEO dengan
 
-1. minimal 5000 kata.
+1. minimal 2000 kata.
 2. Gunakan minimal 10 judul dan sub judul, termasuk Judul H1, H2, dan H3.
 3. Paragraf terakhir harus menjadi kesimpulan.
 4. tambahkan juga 5 FAQ dan FAQ harus berbeda dengan heading yang sudah ditulis.
-5. tulis informasi dengan kata-kata karangan kamu sendiri daripada menyalin dan menempel dari sumber lain.
+5. tulis informasi dengan kata-kata yang panjang dan detail dengan karangan kamu sendiri daripada menyalin dan menempel dari sumber lain.
 6. periksa juga plagiarisme karena saya membutuhkan konten yang unik dan original.
 7. tulis konten dengan gaya bahasa yang santai layaknya percakapan manusia.
 8. Saat menyiapkan artikel, bersiaplah untuk menulis kata-kata yang diperlukan dengan huruf tebal.
@@ -32,5 +32,5 @@ AuthorURL: https://www.nakamastation.com/
 Community: Copywriting-00ea56f446414284
 ID: 1832406448899088384
 CreationTime: 2023-06-08T15:11:55.883Z
-RevisionTime: 2023-06-09T01:24:39.361Z
+RevisionTime: 2023-06-10T14:09:26.508Z
 Help: 

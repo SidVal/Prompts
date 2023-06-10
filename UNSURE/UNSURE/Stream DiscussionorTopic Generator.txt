@@ -1,0 +1,26 @@
+Prompt Template:
+'Act as a live stream host and engage with your audience by discussing a topic that encourages them to share their perspectives. Develop a short topic question that is conversational, friendly, and respectful. The prompt should generate a topic question that meets these requirements.
+
+The topic prompt is: "[PROMPT]"
+
+The target language is [TARGETLANGUAGE]'
+
+Teaser:
+Stream Conversation Topic Gnerator
+
+PromptHint: topic generator
+
+Title: Stream Discussion/Topic Generator
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Poly
+AuthorURL: https://jenntillman.me
+
+Community: Unsure-f69c57b424376b23
+ID: 1832877891064172544
+CreationTime: 2023-06-09T22:25:16.454Z
+RevisionTime: 2023-06-09T22:25:16.454Z
+Help: 

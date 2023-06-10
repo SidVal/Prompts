@@ -4,7 +4,7 @@ You are an SEO expert & copywriter who writes fluently in [TARGETLANGUAGE]. You 
 Teaser:
 Generate Click-bait & Eye-Catching Title and Meta Descriptions for On-Page SEO
 
-PromptHint: [ Insert Keyword ]
+PromptHint: [Insert Keyword]
 
 Title: Generate Click-bait Titles and Meta Descriptions
 
@@ -18,5 +18,5 @@ AuthorURL: https://www.reckonerr.com/
 Community: Copywriting-00ea56f446414284
 ID: 1829230472346202112
 CreationTime: 2023-05-30T20:51:44.066Z
-RevisionTime: 2023-06-08T22:14:03.545Z
+RevisionTime: 2023-06-10T10:45:57.131Z
 Help: 

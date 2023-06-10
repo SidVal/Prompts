@@ -20,6 +20,13 @@ Try to Make this Article "Surfer SEO" Friendly.
 [VARIABLE2: Enter your City or Country Name]
 [VARIABLE3: Enter the Range of Words e.g 800-1000 words]
 
+============================================
+
+Get Access to my Prompts Library:  https://bit.ly/3MY3RLG
+
+Looking for a custom prompt? or SEO services for your website? Hire me on Fiverr  https://bit.ly/42rWX6Y
+
+
 
 Teaser:
 This prompts generate a List of Services from the Given Keywords. The Writes a detailed article on each service along with company name.
@@ -38,5 +45,5 @@ AuthorURL: https://www.fiverr.com/digitals_
 Community: Marketing-cc647f5cf02ffd02
 ID: 1828296741737455616
 CreationTime: 2023-05-28T07:01:25.341Z
-RevisionTime: 2023-06-07T05:47:24.953Z
+RevisionTime: 2023-06-10T06:33:50.548Z
 Help: 

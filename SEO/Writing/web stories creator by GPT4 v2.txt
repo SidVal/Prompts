@@ -1,0 +1,25 @@
+Prompt Template:
+Your task is Create a SEO optimised Web Stories with #heading [TITLE] and [Meta Description] and the minimum 12 points Include no more than 200 characters Use a page attachment breaking up the text into multiple screens; or Keep the total number of text-heavy pages under 10% of total number of story pages. All output should be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Create Your SEO  Optimized Unique Web stories in just One click.
+Rank On Google Web Stories and Drive Unlimited Traffic.
+
+PromptHint: [Enter Your Keyword or Title Here]
+
+Title: web stories creator by GPT4 v2
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: The San Info
+AuthorURL: https://thesaninfo.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1827710299537666048
+CreationTime: 2023-05-26T16:11:06.625Z
+RevisionTime: 2023-06-10T04:13:58.33Z
+Help: 
