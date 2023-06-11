@@ -1,0 +1,25 @@
+Prompt Template:
+Write SEO Friendly 1000 words product description that will be based on the what is this, benefits of product and 5 features by just for required keywords.
+[TARGETLANGUAGE] . 
+
+[PROMPT]
+
+Teaser:
+Human Written | Plagiarism Free | SEO Optimized Article With Proper Outline
+
+PromptHint: Paste your "keyword" here
+
+Title: Human Written | 100% SEO Optimized Article
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Kazi Tasif
+AuthorURL: https://kazi-tasif.webflow.io/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1833156383404064768
+CreationTime: 2023-06-10T16:51:54.202Z
+RevisionTime: 2023-06-10T17:12:18.897Z
+Help: 

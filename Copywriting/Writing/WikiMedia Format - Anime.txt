@@ -1,6 +1,6 @@
 Prompt Template:
 saya akan membuat artikel dengan format penulisan mediawiki seperti wikipedia tentang anime
-dan buatlah alur cerita animenya dari awal sampai akhir  dengan panjang minimal cerita 500 kata,buat sub header tentang semua karakter anime,pengisi suara, judul musik,buat heading tentang studio,genre anime,penulis naskah,sutradara,desain art,refrensi sumber serta refrensi anime dan lainya dan buat red text untuk memasukan artikel lainnya agar artikel lebih dari 1000 kata dengan informasi tentang anime lengkap dan format penulisan pada gambar mirip seperti wikipedia lengkap dengan nama studio,sutradara,penulis,diadaptasi dari apa, dll ,
+dan buatlah alur cerita animenya dari awal sampai akhir  dengan panjang minimal cerita 500 kata,buat sub header tentang semua karakter anime,pengisi suara, judul musik,buat heading tentang studio,genre anime,penulis naskah,sutradara,desain art,refrensi sumber serta refrensi anime dan lainya dan buat red text untuk memasukan artikel lainnya agar artikel lebih dari 1000 kata dengan informasi tentang anime lengkap dan format penulisan pada gambar mirip seperti wikipedia lengkap dengan nama studio,sutradara,penulis,diadaptasi dari apa,tanggal tayang,sebutkan jika ada manga atau novelnya dll ,
 jangan lupa buatkan dengan format mediawiki dan buat alur cerita anime sepanjang mungkin dari awal hingga akhir anime dan buat kategori 
 serta beberapa gambar dengan posisi yang berbeda
 buat dengan judul anime [PROMPT]
@@ -25,5 +25,5 @@ AuthorURL: https://akunpro.ac.id/
 Community: Copywriting-00ea56f446414284
 ID: 1830129012677279744
 CreationTime: 2023-06-02T08:22:12.775Z
-RevisionTime: 2023-06-09T07:47:09.908Z
+RevisionTime: 2023-06-11T09:03:24.343Z
 Help: 

@@ -8,7 +8,7 @@ Intro paragraph
 Overview Table
 9-10 Related Subheadings 
 
-And dont mention which section is which also use html tags for every subheading. write in a way that author telling this  to their friends. make sure the article dosnt look plagrised by changing the section positions.
+And dont mention which section is which also use HTML tags for every subheading (dont write css or whole html from the start just use html tags for formatting  the article). write in a way that author telling this  to their friends. make sure the article dosnt look plagrised by changing the section positions.
 
 please intersperse short and long sentences. utilize uncommon terminology to enhance the originality of the content. please format the content in a professional format. do not self reference. do not explain what you are doing. 
 
@@ -30,5 +30,5 @@ AuthorURL: https://crazeculture.net/
 Community: Copywriting-00ea56f446414284
 ID: 1824241943304208384
 CreationTime: 2023-05-17T02:29:06.06Z
-RevisionTime: 2023-06-09T07:54:41.416Z
+RevisionTime: 2023-06-11T09:56:19.557Z
 Help: 
