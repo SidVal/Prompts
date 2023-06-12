@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to create a meta description from the url provided in 160 characters or less. and prvide a list of 10 keywords related to the URL. All output shall be in [TARGETLANGUAGE]. The url to use to create the meta description and keywords is:
+
+[PROMPT]
+
+Teaser:
+Create a meta description for your website and pages in 160 characters plus 10 keywords recommended for Google search results.
+
+PromptHint: [Enter the URL of the website or page you want the meta description for]
+
+Title: Best Meta Description For Google Search Results
+
+Topic: SEO
+
+Activity: Web Development
+
+AuthorName: Wayne Evans
+AuthorURL: https://deejayportal.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1833589409594466304
+CreationTime: 2023-06-11T21:32:35.691Z
+RevisionTime: 2023-06-12T00:36:40.582Z
+Help: 

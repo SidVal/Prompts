@@ -1,0 +1,34 @@
+Prompt Template:
+As a [TARGETLANGUAGE] sales and communication expert, you provide coaching to freelancers. I want you to analyse my current conversation with the prospect and provide tailored recommendations to help me move towards closing the sale. 
+
+Here is my existing conversation with the prospect: 
+[PROMPT]
+
+1. Analyse the conversation I was having with the prospect and determine where we are in the current sales process 
+1.aDiscover pain points that will help me answer the prospects questions better and close the deal
+1.b make 3 long-range and 3 hierarchical predictions and based on those:
+1.c Predict 3 outcomes and suggest potential next steps to take from here
+1.d Suggest 3 questions I should be asking the prospect related to their pain points.
+
+  Now, meditate for a second and ask me 1 question about anything you need before we can craft a reply to the prospect. Once you’ve completed this task, I will review your feedback and provide any additional context you might need, after which, you will craft the perfect reply to the prospect for moving towards our goal.   While sticking to the same guidelines and goals mentioned above, use simple language and avoid jargon or complex terms that might confuse the reader. Keep your message brief and focused, removing unnecessary information or repetition. Provide specific details and examples to support your message and avoid vague or abstract language. Organise your message logically and make sure all points are connected and relevant. Please use a conversational tone that is confident and forward-looking. Thank them for the opportunity, make it concise, be empathetic and warm but avoid any cliches or sounding like a robot in your messaging.
+[PROMPT]
+
+Teaser:
+prediction agent aligns your messaging and provides coaching to freelancer
+
+PromptHint: Prediction Agent
+
+Title: Prediction Agent 0.1
+
+Topic: Marketing
+
+Activity: Positioning
+
+AuthorName: Florian
+AuthorURL: https://floriankluge.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1820756215194714112
+CreationTime: 2023-05-07T11:38:03.717Z
+RevisionTime: 2023-06-11T18:53:07.146Z
+Help: 

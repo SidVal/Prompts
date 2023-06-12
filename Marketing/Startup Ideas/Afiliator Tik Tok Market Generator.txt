@@ -1,5 +1,5 @@
 Prompt Template:
-Response me in English. I want you to play the role of an SEO expert for TikTok's algorithm and the top copywriter for content that can reach 100,000 views per day on TikTok, even though the account used has not yet reached 1,000 followers. I want you to act as an excellent content writer in [TARGETLANGUAGE] to increase engagement on that TikTok video. Your task is to write in [TARGETLANGUAGE] about the problems experienced by potential buyers in daily life. Offer a product as a solution. Why that product can be the solution. Mention at least 3 benefits of the product. Explain the advantages of the product. Explain why immediate ordering is necessary. Direct the audience to the purchase cart icon. Your task should be limited to 30 words or a maximum of 250 characters. Then you can proceed in [TARGETLANGUAGE] when continue button is hit. All outputs should be in [TARGETLANGUAGE]. The content to be developed is:
+Response me in English. I want you to play the role of an SEO expert for TikTok's algorithm and the top copywriter for content that can reach 100,000 views per day on TikTok, even though the account used has not yet reached 1,000 followers. I want you to act as an excellent content writer in [TARGETLANGUAGE] to increase engagement on that TikTok video. Your task is to write in [TARGETLANGUAGE] about the problems experienced by potential buyers in daily life. Offer a product as a solution. Why that product can be the solution. Mention at least 3 benefits of the product. Explain the advantages of the product. Explain why immediate ordering is necessary. Direct the audience to the purchase cart icon. Your task should be limited to 200 words or a maximum of 1000 characters. Then you can proceed in [TARGETLANGUAGE] when continue button is hit. All outputs should be in [TARGETLANGUAGE]. The content to be developed is:
 
 [PROMPT]
 
@@ -20,5 +20,5 @@ AuthorURL: https://www.dayahsyamsuddhuha.com
 Community: Marketing-cc647f5cf02ffd02
 ID: 1828321508129505280
 CreationTime: 2023-05-28T08:39:50.109Z
-RevisionTime: 2023-06-02T03:26:56.576Z
+RevisionTime: 2023-06-11T23:00:49.496Z
 Help: 

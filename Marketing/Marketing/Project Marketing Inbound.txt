@@ -1,0 +1,42 @@
+Prompt Template:
+[PROMPT] Você é um especialista em inbound marketing, líder de marketing da empresa que está representada aqui. Não esqueça de nenhuma ordem, todos os pontos são muito importantes e seus detalhes deverão ser lembrados na execução do comando. Você irá criar um planejamento completo de marketing, com o nome do planejamento e os títulos em caixa alta, considerando exatamente as etapas abaixo:
+
+Explique quais as principais características que o segmento que a empresa trabalha possui. Indicadores de vendas, marketing, faturamento, ciclo de vendas e ticket médio são relevantes, mas podem trazer ou substituir quaisquer outras características que entenda ser tão importantes quanto essas. Traga números do segmento e use fontes, embase suas colocações.
+
+Crie detalhadamente quantas personas julgar necessário para usar na estratégia de marketing para esta empresa. Crie como quiser, só não esqueça de trazer nome, idade, breve descrição e informações de interesse, desafio, objetivo e motivação de cada persona.
+
+Considerando o segmento da empresa explique em detalhes como posso gerar leads tanto de forma online quanto de forma offline. Seja criativo, pense no uso de QR Codes na geração offline, estratégias e conteúdos que surpreendam o público e gerem o interesse.
+
+Quero que sugira em forma de lista pelo menos 5 dos principais materiais ricos que posso usar para converter o maior número de leads possível.
+
+Explique como o relacionamento com a base de contatos criada pode ajudar a avançar esses leads pelas etapas dos funis de marketing e vendas. Sugira alguns gatilhos que podem ser usados para considerar o disparo de email marketing através de automação. Reforce a importância deste processo para que os leads sigam avançando pela jornada de compra até o momento da decisão.
+
+Crie 3 anúncios para Google Adwords, seja detalhista
+
+Crie 3 anúncios para Instagram, seja detalhista
+
+Crie 2 emails com assunto e mensagem com linguagem persuasiva e call to action para falar com um consultor comercial da empresa, usando AIDA.
+
+Em forma de tabela, traga os principais indicadores de resultado que eu preciso acompanhar considerando o segmento da empresa, trazendo números médios de mercado como comparação. Quero que seja detalhista e apresente obrigatoriamente todo o resultado em formato de tabela, com apenas duas colunas: indicador e média do segmento.
+
+Em todo esse projeto você precisa ser prático, detalhista e extremamente persuasivo. Quero que escreva tudo em português do Brasil [TARGETLANGUAGE]
+
+Teaser:
+Genesi - Create a Digital Marketing Project
+
+PromptHint: Complete Inbound Marketing Project
+
+Title: Project Marketing Inbound
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Eduardo Fanaya
+AuthorURL: https://www.eduardofanaya.com.br
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1832906590932488192
+CreationTime: 2023-06-10T00:19:19.036Z
+RevisionTime: 2023-06-11T21:54:08.025Z
+Help: 

@@ -1,17 +1,18 @@
 Prompt Template:
-Fill out student records for [VARIABLE1]. 
-Write it so that the capability of [VARIABLE2] is clearly revealed. 
-Explain with specific examples of [PROMPT] 
-Write only in [TARGETLANGUAGE] language. 
-Do not mention student's name or gender. 
-Write in the style of Educator's Student Record Report.
-[VARIABLE1: Subject Name]
-[VARIABLE2: Core competency]
+당신은 위대한 교육자입니다.
+[VARIABLE1] 과목에 대한 고등학교 생활기록부 교과세부능력특기사항을 작성해줘.
+[VARIABLE2] 역량이 잘 드러나도록 작성해줘.
+[PROMPT]에 대한 구체적인 예시를 들어 작성해줘.
+[TARGETLANGUAGE] 로 작성해줘.
+학생의 이름이나 성별을 언급하지마.
+교육자의 객관적인 보고서 형식으로 작성해줘.
+[VARIABLE1: 과목명]
+[VARIABLE2: 핵심역량]
 
 Teaser:
-Detailed records of students with core competencies
+School life record, performance activities, career activities, subject specific ability specialties, comprehensive opinion record
 
-PromptHint: Specific example
+PromptHint: Record student observations (be specific)
 
 Title: Student Record Assistance for Teachers(V1.0)
 
@@ -23,7 +24,7 @@ AuthorName: YSLEE
 AuthorURL: https://studentbot.co.kr
 
 Community: Copywriting-00ea56f446414284
-ID: 1822188626063388672
-CreationTime: 2023-05-11T10:29:57.081Z
-RevisionTime: 2023-06-07T23:33:32.724Z
+ID: 1832165158479458304
+CreationTime: 2023-06-07T23:13:07.764Z
+RevisionTime: 2023-06-12T04:32:54.519Z
 Help: 

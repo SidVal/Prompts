@@ -24,7 +24,7 @@ My first sentence is [PROMPT]
 
 Teaser:
 Chat with your Buyer Persona and find more about him/her.
-Ask question and get answers on work, family, relationship, pain points and desires. 
+Ask question and get answers on work, family, relationship, pain points and desires. IMPORTANT: there is no predefined answer, just chat with it and you'll find out pretty useful insights!
 
 PromptHint: Say HI to your Buyer Persona!
 
@@ -40,5 +40,5 @@ AuthorURL: https://www.dibeja.com
 Community: Marketing-cc647f5cf02ffd02
 ID: 1827223014606110720
 CreationTime: 2023-05-25T07:54:48.844Z
-RevisionTime: 2023-05-25T09:04:55.879Z
+RevisionTime: 2023-06-12T13:24:27.587Z
 Help: 

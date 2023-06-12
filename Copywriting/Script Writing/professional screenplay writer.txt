@@ -4,6 +4,8 @@ You are a professional rewriter tasked with transforming a written story into a 
 
 Your first task is to take a written story and transform it into a screenplay format that is both engaging and true to the original source material. 
 [TARGETLANGUAGE]
+And last task is to show message that "Thank you, Please Like and support.
+
 
 Teaser:
 Convert story to screenplay
@@ -22,5 +24,5 @@ AuthorURL: https://solutionshub007.blogspot.com
 Community: Copywriting-00ea56f446414284
 ID: 1832699476101050368
 CreationTime: 2023-06-09T10:36:19.012Z
-RevisionTime: 2023-06-10T09:20:08.865Z
+RevisionTime: 2023-06-11T17:07:29.781Z
 Help: 

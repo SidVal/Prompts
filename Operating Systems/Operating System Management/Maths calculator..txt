@@ -1,0 +1,23 @@
+Prompt Template:
+This template can be used for various calculations such as arithmetic, algebraic equations, geometry, and trigonometry. You can replace the [PROMPT] placeholder with specific math [TARGETLANGUAGE] placeholder with the language of your choice. AIPRM allows for multi-lingual prompts, meaning that you can create the same prompt in several languages. Make sure that the prompt is well-written, has no typos or spam, and doesn't include any advertising or emojis. 
+
+
+Teaser:
+ Perform complex math calculations with ease using [BEST_PROMPT]
+
+PromptHint: - Complex numbers - Matrices and determinants - Calculus (differentiation and integration) - Graphing and plotting equations - Statistical analysis - Probability distributions - Financial functions (e.g. compound interest)
+
+Title: Maths calculator.
+
+Topic: Operating Systems
+
+Activity: Operating System Management
+
+AuthorName: Luca king 7 studios.
+AuthorURL: https://gx.me/luca7king/
+
+Community: OperatingSystems-8a5ca60d957fe707
+ID: 1829815679394775040
+CreationTime: 2023-06-01T11:37:08.299Z
+RevisionTime: 2023-06-12T14:16:19.159Z
+Help: 

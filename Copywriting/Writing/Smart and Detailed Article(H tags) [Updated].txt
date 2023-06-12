@@ -12,11 +12,11 @@ Topic: Copywriting
 
 Activity: writing
 
-AuthorName: ahmet1340
-AuthorURL: https://ahmettoprak.com
+AuthorName: ContGPT
+AuthorURL: https://contgpt.com
 
 Community: Copywriting-00ea56f446414284
 ID: 1782429243259752448
 CreationTime: 2023-01-21T17:20:21.527Z
-RevisionTime: 2023-06-06T14:45:08.826Z
+RevisionTime: 2023-06-12T09:29:08.696Z
 Help: 

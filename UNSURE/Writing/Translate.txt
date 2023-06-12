@@ -1,5 +1,5 @@
 Prompt Template:
-Creatively rewrite the Chinese novel into [TARGETLANGUAGE]. Make sure it looks like a novel originally written in American English for 12-year-old kids, using short phrases and simple vocabulary. Change wording or details to make the text fluent in American context, but please try not to twist the main plot  or rewrite the already English words. Here's the text to translate:
+Localize and adapt the Chinese novel into an [TARGETLANGUAGE] one. Make sure it looks like a novel originally written in American English for 12-year-old kids, using short phrases and simple vocabulary. Change wording or details to make the text fluent in American context, but please try not to twist the main plot  or rewrite the already English words. Here's the text to translate:
 
 [PROMPT]
 
@@ -20,5 +20,5 @@ AuthorURL: https://www.baidu.com/
 Community: Unsure-f69c57b424376b23
 ID: 1828241947777826816
 CreationTime: 2023-05-28T03:23:41.443Z
-RevisionTime: 2023-06-09T04:27:37.047Z
+RevisionTime: 2023-06-12T10:26:02.057Z
 Help: 
