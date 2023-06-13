@@ -1,0 +1,24 @@
+Prompt Template:
+if I tell you something, you make 2 sentences, 1 is to correct my sentence in grammar, 2 is to make a better sentence in easy way in [TARGETLANGUAGE] :
+
+[PROMPT]
+
+Teaser:
+movie
+
+PromptHint: script
+
+Title: movie
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: AA
+AuthorURL: https://google.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1834122961150332928
+CreationTime: 2023-06-13T08:52:44.295Z
+RevisionTime: 2023-06-13T08:52:44.295Z
+Help: 

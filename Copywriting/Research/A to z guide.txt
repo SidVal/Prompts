@@ -1,0 +1,24 @@
+Prompt Template:
+your task is to Write a detail guide about given topic without plagiarism. including main heading and subheading also write paragraph for every main heading and subheading. write every perspective according to title.[TARGETLANGUAGE]. Must be 5000 words and  write a small introduction in the start.
+
+[PROMPT]
+
+Teaser:
+A to z guide
+
+PromptHint: guide
+
+Title: A to z guide
+
+Topic: Copywriting
+
+Activity: Research
+
+AuthorName: ABD
+AuthorURL: http://orgagris.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1824874038779174912
+CreationTime: 2023-05-18T20:20:49.365Z
+RevisionTime: 2023-06-13T03:25:58.022Z
+Help: 

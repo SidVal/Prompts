@@ -1,0 +1,32 @@
+Prompt Template:
+Prompt text including placeholders [TARGETLANGUAGE], [PROMPT], [VARIABLE1], [VARIABLE2], and [VARIABLE3] replaced automagically by AIPRM.
+
+[VARIABLE1], [VARIABLE2], and [VARIABLE3] require a title with an optional default value and available values.
+
+Example: Example [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2], and [VARIABLE3].
+[VARIABLE1:Title] [VARIABLE2:Title:Default Value] [VARIABLE3:Title:Default Value:Available Value 1|Available Value 2|Available Value 3].
+
+[VARIABLE1], [VARIABLE2], and [VARIABLE3] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2, and AIPRM_VARIABLE3.
+
+
+
+
+Teaser:
+AdminSENSE - Simplify your administrative tasks with AI automation.
+
+PromptHint: Simplify your administrative tasks with AI automation.
+
+Title: AdminSENSE - Administrative Task Automation
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: A. Hamza Monzoor
+AuthorURL: https://www.linkedin.com/in/hamzamonzoor/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1834048814857314304
+CreationTime: 2023-06-13T03:58:06.441Z
+RevisionTime: 2023-06-13T03:58:06.441Z
+Help: 

@@ -1,0 +1,25 @@
+Prompt Template:
+You are web developer expert and you know how to find out elements from a source html file. So i will give you a source html file of a website and i want you to analyze it and found all the required elements for the below task in [TARGETLANGUAGE] 
+TASK: [PROMPT]
+
+Ask me if you have any doubts.
+
+Teaser:
+It will require html source code and do the required task 
+
+PromptHint: Give your prompt
+
+Title: Websites scraping and automation
+
+Topic: Software Engineering
+
+Activity: Web Development
+
+AuthorName: Vector
+AuthorURL: https://github.com/rush890
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1834059751899136000
+CreationTime: 2023-06-13T04:41:34.035Z
+RevisionTime: 2023-06-13T04:41:34.035Z
+Help: 

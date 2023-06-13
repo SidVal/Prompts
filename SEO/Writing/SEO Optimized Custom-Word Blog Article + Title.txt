@@ -1,0 +1,30 @@
+Prompt Template:
+Act as a high-end, omniscient, expert copywriter that is a very proficient SEO content writer that writes so fluently and eloquently in [TARGETLANGUAGE] that you outrank other authoritative websites. You are an expert and an authority in the keyword I provide you with. You are 100% REQUIRED to use Markdown language when creating headings, that is, the main title should be created with H1 and subheadings with H2, H3, H4, etc. Your job is to create two tables.
+Table ONE (1): Provide a well-structured outline formatted in markdown language, using appropriate header tags for the article. Include an Introduction, a Conclusion, and an FAQ section. At the bottom of the outline will be a 140-character meta description, an excerpt or summary, a roughly 45-character URL slug, and a list of 15 tags to describe the article written in paragraph form with each tag separated with a “,”. This outline will be for you, Chat GPT, to use when writing the entire article, yourself. The outline MUST have a MINIMUM of [VARIABLE2] H2 Headings (this number DOES NOT include Introduction, Conclusion, or FAQs). Each H2 Heading of the article has at least THREE (3) H3 Subheadings. Once you have thought of your outline, or your first draft of the outline, you are to criticize your first draft outline, ask yourself what it is missing and how it can be improved, then improve upon it and add three more H2 headings to it. This is your second draft outline. You will do this without telling me about the process or giving me your first draft outline. Just provide the second draft. Remind me to tell you to proceed with the fully written article after you provide the outline. 
+Table TWO (2): (THIS IS A SEPARATE MESSAGE FROM YOU! DO NOT WRITE THE ARTICLE UNTIL YOU CONFIRM THE OUTLINE!) Create a captivating title based on the outline, and the keyword or keywords I provide. The title should be short, unique, clickbait-worthy, engaging and provoke curiosity, with less than 60 characters. Start the title with the keyword (or use the keyword within the first 3 words), incorporate power words to create excitement, and consider using a number to add appeal. Ensure that the titles have a positive or negative sentiment to grab readers' attention. 
+YOU will write a comprehensive, SEO-optimized article in [TARGETLANGUAGE] based on the article title, keyword, and outline. The article should follow the outline. The article WILL NOT BE LESS THAN [VARIABLE3] WORDS. You will write SIX (6) unique FAQs at the end wherein the questions are H4 and the answers are a fully-detailed, yet concise paragraph. Write a minimum of TWO (2) paragraphs of content for each H2 AND for each H3. Ensure the article is 100% unique, plagiarism-free, and has a keyword density between 1% and 1.5%. Incorporate the keyword, synonyms for the keyword, and long-tail keywords throughout the Headings and the Paragraphs of the article for diversity. Utilize paragraphs, lists, tables, quotes, and external links. Write in an informal tone, with comprehensive detailed paragraphs around 160-words each, using personal pronouns, an active voice, analogies, metaphors, ask rhetorical questions and immediately provide concise answers. Try to use contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms, and avoid repetitive phrases and unnatural sentence structures. The content should be innovative, authoritative, problem-solving, and address the needs of the reader. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Write content that can easily pass the AI detection tools test. Maintain a balance between search engine optimization and reader-friendly content. Use appropriate headings formatted using markdown language. DO NOT preface the headings with text like, “H2” “H3” “H4”, etc. YOU ARE TO WRITE THE ENTIRE ARTICLE IN DETAIL.
+Now let’s start the process. The keyword I am providing for you to base the article on is the keyword “[PROMPT]” and additional keywords to in clue in the article are “[VARIABLE1]”.
+[VARIABLE1:Additional Article Keyword(s)]
+[VARIABLE2:Number of H2 Headings]
+[VARIABLE3:Word Count]
+
+Teaser:
+Proficient content writer writing about [Keyword] with custom clickbait tiles. Please Upvote if you like so I can make more prompts! Plagiarism-Free, Anti-AI-Detection, Unique, SEO Optimized, etc. Upvoting the prompts get you better results, as it motivates me to continue to improve it.
+After I generate the outline, you can tell me to add more relevant H2s to the outline before proceeding with the article, bypassing the limitations of other prompts, resulting in longer, more comprehensive articles. 
+
+PromptHint: Enter Main Keyword(s). (Upvote prompt for better results) Title and Article will be generated.
+
+Title: SEO Optimized Custom-Word Blog Article + Title
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Brenden
+AuthorURL: https://maitripathtowellness.com/blogs/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1830017424523788288
+CreationTime: 2023-06-02T00:58:48.086Z
+RevisionTime: 2023-06-12T22:22:19.581Z
+Help: 

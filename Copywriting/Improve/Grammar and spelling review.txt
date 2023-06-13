@@ -1,10 +1,10 @@
 Prompt Template:
-Melhore o vocabulário sem perder o sentido do contexto a partir do texto nas palavras do autor Landro Carnal após ter se formado no curso de Engenheria de Software em Portugues do Brasil. [TARGETLANGUAGE]
+Revise a Gramática e Ortografia do Texto sem perder o sentido do contexto em Portugues do Brasil. [TARGETLANGUAGE]
 
 [PROMPT]
 
 Teaser:
-Improve vocabulary while maintaining the sense of context in the words of the author Landro Carnal after graduating from the Software Engineering course in Portuguese, from the text.
+Review the Grammar and Spelling of the Text without losing the sense of the context in the Brazilian Portuguese language.
 
 PromptHint: Enter with Text to review, of Grammar and spelling review
 
@@ -18,7 +18,7 @@ AuthorName: Luis Nt
 AuthorURL: https://app.qbits.pl/luisnt
 
 Community: Copywriting-00ea56f446414284
-ID: 1831623544816267264
-CreationTime: 2023-06-06T11:20:57.004Z
-RevisionTime: 2023-06-06T11:35:48.688Z
+ID: 1834153813868150784
+CreationTime: 2023-06-13T10:55:20.156Z
+RevisionTime: 2023-06-13T10:59:26.371Z
 Help: 

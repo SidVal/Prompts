@@ -1,0 +1,22 @@
+Prompt Template:
+ [TARGETLANGUAGE]  [PROMPT]
+
+Teaser:
+ceasedsadasd
+
+PromptHint: ceshi
+
+Title: ceshi-test
+
+Topic: DevOps
+
+Activity: Configuration Management
+
+AuthorName: 测试
+AuthorURL: https://www.baidu.com/
+
+Community: DevOps-f3e52afbf831197f
+ID: 1834095313075056640
+CreationTime: 2023-06-13T07:02:52.48Z
+RevisionTime: 2023-06-13T07:02:52.48Z
+Help: 

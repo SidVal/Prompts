@@ -1,7 +1,7 @@
 Prompt Template:
 I want you to act as a very proficient SEO writer who can write high-quality content in fluent [TARGETLANGUAGE]. Your task is to create the length of the article should be 150% of the average length of the article for this keyword from the top 10 Google article that is 100% unique, SEO-optimized, and human-written. The article should cover the topic provided and should have at least 15 headings and subheadings, including H1, H2, H3, and H4 headings. Take the headlines as in the articles on this keyword from the top 10 of Google. Also translate [PROMPT] into [TARGETLANGUAGE] language and analyze top 10 texts in [TARGETLANGUAGE] language for better understanding of the topic.
 
-To ensure SEO effectiveness, write the article in a formal "we form" and aim to outrank a specific article on Google. Use the keyword [PROMPT] throughout the article, including in the headings. Incorporate LSI Keywords in the headings as well. The article should be a long-form piece of content, reaching a minimum of 1000 words. Utilize LSI Keywords: Incorporate semantically related keywords throughout your content.
+To ensure SEO effectiveness, write the article in a formal "we form" and aim to outrank a specific article on Google. Use the keyword [PROMPT] throughout the article, including in the headings. Incorporate LSI Keywords in the headings as well. The article should be a long-form piece of content, reaching a minimum of 5000 words. Utilize LSI Keywords: Incorporate semantically related keywords throughout your content.
 
 Remember to use Markdown language to bold the title and all headings of the article. Properly format the article according to SEO standards, using HTML elements such as lists, bold, italics, and quotes from reputable sources. Include external links to high-quality websites like Wikipedia.
 
@@ -31,5 +31,5 @@ AuthorURL: https://sadhu.com.ua/
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1833239965892100096
 CreationTime: 2023-06-10T22:24:01.82Z
-RevisionTime: 2023-06-10T23:40:48.71Z
+RevisionTime: 2023-06-13T09:08:20.425Z
 Help: 

@@ -4,7 +4,7 @@ First: Start with an introduction.
 Second: Related title heading and their content 
 Third:Title content to the point  about 1500 words
 Last: Conclusion 
-Note give number line, the maximum number of words more than 3000[English]
+Note give number line, the maximum number of words more than 3000[English] and every heading in H2
 
 Teaser:
 Human Written | Plagiarism Free | SEO Optimized Long-Form Article With Proper Outline [Upgraded Version]
@@ -23,5 +23,5 @@ AuthorURL: https://www.gamingbeen.com/
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1833864706462048256
 CreationTime: 2023-06-12T15:46:31.579Z
-RevisionTime: 2023-06-12T15:51:27.23Z
+RevisionTime: 2023-06-13T03:11:47.216Z
 Help: 

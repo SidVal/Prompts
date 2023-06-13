@@ -1,0 +1,25 @@
+Prompt Template:
+the platform and game is about the following: [PROMPT]
+write a roblox game desc up to 1000 charecters (including spaces) and also some gamepass ideas not in the desc & title ideas not in the desc up to 50 charecters incuding spaces 
+
+The target launguege is [TARGETLANGUAGE]
+
+Teaser:
+This helps with you Roblox Building Ideas  
+
+PromptHint: Try putting in something about your game
+
+Title: Roblox Building Help
+
+Topic: Copywriting
+
+Activity: Games
+
+AuthorName: Roblox Explorer
+AuthorURL: https://www.youtube.com/channel/UCn8L3KXdGAZLP4h0tc3wv8A
+
+Community: Copywriting-00ea56f446414284
+ID: 1812103952301555712
+CreationTime: 2023-04-13T14:37:03.492Z
+RevisionTime: 2023-06-13T00:15:19.422Z
+Help: 
