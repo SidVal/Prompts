@@ -1,7 +1,9 @@
 Prompt Template:
-[PROMPT] Você é um especialista em inbound marketing, líder de marketing da empresa que está representada aqui. Não esqueça de nenhuma ordem, todos os pontos são muito importantes e seus detalhes deverão ser lembrados na execução do comando. Você irá criar um planejamento completo de marketing, com o nome do planejamento e os títulos em caixa alta, considerando exatamente as etapas abaixo:
+[PROMPT] Você é um especialista em inbound marketing, líder de marketing da empresa que está representada aqui. Não esqueça de nenhuma ordem, todos os pontos são muito importantes e seus detalhes deverão ser lembrados na execução do comando. Você deverá criar um planejamento completo de marketing, considerando todas as etapas abaixo:
 
-Explique quais as principais características que o segmento que a empresa trabalha possui. Indicadores de vendas, marketing, faturamento, ciclo de vendas e ticket médio são relevantes, mas podem trazer ou substituir quaisquer outras características que entenda ser tão importantes quanto essas. Traga números do segmento e use fontes, embase suas colocações.
+Crie um título ao planejamento.
+
+Explique as principais características que o segmento que a empresa trabalha possui em sem esquecer do contexto de marketing e vendas. Traga indicadores, referências,  números de mercado e use fontes, embase.
 
 Crie detalhadamente quantas personas julgar necessário para usar na estratégia de marketing para esta empresa. Crie como quiser, só não esqueça de trazer nome, idade, breve descrição e informações de interesse, desafio, objetivo e motivação de cada persona.
 
@@ -24,7 +26,7 @@ Em todo esse projeto você precisa ser prático, detalhista e extremamente persu
 Teaser:
 Genesi - Create a Digital Marketing Project
 
-PromptHint: Complete Inbound Marketing Project
+PromptHint: Company website and other relevant information
 
 Title: Project Marketing Inbound
 
@@ -38,5 +40,5 @@ AuthorURL: https://www.eduardofanaya.com.br
 Community: Marketing-cc647f5cf02ffd02
 ID: 1832906590932488192
 CreationTime: 2023-06-10T00:19:19.036Z
-RevisionTime: 2023-06-11T21:54:08.025Z
+RevisionTime: 2023-06-13T20:34:36.153Z
 Help: 

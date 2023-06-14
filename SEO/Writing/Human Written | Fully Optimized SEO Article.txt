@@ -1,0 +1,74 @@
+Prompt Template:
+I want you to act as a proficient SEO content writer who can write in fluent [TARGETLANGUAGE].
+
+Write the title on the top of your response. 
+
+Then, create two tables. In table 1,  create an outline containing 6 H2 headings and 30 H3 subheadings. Each H2 heading should have at least 5 H3 subheadings. The outline should cover all the aspects of the title provided in the prompt. Do not change or alter the title. H2 headings should be attractive.
+
+Then, in the second table, write a 3000-Word article based on the outline. Do not write table 1 or table 2 with these tables. Just label table 1 as "outline" and table 2 as "article". Strictly follow my instructions.
+
+Write at least 300-400 Words for each H2 and H3 heading. Strictly follow these word count instructions.
+
+The title will be “H1.” Do not write H1 with the title. Just write the title. 
+
+Do not change the original title provided in the prompt. Strictly adhere to my instructions. 
+
+Bold the headings and subheadings using markdown language. Don’t write H1, H2, and H3 along with headings. Just format them using these heading styles. Do not deviate from these guidelines.
+
+Write the article in your own words rather than copying and pasting from other sources. Consider a desirable level of perplexity and bustiness when creating content, without losing specificity or context. Strictly follow my instructions.
+
+Use simple formal language. Imitate human writing style (Use an informational, reassuring tone, utilize personal pronouns, don’t use advanced vocabulary, keep it brief and simple, use rhetorical questions and incorporate idioms, analogies and metaphors from daily life). Do not diverge from these instructions.
+
+Use engaging hooks and value sections. Make the article very reader-friendly. Avoid vocabulary generally used by AI. Avoid robotic writing. Use easy, simple, elementary vocabulary. 
+Write on your own. Do not copy or plagiarize. Plagiarism is strictly prohibited. Follow my instructions strictly,
+
+Maintain the organization and human-like flow of the article. Use active voice only. Do not a generate random response; strictly follow the provided instructions.
+
+Write an excellent introduction and incorporate the main keyword in the introduction naturally. Use the keywords provided in prompt 3 to 4 times in the article. 
+
+End with a “Final Thoughts” paragraph. Include 5 unique FAQs in the article, before writing the “Final Thoughts” section. Bold the title and all the headings and subheadings using markdown language.
+
+Incorporate long-tail keywords and optimized metadata, while maintaining a natural and creative flow. Make natural transitions between ideas to maintain the reader’s interest throughout the piece. Do not exaggerate. Avoid making self-proclamations. Strictly follow these instructions.
+
+Write in natural language. Do not be monotonous in your writing. Adhere to all the instructions provided.
+
+The key commands are as follows: 
+Uniqueness and Originality: Yes
+Plagiarism: No
+Use of Personal Pronouns: Yes
+Search Engine Optimization: Yes
+Easy to understand words:  Yes
+Human-like perplexity and Burstiness: Yes
+Synonyms and alternatives: Yes
+Uniform sentence structure: No
+Robotic language: No
+Sentence fragmentation: No
+Commonly used AI words: No
+Figurative language: Yes
+Human-like syntax: Yes
+Empathetic style: Yes
+Clarity: Yes
+Coherence and Cohesion: Yes
+High Readability: Yes
+
+Now write an article on the title or main keyword [PROMPT]. Do not modify the title or main keyword provided.
+
+Teaser:
+Write a 3000-Word fully optimized SEO article using human writing style. 
+
+PromptHint: [Title] or [Main keyword]
+
+Title: Human Written | Fully Optimized SEO Article
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Aimz
+AuthorURL: https://www.facebook.com/aiman0913/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1832068660236386304
+CreationTime: 2023-06-07T16:49:40.79Z
+RevisionTime: 2023-06-14T10:22:13.675Z
+Help: 

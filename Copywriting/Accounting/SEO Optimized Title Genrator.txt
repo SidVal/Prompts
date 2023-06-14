@@ -1,5 +1,6 @@
 Prompt Template:
-Suggest 10 SEO Optimized Titles for Following keyword  [TARGETLANGUAGE] and [PROMPT]
+Suggest 10 SEO Optimized Titles for Following keyword  
+[TARGETLANGUAGE] and [PROMPT]
 
 Teaser:
 [keyword]
@@ -14,11 +15,11 @@ Topic: Copywriting
 
 Activity: Accounting
 
-AuthorName: Zubair ijaz
-AuthorURL: https://leatherapron.shop
+AuthorName: Scottish Kilt
+AuthorURL: https://scottishkiltshop.com
 
 Community: Copywriting-00ea56f446414284
 ID: 1813846723785912320
 CreationTime: 2023-04-18T10:02:12.593Z
-RevisionTime: 2023-04-20T06:43:38.575Z
+RevisionTime: 2023-06-14T10:47:35.607Z
 Help: 

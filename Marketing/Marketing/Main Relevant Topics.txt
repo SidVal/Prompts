@@ -1,0 +1,35 @@
+Prompt Template:
+I would like you to analyze this [PROMPT] and craft multiple relevant, important, and valuable content I can use as a social media post. The aim of this is to ensure that I maximize and carefully handpick the important parts of this transcript and to maximize the resources we have right now and be innovative and creative but still concise and suitable for multiple platforms such as LinkedIn, Twitter, Facebook, Instagram, and Tiktok. Remember to captivate the audience's attention, encourage exploration, and deliver valuable knowledge with the topics you will generate.
+
+Important Details:
+- Analyze the reference content and extract its core concepts
+- Provide relevant and main topics to begin with
+- Provide expert insights and interpretations in a conversational or motivational manner.
+- Maintain a tone that is intriguing and sparks curiosity.
+- Keep the content concise and suitable for social media posting
+- Craft the generated content to emulate an expert's perspective
+- Encourage the audience to delve deeper into the topic and explore its possibilities.
+
+Ensure that the results are engaging, motivating, informative, and captivating.
+
+Generate response in [TARGETLANGUAGE]
+
+Teaser:
+enter resource
+
+PromptHint: Multiple topics from script
+
+Title: Main Relevant Topics
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: fxt
+AuthorURL: https://blogchange.world
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1821407325668499456
+CreationTime: 2023-05-09T06:45:20.551Z
+RevisionTime: 2023-06-14T07:47:02.724Z
+Help: 

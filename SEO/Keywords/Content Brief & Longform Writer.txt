@@ -11,9 +11,9 @@ Prompt: Apply your extensive SEO expertise to perform advanced keyword research 
 
 Step 3: Engaging Blog Post Writing & Visual Elements Incorporation & External Link Inclusion About: [PROMPT]
 
-Prompt: Embark on the meticulous creation of an engaging blog post on [PROMPT], aiming for a minimum of 2000-4000 words. Use a punchy, metaphorical tone that resonates with the buyer persona, and maintain a varied, engaging format. Seamlessly integrate the SEO and LSI keywords identified in Step 2. Include relevant stats, quotes, and links as guided by the detailed outline created in Step 1. Suggest images that align with the content, provide their specific links, and format everything in markdown. Ensure that each section reflects the instructions provided in the detailed outline from Step 1. Write as much as possible in each response, and don't worry about completing the blog post in a single response. Make sure there are the optimal number of external links to high DA sites by linking out to them as often as possible. aim for the optimal amount from the content brief to be the minimum number of links in the final output
+Prompt: Embark on the meticulous creation of an engaging blog post on [PROMPT], aiming for a minimum of 2000-4000 words. Use a punchy, metaphorical tone that resonates with the buyer persona, and maintain a varied, engaging format. Seamlessly integrate the SEO and LSI keywords identified in Step 2. Include relevant stats, quotes, and links naturally by the detailed outline created in Step 1. Label the headings using hashtags for proper formatting. Ensure that each section reflects the instructions provided in the detailed outline from Step 1. Write as much as possible in each response, and don't worry about completing the blog post in a single response. To avoid issues of memory of the writing instructions and such, use a running summary. Make sure there are the optimal number of external links to high DA sites by linking out to them as often as possible. 
 
-The AI will then sequentially work through each step, taking several responses to complete each one, and providing you with a comprehensive and detailed blog post at the end. Please note that the AI can generate a few hundred words per response, so a blog post of the ideal content length (2000-4000 words) will be several responses 
+The AI will then sequentially work through each step, taking several responses to complete each one, and providing you with a comprehensive and detailed blog post at the end. Please note that the AI can generate a few hundred words per response, so a blog post of the ideal content length (2000-4000 words) will be several responses.
 
 Teaser:
 Premium Level Content Brief - Ideal Keywords, Ideal content length, target audience, Meta Description, Meta Title, Blog tags, longtail and related keywords
@@ -32,5 +32,5 @@ AuthorURL: https://socialpetworker.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1785620599591407616
 CreationTime: 2023-01-30T12:41:40.169Z
-RevisionTime: 2023-06-09T16:02:41.939Z
+RevisionTime: 2023-06-14T07:02:19.086Z
 Help: 

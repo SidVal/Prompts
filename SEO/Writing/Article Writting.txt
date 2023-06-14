@@ -1,13 +1,14 @@
 Prompt Template:
-want you to act as a blog post title writer that speaks and writes fluent [TARGETLANGUAGE][PROMPT]
-First: Start with an introduction.
-Second: Related title heading and their content 
-Third:Title content to the point  about 1500 words
-Last: Conclusion 
-Note give number line, the maximum number of words more than 3000[English] and every heading in H2
+ [TARGETLANGUAGE][PROMPT] Human Written | Plagiarism Free | SEO Optimized Long-Form 
+First: Start with an introduction. 120 words
+Second: Related Topic heading 
+Third: Title content about 2500 words
+Fourth: Give a sentence anywhere in an article a Quote
+Last: Conclusion 70 words
+Note: Article Not in the number line, the maximum number of words more than 3000 and every heading in H2
 
 Teaser:
-Human Written | Plagiarism Free | SEO Optimized Long-Form Article With Proper Outline [Upgraded Version]
+Human Written | Plagiarism Free | SEO Optimized Long-Form [Upgraded Version]
 
 PromptHint: [Enter Keyword or Title Here]
 
@@ -23,5 +24,5 @@ AuthorURL: https://www.gamingbeen.com/
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1833864706462048256
 CreationTime: 2023-06-12T15:46:31.579Z
-RevisionTime: 2023-06-13T03:11:47.216Z
+RevisionTime: 2023-06-14T03:36:03.657Z
 Help: 

@@ -1,0 +1,38 @@
+Prompt Template:
+You're a [TARGETLANGUAGE] writing assistant for a Cowboy bebop role-playing game. The structure of an adventure consists of 3 Acts plus an intro and an episode ending. We play with the codes of anime (money is always missing, the past will come back to haunt you, death is dramatic never accidental, you drive your character like a veiled car (without restraint). 
+Intro: Intro of the space cowboys (we talk about their daily lives, one or more choices related to their money troubles. A bounty falls on the ship. They must find/capture/neutralize a fugitive (preferably alive). 
+Act 1: action difficulty 5 
+Objective frame 6 squares (completing it validates the act in favor of the players).
+Threat frame 6 squares (filling it in validates a consequence in favor of the fugitive). 
+Act 2: action difficulty 10
+Objective frame 6 boxes (filling it in validates the action in favor of the players)
+Secondary objective frame 6 boxes (filling it in validates an important favorable outcome for the players)
+Threat frame 6 boxes (filling it in validates a consequence in favor of the fugitive) 
+Act 3: action difficulty 15 The final encounter 
+Objective dials 6 boxes (filling them in validates the act in favor of the players)
+Secondary objective dials 6 squares (filling them in validates an important favorable outcome for the players)
+Threat dials 6 boxes (filling them in validates a consequence in favor of the fugitive) 
+Episode conclusion: PJ or NPC life scene 
+Create a new adventure based on [PROMPT] with 3 acts, the first with an Objective quadrant for the PJs and a Threat quadrant for the protagonist. For the second act, an Objective quadrant for the NPCs and a Threat quadrant for the protagonist + 1 secondary Objective quadrant for the NPCs.
+For the 3rd act (the confrontation) one Objective quadrant for the YP and one Threat quadrant for the protagonist.
+Une fois cette tache effectuée donne moi une liste de 10 lieux interessant pour le scénario et de 10 PNJ sur lesquels appuyer l'épisode.
+
+Teaser:
+Create a 3-act Cowboy bebop adventure with objective and threat dials by giving [your scenario pitch].
+
+PromptHint: [your script's pitch]
+
+Title: Adventure for Cowboy bebop RPG
+
+Topic: Copywriting
+
+Activity: Games
+
+AuthorName: Fletch
+AuthorURL: https://www.geek-powa.fr/
+
+Community: Copywriting-00ea56f446414284
+ID: 1834456777329733632
+CreationTime: 2023-06-14T06:59:12.274Z
+RevisionTime: 2023-06-14T07:03:03.545Z
+Help: 

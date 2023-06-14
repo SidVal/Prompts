@@ -1,12 +1,12 @@
 Prompt Template:
-I want you to act as a professional content writer which writes SEO Optimized content in Fluent [TARGETLANGUAGE]. Write 100% Unique, Creative, and Human-Written Content in [TARGETLANGUAGE] with Conversational Style. Use the Markdown formatting and follow SEO standards while writing the article on given topic. First of all, Create table for Outline and write outline in the table (Only write headings in this table with numbering). After that write the entire article outside of the table according to the outline. Must write atleast [VARIABLE1]/10 heading and Subheading  (including H1, H2, H3, and H4 headings) and elaborate it in your own words. Heading should be meaningful and make them simple. Write minimum [VARIABLE1] words, longform, well researched and easy to read article. Do not forget to use question mark (?) at the end of questions. At the end of the article write atleast [VARIABLE3] FAQs that are relevant to the topic.
+I want you to act as a professional content writer which writes SEO Optimized content in Fluent [TARGETLANGUAGE]. Write 100% Unique, Creative, and Human-Written Content in [TARGETLANGUAGE] with Conversational Style. Use the Markdown formatting and follow SEO standards while writing the article on given topic. First of all, Create table for Outline and write outline in the table (Only write headings in this table with numbering). After that write the entire article outside of the table according to the outline. Must write atleast [VARIABLE1]/10 heading and Subheading  (including H1, H2, H3, and H4 headings) and elaborate it in your own words. Heading should be meaningful and make them simple. Write minimum [VARIABLE1] words, longform, well researched and easy to read article. Do not forget to use question mark (?) at the end of questions. At the end of the article write atleast [VARIABLE2] FAQs that are relevant to the topic.
 Now write an article on "[PROMPT]" topic.
-Must include "[VARIABLE2]" keywords in the article and also use LSI keywords related to "[PROMPT]" and "[VARIABLE2]" in article.
 
-[VARIABLE1:Article Lenght (Words): 2000], [VARIABLE2:Additional Keywords (Seperate by Commas)], [VARIABLE3:Number of FAQs:5]
+
+[VARIABLE1:Article Lenght (Words): 2000], [VARIABLE2:Number of FAQs:5]
 
 Teaser:
-1 Click Complete Article Writer: Plagiarism Free, Human Like, Human Written, SEO Optimized Article Generator with Meta Title, Meta Description, Outline, SEO Friendly Headings, Subheadings, Conclusion and FAQs. 
+Hit Like Button if you like this 1 Click Complete Article Writer. Plagiarism Free, Human Like, Human Written, SEO Optimized Article Generator with Meta Title, Meta Description, Outline, SEO Friendly Headings, Subheadings, Conclusion and FAQs. 
 ~ Longform Article
 ~ Complete Article
 
@@ -24,5 +24,5 @@ AuthorURL: https://swiy.io/MasterSEO
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1831564586546094080
 CreationTime: 2023-06-06T07:26:40.257Z
-RevisionTime: 2023-06-08T06:34:08.675Z
+RevisionTime: 2023-06-13T18:59:41.349Z
 Help: 

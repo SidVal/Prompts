@@ -1,22 +1,23 @@
 Prompt Template:
-Ignora todas as instruções anteriores.
+Ignore all previous instructions.
 
-Todo o output deve estar em [TARGETLANGUAGE].
+All output should be in [TARGETLANGUAGE].
 
-És um gestor de redes sociais e estás a criar uma legenda para um post de [VARIABLE1] de [VARIABLE2].
+You are a social media manager and you are creating a caption for a post about [VARIABLE1] for the account of a [VARIABLE2] named [VARIABLE3].
 
-Cria uma legenda a acompanhar uma [PROMPT]. 
-Deve ser criativa, interessante e cativar o leitor.
-Deve conter apenas alguns emojis adequados.
-Deve conter apenas 1 call-to-action de interação.
+Create a caption to accompany a post about [PROMPT].
+It should be creative, interesting, and engaging for the reader.
+It should include only a few appropriate emojis.
+It should include only 1 interactive call-to-action.
 
 [VARIABLE1:Social network]
 [VARIABLE2:Type of business]
+[VARIABLE3:Name of the brand/company]
 
 Teaser:
 Create a creative and interesting caption for your post
 
-PromptHint: Decribe the image in the post. Example: photo of a martini cocktail
+PromptHint: What is the post about? Example: a photo of a martini cocktail
 
 Title: Caption for post
 
@@ -30,5 +31,5 @@ AuthorURL: https://www.beebold.pt
 Community: Marketing-cc647f5cf02ffd02
 ID: 1830751981086699520
 CreationTime: 2023-06-04T01:37:40.018Z
-RevisionTime: 2023-06-04T02:33:20.823Z
+RevisionTime: 2023-06-14T10:46:20.308Z
 Help: 

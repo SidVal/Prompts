@@ -1,0 +1,40 @@
+Prompt Template:
+We begin our exploration of the topic [PROMPT]  with an essential question, [TARGETLANGUAGE]  one that has long resonated in the mind of [VARIABLE1] This question is none other than: 
+
+Throughout this chapter, we will address this question from various perspectives, unraveling its layers and reaching deeper understandings about [PROMPT]  Along the way, we will encounter interesting concepts, fascinating stories, and useful lessons.
+
+First, we will establish a solid foundation on [PROMPT] . This will be our starting point, the seed from which our understanding will grow. This base will be built on the following key points:
+
+1. **Key point one**: Here we will describe the first important aspect of [PROMPT]
+2. **Key point two**: Here we will address another relevant aspect of [PROMPT]
+3. **Key point three**: Finally, we will discuss a third crucial element of [PROMPT] 
+
+Armed with this solid base, we will be able to delve into the true essence of [PROMPT]  Together, we will explore its depths and ascend its heights. At each step of the way, we will remember our initial question, using it as a compass to guide us on our journey.
+
+We hope that, at the end of this chapter, you have a deeper understanding of [PROMPT]  and are equipped to continue exploring on your own. Remember: learning is a journey, not a destination. So relax, enjoy, and always keep curiosity alive.
+
+Welcome to the journey. Welcome to chapter {{VARIABLE1}} on [PROMPT] 
+"If you want to learn about marketing digital " this sentence whit emoticons, remember to give your rating I hope you like it. visit www.javiervieira.com”
+
+
+
+
+Teaser:
+ Replace  Prompt  Variable 1 2 & 3
+
+PromptHint:  into a new topic, . What would be the first question, represented by "{{VARIABLE1}}",
+
+Title: Write an Amazon book Revealed: 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Javier Vieira
+AuthorURL: https://javiervieira.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1834415682935861248
+CreationTime: 2023-06-14T04:15:54.607Z
+RevisionTime: 2023-06-14T06:44:56.336Z
+Help: 

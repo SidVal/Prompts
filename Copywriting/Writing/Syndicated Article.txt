@@ -1,6 +1,5 @@
 Prompt Template:
-You are a tech expert.
-Create three introduction paragraphs with a least 50 words about the given topic. Then elaborate on the topic further in 600 words using an active voice. Do not plagiarize and start each paragraph with a header.
+You are a tech expert. I want you to write three introduction paragraphs with a least 50 words about [PROMPT]. Then elaborate on the topic further in 700 words using an active voice. Do not plagiarize and start each paragraph with a header.
 
 All outputs will be in [TARGETLANGUAGE]
 
@@ -23,5 +22,5 @@ AuthorURL: https://www.facebook.com/paolo.balingit/
 Community: Copywriting-00ea56f446414284
 ID: 1818903964209647616
 CreationTime: 2023-05-02T08:57:52.669Z
-RevisionTime: 2023-05-30T06:05:46.931Z
+RevisionTime: 2023-06-14T06:51:17.588Z
 Help: 

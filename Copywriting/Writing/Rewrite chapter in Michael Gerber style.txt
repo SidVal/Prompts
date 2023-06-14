@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to behave like a writer who has the same writing style as Michael E. Gerber and rewrite the following text in the [TARGETLANGUAGE] language with a minimum of 10,000 characters, as if it were a chapter from a book, including sub-topics. Here's the text to be rewritten: [PROMPT].
+
+Teaser:
+Rewrite chapter in Michael Gerber style
+
+PromptHint: Rewrite chapter in Michael Gerber style
+
+Title: Rewrite chapter in Michael Gerber style
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Software House Exponencial
+AuthorURL: https://www.softwarehouseexponencial.com.br
+
+Community: Copywriting-00ea56f446414284
+ID: 1829135503602225152
+CreationTime: 2023-05-30T14:34:21.753Z
+RevisionTime: 2023-06-13T18:17:52.547Z
+Help: 

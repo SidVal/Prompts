@@ -1,0 +1,26 @@
+Prompt Template:
+When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of the text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or more complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. 
+
+Now, I want you to act as a Content Specialist Writer to write an article with high-quality content and with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. When writing the title don't just write H1 but make it #, and then same with H2, use ##, and H3 is ###, and then the content must be in normal text. Write with simple language and in the style of C.S. Lewis. Never use the words: explore, dive, delve, get ready, embark, and journey. Try to reduce words to 800. Please write only in the [TARGETLANGUAGE]. The article you are going to write is about this:
+
+[PROMPT]
+
+Teaser:
+The best content writer with humanized texts.
+
+PromptHint: Paste your title and keywords here.
+
+Title: Content Specialist Writer
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Keven Galolo
+AuthorURL: https://ko-fi.com/abing
+
+Community: Copywriting-00ea56f446414284
+ID: 1834570943034036224
+CreationTime: 2023-06-14T14:32:51.499Z
+RevisionTime: 2023-06-14T15:31:35.195Z
+Help: 

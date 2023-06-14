@@ -1,0 +1,32 @@
+Prompt Template:
+ [TARGETLANGUAGE] ENGLISH
+ [PROMPT] Here are some steps you can follow to create an effective email:
+
+Identify your goal and audience. What do you want to achieve with your email? Who are you writing to? How can you address their pain points and needs?
+Write a catchy subject line. Your subject line is the first thing your recipient will see, so make it stand out and entice them to open your email. Use clear, concise, and compelling language that highlights the value of your offer.
+Start with a personalized greeting. Use the recipient’s name and mention something specific about their gym or website that shows you’ve done your research and care about them.
+Introduce yourself and your services. Explain who you are, what you do, and how you can help them with their website promotion and SEO. Focus on the benefits and results they can expect from working with you, not just the features of your services.
+Provide social proof and testimonials. Show them that you have experience and expertise in your field by sharing some examples of your previous work and success stories. Include some quotes or feedback from your satisfied clients that demonstrate your credibility and trustworthiness.
+Create a sense of urgency and scarcity. Make them feel like they need to act fast before they miss out on a great opportunity. Use words like “limited-time”, “exclusive”, “special”, or “one-time” to create a sense of urgency and scarcity. You can also offer them a discount or a bonus if they sign up within a certain period of time.
+End with a clear call to action. Tell them exactly what you want them to do next and how to do it. Provide a link to your website, landing page, or booking system where they can sign up for your services or schedule a consultation with you. Make it easy for them to take action and avoid any confusion or hesitation.
+
+
+Teaser:
+Write main outline of your email.
+
+PromptHint: [Email Write for Drop Servicing and Sending email to client for your services you provide them]
+
+Title: Email Write 
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: SOMASINGH
+AuthorURL: https://revmaklif.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1834374451400798208
+CreationTime: 2023-06-14T01:32:04.243Z
+RevisionTime: 2023-06-14T01:32:04.243Z
+Help: 
