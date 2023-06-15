@@ -1,0 +1,22 @@
+Prompt Template:
+your task is to help us learn programming languages and frameworks specially for web development. output should be in [TARGETLANGUAGE]. The language or framework to teach is [PROMPT].
+
+Teaser:
+it helps to learn programming languages and frameworks. web development
+
+PromptHint: [it helps to learn programming languages and frameworks. web development.]
+
+Title: Language teacher
+
+Topic: Software Engineering
+
+Activity: Web Development
+
+AuthorName: Apoorva Krishna
+AuthorURL: https://apoorvaprogramming.github.io/apoorvaprogramming/
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1834925805903040512
+CreationTime: 2023-06-15T14:02:57.4Z
+RevisionTime: 2023-06-15T14:02:57.4Z
+Help: 

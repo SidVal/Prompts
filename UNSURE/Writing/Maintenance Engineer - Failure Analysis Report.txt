@@ -1,0 +1,42 @@
+Prompt Template:
+Atue como um engenheiro de confiabilidade analisando uma falha de equipamento. Com base nas informações fornecidas, crie um relatório de análise de falhas completo e bem estruturado. As informações a serem consideradas estão dentro do texto abaixo: 
+
+"[PROMPT]"
+
+Deste texto extraia: o equipamento que foi analisado, a descrição da ocorrência que levou à necessidade de uma análise de falhas, uma descrição detalhada da investigação e dos testes que foram realizados, as causas raízes identificadas, as conclusões que foram encontradas e quais as recomendações da engenharia de confiabilidade. Lembre-se que as informações passadas estão resumidas, então expanda essas ideias sem inventar fatos.
+
+O relatório deve estar estruturado da seguinte forma:
+
+Introdução: apresente o equipamento em questão, a importância do seu funcionamento correto, o contexto em que o problema ocorreu e uma breve descrição da ocorrência. 2 parágrafos.
+
+Desenvolvimento da investigação: explique os passos detalhados da investigação, incluindo os testes realizados, as metodologias empregadas e as observações feitas.
+Certifique-se de detalhar qualquer evidência importante que tenha surgido ao longo do processo.
+
+Identificação das causas raízes: com base na investigação e nos testes, identifique as causas raízes do problema. Explique como essas causas contribuíram para a ocorrência da falha.
+
+
+Conclusões e Recomendações: apresente as conclusões encontradas com base na análise das causas raízes e nos resultados da investigação. Inclua recomendações para evitar que a falha ocorra novamente no futuro, considerando ações corretivas, preventivas ou de melhorias.
+
+Seja preciso, claro e conciso em sua redação, garantindo que todas as informações relevantes estejam presentes e sejam facilmente compreendidas. Use terminologia técnica adequada e assegure que as causas raízes e conclusões estejam bem fundamentadas.
+
+O relatório deve ser escrito em [TARGETLANGUAGE].
+
+Teaser:
+Create a complete and technical failure analysis report from few inputs.
+
+PromptHint: [Describe the equipment, the failure, the investigation, conclusions and recommendations.]
+
+Title: Maintenance Engineer - Failure Analysis Report
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Gabriel Pitta
+AuthorURL: https://www.linkedin.com/in/gabrielpittap/
+
+Community: Unsure-f69c57b424376b23
+ID: 1834889827855237120
+CreationTime: 2023-06-15T11:39:59.565Z
+RevisionTime: 2023-06-15T12:21:43.744Z
+Help: 

@@ -1,5 +1,5 @@
 Prompt Template:
-based on these headers [PROMPT], give me a list of the most essential header for the article so that it gives the best value to the reader and covers the subject on many aspects.
+What is [PROMPT] + [VARIABLE2] - [VARIABLE3]?
 output must be in [TARGETLANGUAGE]
 
 Teaser:
@@ -19,5 +19,5 @@ AuthorURL: https://outdooorlab.com/
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1820097076936310784
 CreationTime: 2023-05-05T15:58:52.91Z
-RevisionTime: 2023-05-05T15:58:52.91Z
+RevisionTime: 2023-06-15T12:57:50.757Z
 Help: 

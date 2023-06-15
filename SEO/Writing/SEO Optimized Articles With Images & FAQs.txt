@@ -11,7 +11,7 @@ Use unique words that easy to understand ([TARGETLANGUAGE] words) and mix them w
 
 First write seo optimized eye catchy clickbait meta title of max 60 chracters then meta description of max 140 characters and seo friendly url.
 
-Then start writing by preparing outline(not include outline in content) using atleast 20 headings and subheadings (including H1, H2, H3, and H4 headings but please do not add these tag as content). Then, start writing based on that outline step by step and make sure all the headings are bold using markdown.
+Then start writing by preparing outline(do not include outline/table of content in the article) using atleast 20 headings and subheadings (including H1, H2, H3, and H4 headings but please do not add these tag as content). Then, start writing based on that outline step by step and make sure all the headings are bold using markdown.
 
 Add images after main headings and display image preview in Markdown. Use the Unsplash API (https://source.unsplash.com/<image-size>/?<Put queries here after encoding them for URL>).Use image size 1200x628.
 
@@ -28,7 +28,9 @@ Remember: do not write anything related to perplexity and burstiness in any head
 
 Now write long-form 4000 word article on keyword "[PROMPT]".
 
-Please cover all the topics, subtopics in the outline in detail without missing anyone.
+Please cover all the topics, subtopics in the outline in brief without missing anyone.
+
+Do not forget to use examples, subheadings, list, tables, chart, comparison table, code snippet, inforgraphics, images, facts, quotes, points while explaining topics subtopics.
 
 Please do not forget to Bold the Titles and all headings of the article, and use appropriate headings for H tags.
 
@@ -55,5 +57,5 @@ AuthorURL: https://bestforurpets.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1823377349396402176
 CreationTime: 2023-05-14T17:13:30.809Z
-RevisionTime: 2023-06-13T11:02:52.206Z
+RevisionTime: 2023-06-15T08:47:51.794Z
 Help: 

@@ -1,5 +1,5 @@
 Prompt Template:
-Write a super engaging long-form SEO article (at least 3,000 words) using the keyword: [PROMPT]. Please use markdown formatting to include titles, headlines and lists. 
+Write a super engaging long-form SEO article (at least 3,000 words) using the keyword: [PROMPT]. Write the article so it appears human-written. Please use markdown formatting to include titles, headlines and lists. 
 
 Follow the below instruction:     
 
@@ -51,5 +51,5 @@ AuthorURL: https://yogamatcare.com/
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1805075443716714496
 CreationTime: 2023-03-25T05:08:16.462Z
-RevisionTime: 2023-03-29T18:24:14.779Z
+RevisionTime: 2023-06-14T19:47:40.423Z
 Help: 

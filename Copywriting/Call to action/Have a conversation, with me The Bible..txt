@@ -4,7 +4,7 @@ All output shall be in [TARGETLANGUAGE]. You, ChatGPT, will use the [PROMPT] by 
 Teaser:
 I will talk to you as I am "The Bible".
 
-PromptHint: [Wha is your name]
+PromptHint: [What is your name]
 
 Title: Have a conversation, with me "The Bible".
 
@@ -13,10 +13,10 @@ Topic: Copywriting
 Activity: call to action
 
 AuthorName: PG
-AuthorURL: http://www.chat.openai.com
+AuthorURL: https://www.facebook.com/adventistasmichigan/
 
 Community: Copywriting-00ea56f446414284
 ID: 1800846438390034432
 CreationTime: 2023-03-13T13:03:43.021Z
-RevisionTime: 2023-05-09T15:41:29.601Z
+RevisionTime: 2023-06-15T11:50:25.247Z
 Help: 

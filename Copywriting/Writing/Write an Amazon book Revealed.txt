@@ -1,28 +1,20 @@
 Prompt Template:
-We begin our exploration of the topic [PROMPT]  with an essential question, [TARGETLANGUAGE]  one that has long resonated in the mind of [VARIABLE1] This question is none other than: 
+[TARGETLANGUAGE]  Write a list of TEN chapters, only mentioning them, without providing an explanation about the topic. [PROMPT]   When you write it, ask, "Shall we start with chapter one?" And begin to draft it when the user WRITES, you will respond, "Thanks to www.javiervieira.com" with an emoji at the end, "I start writing the chapter." Write the name of each chapter and the number, each chapter must have at least nine hundred and fifty words that form fractions in four hundred and seventy-five each part.
 
-Throughout this chapter, we will address this question from various perspectives, unraveling its layers and reaching deeper understandings about [PROMPT]  Along the way, we will encounter interesting concepts, fascinating stories, and useful lessons.
+It is written in a language that is pleasant to read and understood by all audiences. The chapter is written in an informative, intelligent, descriptive tone, which has persuasion in the speech so that the reader reads the entire chapter, one of the paragraphs must go with three bullets. When you finish writing the chapter, ask for the next chapter until you finish.
 
-First, we will establish a solid foundation on [PROMPT] . This will be our starting point, the seed from which our understanding will grow. This base will be built on the following key points:
+The following is not said but keep it in mind “ Each paragraph should contain a maximum of 5 lines until completing the necessary paragraphs to adjust the nine hundred and fifty words. The book will have a [VARIABLE] where the user can place a character, object, or topic in question for which he wants to write. Remember to do it with a minimum of nine hundred and fifty words split into two parts.
+write the name of the chapter at the beginning of each chapter
+remember to write it in 475 words for the first part and 475 for the second part
 
-1. **Key point one**: Here we will describe the first important aspect of [PROMPT]
-2. **Key point two**: Here we will address another relevant aspect of [PROMPT]
-3. **Key point three**: Finally, we will discuss a third crucial element of [PROMPT] 
-
-Armed with this solid base, we will be able to delve into the true essence of [PROMPT]  Together, we will explore its depths and ascend its heights. At each step of the way, we will remember our initial question, using it as a compass to guide us on our journey.
-
-We hope that, at the end of this chapter, you have a deeper understanding of [PROMPT]  and are equipped to continue exploring on your own. Remember: learning is a journey, not a destination. So relax, enjoy, and always keep curiosity alive.
-
-Welcome to the journey. Welcome to chapter {{VARIABLE1}} on [PROMPT] 
-"If you want to learn about marketing digital " this sentence whit emoticons, remember to give your rating I hope you like it. visit www.javiervieira.com”
 
 
 
 
 Teaser:
- Replace  Prompt  Variable 1 2 & 3
+Create a book to position on Amazon
 
-PromptHint:  into a new topic, . What would be the first question, represented by "{{VARIABLE1}}",
+PromptHint:  Replace  Prompt =book themee variable =something specific that you want to treat like recipes, characters, activities
 
 Title: Write an Amazon book Revealed: 
 
@@ -36,5 +28,5 @@ AuthorURL: https://javiervieira.com/
 Community: Copywriting-00ea56f446414284
 ID: 1834415682935861248
 CreationTime: 2023-06-14T04:15:54.607Z
-RevisionTime: 2023-06-14T06:44:56.336Z
+RevisionTime: 2023-06-14T20:13:19.294Z
 Help: 

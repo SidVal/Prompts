@@ -13,13 +13,13 @@ Here is the text : [PROMPT]
 
 
 Teaser:
-Summarize text, PDF, PPT, CSV, video transcript or any document.  Will generate summary, conclusion and detailed sections with bullet points. Output is Markdown reusable in Notion or any other application.
+Summarize any URL, text, PDF, PPT, CSV, video transcript...  Will generate summary, conclusion and detailed sections with bullet points. Output is Markdown reusable in Notion or any other application.
 
 100% reliable and reproductible results.
 
 Compatible with "Ask Your PDF" plugin  ! 
 
-PromptHint: Paste your document or "Ask your PDF" docid for PDF, TXT and long documents.
+PromptHint: Paste your document, URL (enable Link Reader plugin) or "Ask your PDF" docid for PDF, TXT and long documents.
 
 Title: Summarize text or PDF with bullet points
 
@@ -33,5 +33,5 @@ AuthorURL: https://lu.linkedin.com/in/jcarosi
 Community: Copywriting-00ea56f446414284
 ID: 1820755618244587520
 CreationTime: 2023-05-07T11:35:41.393Z
-RevisionTime: 2023-06-14T12:21:09.614Z
+RevisionTime: 2023-06-15T12:24:44.776Z
 Help: 
