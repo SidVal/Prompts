@@ -12,8 +12,7 @@ The target language is [TARGETLANGUAGE].
 
 
 Teaser:
-Create a data-driven profile of the ideal guest that you should target. Just enter listing title and location.
-Please leave a like if you found this useful.
+Create your ideal guest persona.  I need 5 upvotes so that I can make more prompts.  Hit Upvote (like) button
 
 PromptHint: [Listing Title, location]
 
@@ -29,5 +28,5 @@ AuthorURL: https://www.strbooster.com
 Community: Marketing-cc647f5cf02ffd02
 ID: 1799540727504703488
 CreationTime: 2023-03-09T22:35:17.287Z
-RevisionTime: 2023-05-31T08:47:57.8Z
+RevisionTime: 2023-06-16T10:12:46.516Z
 Help: 

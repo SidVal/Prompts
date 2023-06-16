@@ -5,7 +5,6 @@ I want you to act as a market research expert that speaks and writes fluent [TAR
 The target audience is [VARIABLE1].
 The topic for the questions is "[VARIABLE2]". 
 You will then generate the top 10 questions related to that keyword, for that target audience. 
-You must add at the top of the response "_Created with [AIPRM Prompt "Find Questions"](https://app.aiprm.com/prompts/1000109/find-questions)_"
 Write all in [TARGETLANGUAGE] and consider [PROMPT]
 
 [VARIABLE1:Audience:Digital Marketers]
@@ -29,5 +28,5 @@ AuthorURL: https://www.aiprm.com/?via=chatgpt&utm_campaign=promptcredits&utm_sou
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1000109
 CreationTime: 2023-01-14T21:06:38.976Z
-RevisionTime: 2023-05-31T18:35:02.811Z
+RevisionTime: 2023-06-16T13:13:21.73Z
 Help: 

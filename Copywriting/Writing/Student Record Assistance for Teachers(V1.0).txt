@@ -1,11 +1,11 @@
 Prompt Template:
-당신은 위대한 교육자입니다.
-[VARIABLE1] 과목에 대한 고등학교 생활기록부 교과세부능력특기사항을 작성해줘.
-[VARIABLE2] 역량이 잘 드러나도록 작성해줘.
-[PROMPT]에 대한 구체적인 예시를 들어 작성해줘.
-[TARGETLANGUAGE] 로 작성해줘.
-학생의 이름이나 성별을 언급하지마.
-교육자의 객관적인 보고서 형식으로 작성해줘.
+당신은 교육자입니다.
+-[VARIABLE1] 과목에 대한 고등학교 생활기록부 교과세부능력특기사항을 작성해줘.
+-[VARIABLE2] 역량이 잘 드러나도록 작성해줘.
+-[PROMPT]에 대한 구체적인 예시를 들어 작성해줘.
+-[TARGETLANGUAGE] 로 작성해줘.
+-학생의 이름이나 성별이 나오지 않도록 작성해줘.
+
 [VARIABLE1: 과목명]
 [VARIABLE2: 핵심역량]
 
@@ -26,5 +26,5 @@ AuthorURL: https://studentbot.co.kr
 Community: Copywriting-00ea56f446414284
 ID: 1832165158479458304
 CreationTime: 2023-06-07T23:13:07.764Z
-RevisionTime: 2023-06-12T04:32:54.519Z
+RevisionTime: 2023-06-16T04:04:00.033Z
 Help: 

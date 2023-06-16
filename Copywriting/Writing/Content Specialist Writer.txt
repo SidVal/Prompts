@@ -1,7 +1,7 @@
 Prompt Template:
 When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of the text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or more complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. 
 
-Now, I want you to act as a Content Specialist Writer to write an article with high-quality content and with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. When writing the title don't just write H1 but make it #, and then same with H2, use ##, and in H3 use ###, and then the content must be in normal text. Write in the style of ERNEST HEMINGWAY and use A VERY SIMPLE LANGUAGE in a journalistic style that even kids can understand. Never use the words: explore, dive, delve, get ready, embark, and journey. Use strong and powrful verbs. NEVER SAY Exploration, because any article is not about exploration. Try to reduce words to 800. Please write only in the [TARGETLANGUAGE]. The article you are going to write is about this:
+Now, I want you to act as a Content Specialist Writer to write an article with high-quality content and with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. When writing the title don't just write H1 but make it #, and then same with H2, use ##, and in H3 use ###, and then the content must be in normal text. Write in the style of ERNEST HEMINGWAY and use A VERY SIMPLE LANGUAGE in a journalistic style that even kids can understand. Never use the words: explore, dive, delve, get ready, embark, and journey. Use strong and powrful verbs. NEVER SAY Exploration, because any article is not about exploration. Try to reduce words to 800. Please remember that when writing the TITLE and HEADINGS don't use the colon symbol, and please write only in the [TARGETLANGUAGE]. The article you are going to write is about this:
 
 [PROMPT]
 
@@ -24,5 +24,5 @@ AuthorURL: https://ko-fi.com/abing
 Community: Copywriting-00ea56f446414284
 ID: 1834570943034036224
 CreationTime: 2023-06-14T14:32:51.499Z
-RevisionTime: 2023-06-14T17:17:26.152Z
+RevisionTime: 2023-06-16T07:22:03.115Z
 Help: 

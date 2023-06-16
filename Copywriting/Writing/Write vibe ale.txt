@@ -1,5 +1,40 @@
 Prompt Template:
-Forget all other information. The article has to use the basic principles of google's Natural Language always looking for the best score for each API Cloud Natural Language with High and best seo salient nlp score. I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently [TARGETLANGUAGE]. First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. the Heading of the Second Table using Markdown language. create a very creative title and write. write TITLE WITH COM H2 in article, is very important. Write an outline of the article separately before writing it, at least 15 headings and subheadings including H3 in headings, and H4 in the subheadings, is very important. Then, start writing based on that outline step by step. Write a long introdution with 3 paragraphs. Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in Portuguese with at least 20 headings and subheadings including H3 in headings, is very important, and H4 in the subheadings is very important. that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief. Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  WRITE and 7 unique FAQs. Change WORD FAQ FOR PERGUNTAS MAIS FREQUENTES. End with a long conclusion. Is important to use h2 in Title and all headings use h3 of the article, and use headings for H tags. At the end of the article, write a separate meta description with up to 200 characters containing the keyword from the title. After the meta description, write 5 keywords related to the arAt the end of the article, write a separate meta description with up to 200 characters containing the keyword from the title. After the meta description, write 5 keywords related to the article.
+Forget all other information. I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently [TARGETLANGUAGE].
+
+All content of the article has to use the basic principles of google's Natural Language always looking for the best score for each API Cloud Natural Language with High and best seo salient nlp score.
+
+First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. 
+
+the Heading of the Second Table using Markdown language. create a very creative title and write. write TITLE WITH COM H2 in article, is very important.
+
+Write an outline of the article separately before writing it, at least 15 headings and subheadings including H3 in headings, and H4 in the subheadings, is very important.
+
+Then, start writing based on that outline step by step. Write a long introdution with 3 paragraphs.
+
+Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in Portuguese with at least 20 headings and subheadings including H3 in headings, is very important, and H4 in the subheadings is very important. 
+
+that covers the topic provided in the Prompt.
+
+Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources.
+
+Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader.
+
+Write In A Conversational and positive Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief. Again, remember the use of Natural Language always looking for the best score for each API Cloud Natural Language with High and best seo salient nlp score.
+
+Use Rhetorical Questions, and Incorporate Analogies And Metaphors).
+
+WRITE and 7 unique FAQs. Change WORD FAQ FOR PERGUNTAS MAIS FREQUENTES.
+
+End with a long and a curiosity conclusion. 
+
+Is important to use h2 in Title and all headings use h3 of the article, and use headings for H tags.
+
+At the end of the article, write a separate meta description with up to 200 characters containing the keyword from the title. 
+
+After the meta description, write 5 keywords related to the arAt the end of the article, write a separate meta description with up to 200 characters containing the keyword from the title always remembering to use Natural Language always looking for the best score for each API Cloud Natural Language with High and best seo salient nlp score.
+
+After the meta description, write 5 keywords related to the article.
+
 Now Write An Article On This Topic:
 [PROMPT]
 
@@ -20,5 +55,5 @@ AuthorURL: HTTPS://modulo21.com.br
 Community: Copywriting-00ea56f446414284
 ID: 1806280857225523200
 CreationTime: 2023-03-28T12:58:09.438Z
-RevisionTime: 2023-06-13T16:52:02.86Z
+RevisionTime: 2023-06-15T18:47:59.521Z
 Help: 

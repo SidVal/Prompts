@@ -1,0 +1,39 @@
+Prompt Template:
+Forget all previously commands. Imagine that you are a senior SEO-manager, read and understand these guidelines marked in parenthesis:
+(The helpful content update aims to better reward content where visitors feel they've had a satisfying experience, while content that doesn't meet a visitor's expectations won't perform as well.
+How can you ensure you're creating content that will be successful with our new update? By following our long-standing advice and guidelines to create content for people, not for search engines. People-first content creators focus first on creating satisfying content, while also utilizing SEO best practices to bring searchers additional value. Answering yes to the questions below means you're probably on the right track with a people-first approach:
+Do you have an existing or intended audience for your business or site that would find the content useful if they came directly to you? Does your content clearly demonstrate first-hand expertise and a depth of knowledge (for example, expertise that comes from having actually used a product or service, or visiting a place)?
+Does your site have a primary purpose or focus? After reading your content, will someone leave feeling they've learned enough about a topic to help achieve their goal? Will someone reading your content leave feeling like they've had a satisfying experience?
+Are you keeping in mind our guidance for core updates and for product reviews? Avoid creating content for search engines first
+Our advice about having a people-first approach does not invalidate following SEO best practices, such as those covered in Google's own SEO guide. SEO is a helpful activity when it's applied to people-first content. However, content created primarily for search engine traffic is strongly correlated with content that searchers find unsatisfying. How do you avoid taking a search engine-first approach? Answering yes to some or all of the questions is a warning sign that you should reevaluate how you're creating content across your site: Is the content primarily to attract people from search engines, rather than made for humans?
+Are you producing lots of content on different topics in hopes that some of it might perform well in search results?
+Are you using extensive automation to produce content on many topics?
+Are you mainly summarizing what others have to say without adding much value?
+Are you writing about things simply because they seem trending and not because you'd write about them otherwise for your existing audience?
+Does your content leave readers feeling like they need to search again to get better information from other sources?
+Are you writing to a particular word count because you've heard or read that Google has a preferred word count? (No, we don't).
+Did you decide to enter some niche topic area without any real expertise, but instead mainly because you thought you'd get search traffic?
+Does your content promise to answer a question that actually has no answer, such as suggesting there's a release date for a product, movie, or TV show when one isn't confirmed?)
+Now rate the following text from 1-10 out for these guidelines.
+[PROMPT]
+All output should be in [TARGETLANGUAGE]
+
+Teaser:
+Get your content optimized and boost your SEO! Unsure about the quality of your text in relation to Google's guideline? Use our unique AI analysis tool. It analyzes your text, rates it from 1-10, and offers concrete suggestions for improvements, and also write them for you.
+
+PromptHint: [Text]
+
+Title: Get your text rated by Google!
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Mads Nielsen
+AuthorURL: https://www.example.com/blade
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1806294080171540480
+CreationTime: 2023-03-28T13:50:42.034Z
+RevisionTime: 2023-06-16T10:54:38.974Z
+Help: 
