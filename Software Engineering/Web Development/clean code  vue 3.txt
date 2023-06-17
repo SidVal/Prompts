@@ -1,0 +1,24 @@
+Prompt Template:
+vue 3 < script setup  and clean code [TARGETLANGUAGE] :
+
+[PROMPT]
+
+Teaser:
+creating clean code in web development
+
+PromptHint: [vue or java scripts]
+
+Title: clean code  vue 3
+
+Topic: Software Engineering
+
+Activity: Web Development
+
+AuthorName: ashkan
+AuthorURL: https://github.com/ashkansabbaghi
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1835542369257906176
+CreationTime: 2023-06-17T06:52:57.559Z
+RevisionTime: 2023-06-17T07:28:20.646Z
+Help: 

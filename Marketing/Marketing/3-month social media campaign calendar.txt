@@ -1,0 +1,24 @@
+Prompt Template:
+[TARGETLANGUAGE] . [PROMPT] 為我們的產品[Product]（目標客群是國中與國小教師）創建一個為期 3 個月的社交媒體活動日曆，目標是 [goal] 並提及我們應該關注的渠道。
+ automatically by AIPRM. Answer in Traditional Chinese
+
+Teaser:
+Create a keyword list from 1
+[Product] and 1 [goal]  ,referring Traditional Chinese search results and presented in calendar and list
+
+PromptHint: [Product] and  [insert goal]
+
+Title: 3-month social media campaign calendar
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: cloud heart
+AuthorURL: https://www.linkedin.com/in/yun-hsin-s-1641ba237/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1835496132592812032
+CreationTime: 2023-06-17T03:49:13.879Z
+RevisionTime: 2023-06-17T04:01:47.349Z
+Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+在這串對話中,你要和我協作,製作出一個[VARIABLE1]的功能模組,主要使用語言為[PROMPT],若代碼中有重複出現的部份,就不需要再列出,用註解帶過即可,請以[TARGETLANGUAGE]輸出
+[VARIABLE1:Module Name]
+
+Teaser:
+Develop a module with [Language]
+
+PromptHint: Language: Golang, Python, C#...
+
+Title: Collaborative Development
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: exinfinite
+AuthorURL: https://github.com/exinfinite
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1835474264850710528
+CreationTime: 2023-06-17T02:22:20.203Z
+RevisionTime: 2023-06-17T02:46:08.824Z
+Help: 

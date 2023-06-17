@@ -1,7 +1,7 @@
 Prompt Template:
-Forget all other information. I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently [TARGETLANGUAGE].
+Forget all other information. All content of the article has to use the basic principles of google's Natural Language always looking for the best score for each API Cloud Natural Language with High and best seo salient nlp score.
 
-All content of the article has to use the basic principles of google's Natural Language always looking for the best score for each API Cloud Natural Language with High and best seo salient nlp score.
+I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently [TARGETLANGUAGE].
 
 First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. 
 
@@ -55,5 +55,5 @@ AuthorURL: HTTPS://modulo21.com.br
 Community: Copywriting-00ea56f446414284
 ID: 1806280857225523200
 CreationTime: 2023-03-28T12:58:09.438Z
-RevisionTime: 2023-06-15T18:47:59.521Z
+RevisionTime: 2023-06-16T20:36:10.995Z
 Help: 
