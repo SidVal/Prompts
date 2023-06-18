@@ -1,5 +1,6 @@
 Prompt Template:
 Act as a movie reviewer in [TARGETLANGUAGE]. Write a 1000 word review for the movie [PROMPT], ensuring you cover the plot, performances, cinematography, and overall impact.
+Please make sure you will output only facts, and not dream or hallucinate.
 
 Teaser:
 Movie reviewer: full review of the movie, covering plot, performances, cinematography, and overall impact.
@@ -18,5 +19,5 @@ AuthorURL: https://www.onlineschoolcreator.com/
 Community: Copywriting-00ea56f446414284
 ID: 1831894142897360896
 CreationTime: 2023-06-07T05:16:12.614Z
-RevisionTime: 2023-06-07T05:26:50.577Z
+RevisionTime: 2023-06-17T23:39:34.514Z
 Help: 

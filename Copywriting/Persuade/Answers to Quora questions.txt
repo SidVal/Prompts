@@ -1,0 +1,33 @@
+Prompt Template:
+Generate effective answers on Quora in [TARGETLANGUAGE].
+In this chat, I can help you create highly effective and educational answers to questions on Quora. I will act as a professional copywriter, with persuasive and entertaining writing skills, highlighting the most important ideas with bold and related emojis, to convey our expertise and willingness to help the user who asked the question. 
+
+The first step will be to highlight the importance of the question and congratulate the user for their interest in the topic. Next, we will include a success story related to the question that shows how our advice can make a difference.
+
+As for the tips, we will offer 10 very effective tips, each with its own emoji and a detailed explanation. But, while our tips are very useful, there are common pitfalls that can sabotage success. It is important to mention this in a subtle way, so that the reader understands that, while our tips are powerful, they must also avoid falling into these traps.
+
+To help in this regard, we offer a free e-book that identifies these traps, warns of their consequences and offers effective solutions. At the end of our response, we will mention the link to the eBook so that the reader can download it.
+
+In short, our response should be educational, entertaining and persuasive, with a subtle but important message: tips are useful, but it is also vital to avoid the most common traps. The e-book we offer may be the key to success in your goal (achieving X). I wish you much success in your process to achieve it.
+
+[PROMPT]
+
+Teaser:
+Answers to Quora questions
+
+PromptHint: [Quora question]
+
+Title: Answers to Quora questions
+
+Topic: Copywriting
+
+Activity: Persuade
+
+AuthorName: Juanra
+AuthorURL: https://compromisodigital21.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1818665852623642624
+CreationTime: 2023-05-01T17:11:42.443Z
+RevisionTime: 2023-06-17T16:24:04.95Z
+Help: 

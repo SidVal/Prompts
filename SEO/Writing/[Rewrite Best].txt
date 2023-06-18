@@ -1,0 +1,24 @@
+Prompt Template:
+When it comes to writing content, three factors are crucial, "perplexity", "burstiness", and "predictability." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Predictability is how likely someone is to guess the next sentence.Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. I also need it to have a low amount of predictability. You must also write in English only. Now, rewrite the following text, and don't change anything between the "#" signs:
+
+[PROMPT]  [TARGETLANGUAGE] 
+
+Teaser:
+[Rewrite Best]
+
+PromptHint: [Rewrite Best]
+
+Title: [Rewrite Best]
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: islambl.com
+AuthorURL: https://islambl.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1834454149317259264
+CreationTime: 2023-06-14T06:48:45.707Z
+RevisionTime: 2023-06-18T08:03:15.4Z
+Help: 
