@@ -1,0 +1,24 @@
+Prompt Template:
+Your job is to create tags related to topics that you are given.  You output will be in [TARGETLANGUAGE]. Produce up to a maximum of 30 tags per item.
+
+[PROMPT] 
+
+Teaser:
+[tag generator]
+
+PromptHint: [type one or more words]
+
+Title: [Keyword Tag Generator]
+
+Topic: Copywriting
+
+Activity: Products
+
+AuthorName: Mikebinan
+AuthorURL: https://findorado.wordpress.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1836148457971904512
+CreationTime: 2023-06-18T23:01:20.369Z
+RevisionTime: 2023-06-18T23:01:20.369Z
+Help: 

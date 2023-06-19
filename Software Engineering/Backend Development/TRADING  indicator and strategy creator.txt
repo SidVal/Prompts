@@ -15,10 +15,10 @@ Topic: Software Engineering
 Activity: Backend Development
 
 AuthorName: Mizael Galvez
-AuthorURL: https://www.amazon.com.mx/b?_encoding=UTF8&tag=drimmake-20&linkCode=ur2&linkId=a03d7736d40aa10bb691f3734382f401&camp=1789&creative=9325&node=9298576011
+AuthorURL: https://amzn.to/42KGvyY
 
 Community: SoftwareEngineering-f1858b980c341d28
 ID: 1801335219526307840
 CreationTime: 2023-03-14T21:25:57.525Z
-RevisionTime: 2023-03-17T04:34:30Z
+RevisionTime: 2023-06-19T03:05:34.995Z
 Help: 

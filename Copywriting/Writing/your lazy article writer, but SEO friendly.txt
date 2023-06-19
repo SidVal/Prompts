@@ -1,0 +1,23 @@
+Prompt Template:
+create an article about [PROMPT], mark the keywords, add several references from various sources, use a writing format with a variety of large font,bold fonts, only select references that were published within the last 4 years, write words by following the references with a limit of 10% similarity, also add interesting facts related to the article title, add a footnote containing a greeting message from the author, use contemporary language that is friendly and suitable for teenagers. All output must use the [TARGETLANGUAGE] language.
+
+
+Teaser:
+I'm too lazy to write
+
+PromptHint: enter the desired keywords or titles
+
+Title: your lazy article writer, but SEO friendly
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: MalikRubio
+AuthorURL: https://muridsenpai.blogspot.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1836073673640628224
+CreationTime: 2023-06-18T18:04:10.395Z
+RevisionTime: 2023-06-18T18:19:25.208Z
+Help: 

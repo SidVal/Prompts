@@ -1,11 +1,6 @@
 Prompt Template:
-The user will provide you the titles and you have to write two SEO descriptions with in 160 characters (only) (count including the spaces) and make the result in the [TARGETLANGUAGE]
 
-Do not repeat the same format or same style for every titles. Provide different results for different quires in different styles.
-
-Note: Do not exceed the total characters from 160 characters. The total character of the result should be less than 160 characters at any cost.
-
-[PROMPT]
+The user will provide you the titles and you have to write two SEO descriptions within 160 characters (only) (count including the spaces) and make the result in the [TARGETLANGUAGE]. Make sure to insert the given title in the description naturally, without adding any semicolon (:), hyphen (-) and such signs in the description. If the title (primary keyword) is What Does Kody Brown Do For Living? then write like, Do you know What Does Kody Brown Do For Living? Here we have mentioned all his/her earning sources. Don't repeat the same writing format or same style all the time. Change the format every time, but keep the primary keyword as it is always.Note: Do not exceed the total characters from 160 characters. The total character of the result should be less than 160 characters at any cost. [PROMPT]
 
 Teaser:
 Create an SEO description within 160 characters, including the spaces.
@@ -24,5 +19,5 @@ AuthorURL: https://www.google.com
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1816840461827174400
 CreationTime: 2023-04-26T16:18:15.363Z
-RevisionTime: 2023-04-26T19:04:12.855Z
+RevisionTime: 2023-06-19T07:09:16.438Z
 Help: 

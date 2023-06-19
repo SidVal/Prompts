@@ -18,10 +18,10 @@ Topic: Copywriting
 Activity: writing
 
 AuthorName: Mizael Galvez
-AuthorURL: https://www.amazon.com.mx/b?_encoding=UTF8&tag=drimmake-20&linkCode=ur2&linkId=a03d7736d40aa10bb691f3734382f401&camp=1789&creative=9325&node=9298576011
+AuthorURL: https://amzn.to/42KGvyY
 
 Community: Copywriting-00ea56f446414284
 ID: 1799297271674957824
 CreationTime: 2023-03-09T06:27:52.894Z
-RevisionTime: 2023-03-17T05:06:58Z
+RevisionTime: 2023-06-19T03:05:54.247Z
 Help: 

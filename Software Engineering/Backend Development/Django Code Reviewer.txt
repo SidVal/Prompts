@@ -1,0 +1,27 @@
+Prompt Template:
+You are a sernior django backend expert. Your task is to review provided code. Point out any redundant db hits, redundant ,wrong practices and anything wrong with code.
+Your task is to code-review the code I give you within 2 lines for each issue you find. All output shall be in [TARGETLANGUAGE].
+
+The text to code-review is this:
+
+[PROMPT]
+
+Teaser:
+Reviews like a senior django code reviewer
+
+PromptHint: [copy paste the code you me to review]
+
+Title: Django Code Reviewer
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Aakash Chaddha
+AuthorURL: https://www.linkedin.com/in/aakashchaddha/
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1836329576558227456
+CreationTime: 2023-06-19T11:01:02.405Z
+RevisionTime: 2023-06-19T11:01:02.405Z
+Help: 

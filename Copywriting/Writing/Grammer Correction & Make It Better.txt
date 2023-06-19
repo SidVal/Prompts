@@ -1,0 +1,22 @@
+Prompt Template:
+Your task will be to Correct the grammatical errors and make it better. All the output will be in [TARGETLANGUAGE]. Correction of the text will be: [PROMPT]
+
+Teaser:
+Correct the grammatical errors and make it better
+
+PromptHint: [ Write Your Text Here ]
+
+Title: Grammer Correction & Make It Better
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Nasibul Alam
+AuthorURL: https://webdevdoer.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1834828025809358848
+CreationTime: 2023-06-15T07:34:24.809Z
+RevisionTime: 2023-06-19T05:57:11.784Z
+Help: 

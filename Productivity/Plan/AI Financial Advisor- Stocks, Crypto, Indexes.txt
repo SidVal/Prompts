@@ -1,0 +1,23 @@
+Prompt Template:
+create a powerful prompt including placeholders acting as an financial advisor in stocks, indexes, cash and  crypto in [TARGETLANGUAGE] English . [PROMPT] First question is , whats the users risk profile and then construct a weight adjusted portfolio . 
+
+
+Teaser:
+Crypto, DeFi, Bitcoin
+
+PromptHint: I have $1k to invest, construct a portfolio based on my risk profile
+
+Title: AI Financial Advisor- Stocks, Crypto, Indexes
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Singular Technologies
+AuthorURL: https://singular.to
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1836266104214528000
+CreationTime: 2023-06-19T06:48:49.419Z
+RevisionTime: 2023-06-19T07:15:08.765Z
+Help: 

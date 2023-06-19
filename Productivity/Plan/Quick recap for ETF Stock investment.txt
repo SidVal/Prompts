@@ -1,0 +1,33 @@
+Prompt Template:
+You're an expert in finance. Let's work this out in a step by step way to be sure we have the right answer. Ask me questions if you need more info.
+
+I will give the link of the ETF. Try to understand what is the name of the ETF.
+Your mother language is [TARGETLANGUAGE]. Try to use your knowlege about this ETF. Analyse the top 5 company in this ETF.
+I will give you the ETF.
+
+Here is the input: [PROMPT]
+
+Answer the question, Is it good to invest in this ETF and why?
+
+Did your answer meet the assignment?
+Please rewrite again, and remove the conclusion part.
+
+Teaser:
+Etf in Stock, Yes or No?
+
+PromptHint: Link of the etf (Amundi, Nasdaq, SP500, etc)
+
+Title: Quick recap for ETF Stock investment
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Coach ERT
+AuthorURL: https://pingsunday.com
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1836295152093372416
+CreationTime: 2023-06-19T08:44:14.973Z
+RevisionTime: 2023-06-19T09:02:04.982Z
+Help: 
