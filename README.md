@@ -1,5 +1,15 @@
+# Promts
 
-# Prompts Robin - 3000+ Prompts for ChatGPT   🤖 
+Mi versión de este FORK está inspirada en el autor inicial de este repositorio.
+Dejaré a continuación en inglés la descripción del autor inicial.
+
+## ¿Por qué este FORK?
+
+Para pasar PROMTS en español.
+
+***
+
+## Prompts Robin - 3000+ Prompts for ChatGPT   🤖 
 
 
 English / 🇭🇰🇹🇼🇲🇴 [繁體中文](./README_TW.md) / 🇨🇳 [简体中文](./README_CN.md)
