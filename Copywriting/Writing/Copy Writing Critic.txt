@@ -1,0 +1,26 @@
+Prompt Template:
+[PROMPT] I want you to act as an expert and critic in the subject of fashion. Criticize my content pasted below, convince me 
+why it’s bad, and give me constructive criticism on how it should be improved. For some context, the product description is for my clothing brand for 40 to 55 years old. The purpose of my product description is to get customers to purchase more clothing products. Let’s 
+think step by step and I want you to address each piece of content individually. Here is my content to critique, [your 
+content]. Please write in [TARGETLANGUAGE]
+
+Teaser:
+This prompt can provide objective and expert feedback on your writing, highlighting areas for improvement and 
+offering constructive criticism to help you refine and enhance your copy
+
+PromptHint: [Your Content]
+
+Title: Copy Writing Critic
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: fjackets
+AuthorURL: https://wikitia.com/wiki/FJackets
+
+Community: Copywriting-00ea56f446414284
+ID: 1832359880078659584
+CreationTime: 2023-06-08T12:06:53.011Z
+RevisionTime: 2023-06-08T12:40:47.772Z
+Help: 

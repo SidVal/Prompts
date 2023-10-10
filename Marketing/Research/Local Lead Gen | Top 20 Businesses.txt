@@ -12,11 +12,11 @@ Topic: Marketing
 
 Activity: Research
 
-AuthorName:  AI MARKETING PLAN 
-AuthorURL: https://aimarketingplan.com/AIPRM
+AuthorName: THE ULTIMATE AI COURSE
+AuthorURL: https://www.pecertified.com/?utm_source=AIPRM
 
 Community: Marketing-cc647f5cf02ffd02
 ID: 1798554661993832448
 CreationTime: 2023-03-07T05:17:00.949Z
-RevisionTime: 2023-03-14T17:15:35Z
+RevisionTime: 2023-05-19T23:52:12.683Z
 Help: 

@@ -38,7 +38,7 @@ You can find two files under directory : ``all-prompts.json`` and ``all-prompts.
 
 According to your requirements, you can find a variety of prompt `TXT` file under different directory. Name: ``[Prompt Title].txt``
 
-####Sections of these prompt TXT files.
+#### Sections of these prompt TXT files.
 
 | Field             | Description                                       |
 |-------------------|---------------------------------------------------|
@@ -100,8 +100,8 @@ According to your requirements, you can find a variety of prompt `TXT` file unde
 
 ## To do list
 
+- [x] Add data auto-updater.
 - [ ] Add i18n versions (all-prompts.csv, all-prompts.json, all txt files, README)
-- [ ] Add data auto-updater.
 - [ ] Add data auto-translator (GPT 3.5).
 
 
@@ -126,6 +126,12 @@ All original author are credited in all prompt files (CSV, JSON, TXT).
 
 
 If you have a idea for a feature, PR are more than welcome.
+
+## Star History 🌟
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=samsonhoi/Prompts-Robin-ChatGPT-Aiprm&type=Date)](https://star-history.com/#samsonhoi/Prompts-Robin-ChatGPT-Aiprm&Date)
+
 
 ## License
 

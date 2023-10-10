@@ -22,10 +22,10 @@ Topic: Marketing
 Activity: Products
 
 AuthorName: Fran Jeanes
-AuthorURL: https://franjeanes.com
+AuthorURL: https://www.buymeacoffee.com/franj
 
 Community: Marketing-cc647f5cf02ffd02
 ID: 1797060576246239232
 CreationTime: 2023-03-03T02:20:03.148Z
-RevisionTime: 2023-04-14T16:21:30.276Z
+RevisionTime: 2023-06-16T16:26:53.424Z
 Help: 

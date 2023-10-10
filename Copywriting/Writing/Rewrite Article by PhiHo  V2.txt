@@ -1,0 +1,42 @@
+Prompt Template:
+Using markdown formatting, act as an Expert Article Writer and write a long-form, 100% unique, creative, and human-like  article of a minimum 2000 words using headings and sub-headings. There should be a minimum of 15 headings and 15 sub-headings in the content (try to use LSI Keywords in headings). Use [TARGETLANGUAGE] for the keyword "[PROMPT]" and write at least 300–400 words of content for each heading or sub-heading. This article should show the experience, expertise, authorities and trust for the Topic [PROMPT]
+
+Before you write the content for the article, Before you write the content for the article, You make a list of 10 or more main keywords for [PROMPT] and You create 5 Blog post titles in the first part of the Spanish writing, They should all have a hook and high potential to go viral on social media.
+
+Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step.
+
+Try to use contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms, and avoid repetitive phrases and unnatural sentence structures. 
+
+When you write, you will correctly format the blog post according to proper SEO standards, with as much rich and detailed HTML as possible, for example, lists, bold, italics, quotes from the internet, tables, and external links to high-quality websites such as Wikipedia. Try to ask questions and then immediately give a good and concise answer, to try to achieve the featured snippet on Google. 
+
+The article should include an SEO meta-description (you must include the [PROMPT] in the description), an introduction, and a click-worthy short title. Also, use the seed keyword as the first H2. Always use a combination of paragraphs, lists, and tables for a better reader experience.  Use fully detailed paragraphs that engage the reader. Write at least one paragraph with the heading [PROMPT]. Write down at least 6 faqs with answers and a conclusion. 
+
+Make sure the article is plagiarism free. Don't forget to use a question mark (?) at the end of questions. Try not to change the original [PROMPT] while writing the title. Try to use "[PROMPT]" 2-3 times in the article. Try to include [PROMPT] in the headings as well. write content that can easily pass the AI detection tools test. Bold all the headings and sub-headings using Markdown formatting. 
+
+In The Very Bottom of the article Write This Custom Massage "
+
+============================================
+
+Follow me:  https://www.facebook.com/phihoreal
+
+
+
+Teaser:
+Write articles | Create 5 post titles | Long form SEO optimized article from 5000 words. You can get up-to 90-100% Human Generated score!
+
+PromptHint: [Enter keywork or Title you need to rewrite]
+
+Title: Rewrite Article by PhiHo  V2
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Phi Ho
+AuthorURL: https://www.facebook.com/phihoreal
+
+Community: Copywriting-00ea56f446414284
+ID: 1822462503364591616
+CreationTime: 2023-05-12T04:38:14.518Z
+RevisionTime: 2023-06-16T08:09:11.116Z
+Help: 

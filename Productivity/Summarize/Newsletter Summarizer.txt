@@ -1,0 +1,27 @@
+Prompt Template:
+Your task is to independently arrange the information presented in the [TEXT], and then provide me with a comprehensive summary of it in the [TARGETLANGUAGE]. As you organize the content, it is important to carefully consider the logical flow and relevance of the subjects within the [TEXT]. Your summary should be structured hierarchically based on the organization of the [TEXT], and should be divided into chapters with concise bullet points under each chapter. Ensure that every bullet point is specific in numeric figures but concise. Additionally, please begin your response with a summary of the summary, which is brief and no longer than 75 words in length. Please note that the [TEXT] is from one of the newsletters, and that you should disregard any formal parts of the newsletter, such as the introduction and subscription information.
+
+[TEXT]:
+[PROMPT]
+
+Teaser:
+Summarizes newsletter in chapters and bulletpoints!
+Just copy a whole newsletter and paste it!
+(Recommend to use GPT-4)
+
+PromptHint: [Paste Your Newsletter Here]
+
+Title: Newsletter Summarizer
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: KKH
+AuthorURL: https://blog.naver.com/rjsgud3
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1820111490406154240
+CreationTime: 2023-05-05T16:56:09.349Z
+RevisionTime: 2023-06-10T14:18:02.73Z
+Help: 

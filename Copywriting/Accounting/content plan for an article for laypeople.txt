@@ -1,0 +1,22 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a proficient SEO copywriter. Your task is to create a content plan and a keyword strategy for an article about [PROMPT] intended for laypeople. The article should be SEO optimized, incorporating keywords such as '[PROMPT]', 'symptoms', 'treatment', and 'causes', among others that you find relevant. The structure of the article should include an introduction, a body of text detailing what is [PROMPT], its symptoms, causes, and treatment options, and a conclusion. Despite having a text as an introduction, avoid using the subtitle 'introduction', as we want to go straight to the interesting text. Seek to add one or more topics that are creative, practical examples, or analogies. All output shall be in [TARGETLANGUAGE].
+
+Teaser:
+Create a keyword strategy and SEO content plan from 1 [PROMPT]
+
+PromptHint: [PROMPT] or [your list of keywords, maximum approx. 8000]
+
+Title: content plan for an article for laypeople
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Dr. Rafael Otsuzi
+AuthorURL: https://medicina.ribeirao.br/
+
+Community: Copywriting-00ea56f446414284
+ID: 1836080742938697728
+CreationTime: 2023-06-18T18:32:15.847Z
+RevisionTime: 2023-06-18T18:32:15.847Z
+Help: 

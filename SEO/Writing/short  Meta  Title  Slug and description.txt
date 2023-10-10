@@ -1,0 +1,24 @@
+Prompt Template:
+write very Short Tittle and Slug and description [TARGETLANGUAGE]. 
+[PROMPT]
+
+
+Teaser:
+short seo friendly tittle, slug and description
+
+PromptHint: [Put Here your Tittle or Description]
+
+Title: short  Meta  Title  Slug and description
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Navid Khan
+AuthorURL: https://khaleejtimesjobs.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1829281481055531008
+CreationTime: 2023-05-31T00:14:25.49Z
+RevisionTime: 2023-06-19T08:51:24.96Z
+Help: 

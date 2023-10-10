@@ -1,0 +1,23 @@
+Prompt Template:
+[PROMPT]awnser a question for me
+[TARGETLANGUAGE]the language you should use is suggested in the question
+
+Teaser:
+Awnser a question
+
+PromptHint: What is the question
+
+Title: awnser question
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: william hodson
+AuthorURL: https://www.gadgetcity.uk
+
+Community: Copywriting-00ea56f446414284
+ID: 1836096551979335680
+CreationTime: 2023-06-18T19:35:05.016Z
+RevisionTime: 2023-06-18T19:35:05.016Z
+Help: 

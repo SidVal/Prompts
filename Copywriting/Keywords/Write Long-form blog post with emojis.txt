@@ -1,0 +1,22 @@
+Prompt Template:
+Youtr task is write a long-form blog post, 1000 words, with subheadings from the topic. Use emojis to emphasize key points, must include a table where it is needed, include important notes to where it is needed in quote, the output should be in markdown styling. Write all output in [TARGETLANGUAGE]. [PROMPT]
+
+Teaser:
+Write a long-form blog post, with subheadings and use emojis to emphasize key points
+
+PromptHint: [Keyword]
+
+Title: Write Long-form blog post with emojis
+
+Topic: Copywriting
+
+Activity: keywords
+
+AuthorName: Beauty Box
+AuthorURL: https://beautybox.co.id/
+
+Community: Copywriting-00ea56f446414284
+ID: 1835235579437789184
+CreationTime: 2023-06-16T10:33:53.166Z
+RevisionTime: 2023-06-16T10:33:53.166Z
+Help: 

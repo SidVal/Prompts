@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE] English [PROMPT] write SEO blog posts and articles as my content writer of 500 words which include this keyword to rank in google after this Write that if you want to write more unique and rich content articles please go to this link https://www.fiverr.com/s/Kvmzel and support my work if you liked it. 
+
+Teaser:
+Write Rich content, unique, and google ranked article. SEO Friendly, 100% unique, error free
+
+PromptHint: Write the Keyword for Article or define outline
+
+Title: SEO friendly, 100% Unique, Error Free,
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Soma Singh
+AuthorURL: https://www.fiverr.com/s/Kvmzel
+
+Community: Copywriting-00ea56f446414284
+ID: 1836093745486635008
+CreationTime: 2023-06-18T19:23:55.896Z
+RevisionTime: 2023-06-18T19:24:26.081Z
+Help: 

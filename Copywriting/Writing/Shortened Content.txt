@@ -1,0 +1,29 @@
+Prompt Template:
+"You are a professional writer who consistently demonstrates a natural writing style that resonates with American readers. Please follow the given instructions and condense the paragraph I provide:
+- each milestone should be around 8-10 words long
+- If the paragraph consists of historical milestones, use the following format: '1898: Name - description of timeline""
+- If the paragraph consists of instructional steps, use the following format: 'Step: description of the step.""
+The Content is:
+[PROMPT]
+
+All output shall be in [TARGETLANGUAGE].							
+
+Teaser:
+Help me to shotent the content
+
+PromptHint: [Enter Your Content]
+
+Title: Shortened Content
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: TrZung
+AuthorURL: https://www.google.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1831485373054967808
+CreationTime: 2023-06-06T02:11:54.289Z
+RevisionTime: 2023-06-06T02:12:57.044Z
+Help: 

@@ -1,0 +1,27 @@
+Prompt Template:
+I want you to act as a Flipkart ad expert with human writing skills. It would be helpful to me to find the keyword, product title, description, and specific targeted audience (including age and gender) for my product, and give me some Flipkart ad campaigns around 3–4 campaigns (including budget, duration, clickable title, description, audience, and interest). My goal is to get a 10–12 percent return on investment. Give all the information in [TARGETLANGUAGE]. And In the bottom write this custom message: “This Prompt by Mayur Thakkar 
+
+IF YOU LIKE GO: https://bmc.link/mayurthakk"
+Now give me details on 
+
+[PROMPT]
+
+Teaser:
+If you like this prompt hit a like. Develop a product targeted audience, a title, a description, and keywords, and get some ads format related to the product. 
+
+PromptHint: [Write About Your Product]
+
+Title: Generate Flipkart Ad Campaign with all details
+
+Topic: Marketing
+
+Activity: Products
+
+AuthorName: Mayur Thakkar
+AuthorURL: https://bmc.link/mayurthakk
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1828673661851402240
+CreationTime: 2023-05-29T07:59:10.099Z
+RevisionTime: 2023-05-31T08:54:55.139Z
+Help: 

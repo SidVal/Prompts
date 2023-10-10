@@ -1,0 +1,24 @@
+Prompt Template:
+As a marketer, your task is to create a short and attention-grabbing SMS template that will immediately catch the recipient's eye and persuade them to take action. Keep in mind that you only have 40 characters to work with, so every word must count. Consider using action-oriented verbs, asking a question, or creating a sense of urgency to entice the recipient to engage with your message.
+
+My first task is to generate an eye-catching SMS template for [PROMPT] that is no more than 40 characters long. The target language is [TARGETLANGUAGE].
+
+Teaser:
+create an SMS template for marketing [PROMPT]
+
+PromptHint: enter [Prompt] and [TargetLanguage]
+
+Title: Sms template
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Mandar
+AuthorURL: https://letscheckup.in
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1811277016843157504
+CreationTime: 2023-04-11T07:51:06.715Z
+RevisionTime: 2023-04-11T07:51:06.715Z
+Help: 

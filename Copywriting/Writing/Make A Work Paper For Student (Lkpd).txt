@@ -2,10 +2,9 @@ Prompt Template:
 Format:
 Judul
 Pendahuluan
-Bahan/Alat/Sumber Praktek
+Bahan/Alat/Sumber
 Tujuan
-Alat Keselamatan Kerja
-Langkah langkah kegiatan
+Langkah langkah
 Pertanyaan
 
 Please write in [TARGETLANGUAGE]
@@ -31,5 +30,5 @@ AuthorURL: https://programkerja.com
 Community: Copywriting-00ea56f446414284
 ID: 1819396938525835264
 CreationTime: 2023-05-03T17:36:46.905Z
-RevisionTime: 2023-05-11T12:05:43.689Z
+RevisionTime: 2023-05-26T11:26:15.117Z
 Help: 

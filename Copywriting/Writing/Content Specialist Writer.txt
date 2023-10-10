@@ -1,0 +1,26 @@
+Prompt Template:
+I want you to act as a Content Specialist Writer to write an article with high-quality content and SEO-optimized words. When writing the title don't just write H1 but make it #, and then same with H2, use ##, and in H3 use ###, and then the content must be in normal text. Don't make too many headings, and make it a normal article with normal headings. Make the TITLE one sentence without any symbol or colon, and turn it into a captivating one. When writing anything, I want you to follow the rules of the book, The Elements of Style by William Strunk. Here's the link for your guide: https://www.gutenberg.org/files/37134/37134-h/37134-h.htm Use short, direct, and terse sentences. Add some personal anecdote related to the prompt of topic. Please write only in the [TARGETLANGUAGE]. The article you are going to write is about this:
+
+[PROMPT]
+
+Please write this in the last part: [Buy me a coffee: https://bmc.link/Abing]
+
+Teaser:
+The best content writer with humanized texts.
+
+PromptHint: Paste your title and keywords here.
+
+Title: Content Specialist Writer
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Keven Galolo
+AuthorURL: https://ko-fi.com/abing
+
+Community: Copywriting-00ea56f446414284
+ID: 1834570943034036224
+CreationTime: 2023-06-14T14:32:51.499Z
+RevisionTime: 2023-06-19T02:47:13.574Z
+Help: 

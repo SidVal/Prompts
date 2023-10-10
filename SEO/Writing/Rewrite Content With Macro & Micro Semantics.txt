@@ -1,0 +1,23 @@
+Prompt Template:
+I want you to act as an Semantic and Entity SEO Expert that speaks and writes fluently [TARGETLANGUAGE]. 
+Identify Macro Semantic and Micro Semantic Words used in Large Language Models (LLM) For given content below, show them in the mark down  table. Then show what missing in the content with the mark-down table. Understand the Central Content, Contextual Coverage withing the content and rewrite the content again with relevant Macro Semantic and Micro Semantic Words . Please bold or highlight the updated words in the copy. [PROMPT] 
+
+Teaser:
+Entity SEO , Macro Semantic And Micro Semantic are the future of SEO. This prompt will identify Macro and Micro Sementic within your content and what is missing for contextual coverage. And then it will rewrite for you content optimised for Macro and Micro Semantic.  Works well with GPT4
+
+PromptHint: Add your content here 
+
+Title:  Rewrite Content With Macro & Micro Semantics 
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: SearchMinistry
+AuthorURL: https://searchministry.co/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1834404657440235520
+CreationTime: 2023-06-14T03:32:05.924Z
+RevisionTime: 2023-06-16T02:08:18.168Z
+Help: 

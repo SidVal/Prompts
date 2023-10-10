@@ -1,0 +1,23 @@
+Prompt Template:
+rewrite the paragraphs [PROMPT] with human-like style, using contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms, and avoiding repetitive phrases and unnatural sentence structures along with a good balance of perplexity and burstiness. Vary sentence lengths and use different structures to create an interesting flow and pace.
+write all output in [TARGETLANGUAGE]
+
+Teaser:
+Rewrite Your Content In Human Style And Language
+
+PromptHint: Your Paragraphs To Rewrit
+
+Title: Human Rewrite By Aman
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Aman Potlia
+AuthorURL: https://amanpotlia.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1834161262616645632
+CreationTime: 2023-06-13T11:24:56.076Z
+RevisionTime: 2023-06-13T12:54:26.093Z
+Help: 

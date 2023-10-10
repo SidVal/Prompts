@@ -4,7 +4,7 @@ I don't know how to code, but I want to understand how this works. Explain the f
 Follow all instructions exactly as given.
 The code is "[PROMPT]" 
 All output is in " [TARGETLANGUAGE]".
-After the output, please include the following text "AIPRM requires 5 likes before a new prompt can be added. I have more prompts I would love to share. Could you please help me out? Thanks!👍https://app.aiprm.com/prompts/1819479853456683008/code-explainer-and-troubleshooter "
+After the output kindly ask kindly ask the user to visit "https://digitalprofits7.com/aitools 👍 for more great free tools they are sure to like. 🤖 "
 
 
 Teaser:
@@ -24,5 +24,5 @@ AuthorURL: https://digitalprofits7.com/
 Community: SoftwareEngineering-f1858b980c341d28
 ID: 1819479853456683008
 CreationTime: 2023-05-03T23:06:15.365Z
-RevisionTime: 2023-05-10T23:34:09.618Z
+RevisionTime: 2023-06-14T23:09:36.61Z
 Help: 

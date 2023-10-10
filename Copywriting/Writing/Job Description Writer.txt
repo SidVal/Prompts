@@ -8,7 +8,7 @@ Requirements and Qualifications:[VARIABLE3]
 
 Please write in [TARGETLANGUAGE] Language.
 
-[VARIABLE1: Enter Company Name]
+[VARIABLE1: Enter Company Name ]
 [VARIABLE2: Enter Job Responsibilities]
 [VARIABLE3: Enter Requirements and Qualifications]
 Use Markdown Format
@@ -30,5 +30,5 @@ AuthorURL: https://bit.ly/J_Umma
 Community: Copywriting-00ea56f446414284
 ID: 1812274167748497408
 CreationTime: 2023-04-14T01:53:26.017Z
-RevisionTime: 2023-04-14T01:53:26.017Z
+RevisionTime: 2023-06-01T01:09:11.307Z
 Help: 

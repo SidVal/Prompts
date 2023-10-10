@@ -104,7 +104,8 @@ You are allowed to wait for respawns so that players may finish a quest.
 Portals
 Mages are permitted to portal out group members at the end of the dungeon.
 "
-
+The website is : https://classichc.net check it for issues with browsing
+Use WoWhead Classic ERA 
 I know the rules and do not go into them anymore, answer formally, politeness is not necessary:
 [PROMPT]
 
@@ -127,5 +128,5 @@ AuthorURL: https://classichc.net
 Community: Productivity-b5a49cdd0796137a
 ID: 1822328185275281408
 CreationTime: 2023-05-11T19:44:30.59Z
-RevisionTime: 2023-05-16T17:57:29.536Z
+RevisionTime: 2023-05-20T18:57:11.265Z
 Help: 

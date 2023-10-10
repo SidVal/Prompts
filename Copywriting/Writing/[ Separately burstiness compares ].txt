@@ -1,0 +1,22 @@
+Prompt Template:
+your task is to  summarize  the text [ give you 3000  words. All output shall be in [TARGETLANGUAGE]. The text to summarized on this: [PROMPT]
+
+Teaser:
+Create a 100% Unique Blog Separately, burstiness compares the variations of sentences.
+
+PromptHint: Please create a 100% unique blog post that focuses on the concept of burstiness and compares the variations of sentences. Thank you.
+
+Title: [ Separately burstiness compares ]
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: abid 
+AuthorURL: https://abidsindhi842.blogspot.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1834163022232023040
+CreationTime: 2023-06-13T11:31:55.601Z
+RevisionTime: 2023-06-13T11:31:55.601Z
+Help: 

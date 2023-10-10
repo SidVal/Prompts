@@ -1,0 +1,25 @@
+Prompt Template:
+Your task is to check grammar and spelling, and fully proofread and edit this text :
+
+[TARGETLANGUAGE]
+[PROMPT]
+
+Teaser:
+Write the text with grammar and spelling check
+
+PromptHint: [Please provide the sentence you want me to proofread and edit for grammar, spelling, and overall correctness]
+
+Title: Grammar & Spelling Correct Sentence
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Nazmul
+AuthorURL: https://nazmulhossain.dgtalign.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1827761925971509248
+CreationTime: 2023-05-26T19:36:15.326Z
+RevisionTime: 2023-05-30T07:05:03.787Z
+Help: 

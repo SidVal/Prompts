@@ -1,0 +1,27 @@
+Prompt Template:
+Generate a list of SEO keywords that are low competition with high search volume that yoursiteURL[TARGETLANGUAGE]  is most likely to rank on page 1 for your topic and exclude keywords that yoursiteURL has already covered
+
+[PROMPT]
+
+
+
+Teaser:
+Generate a list of SEO keywords
+[Your site URL]
+
+PromptHint: [your site URL]
+
+Title: Keywords generater
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: fasihjanjua
+AuthorURL: https://publishertime.com/author/fasihjanjua/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1829400362180931584
+CreationTime: 2023-05-31T08:06:48.959Z
+RevisionTime: 2023-05-31T08:16:37.424Z
+Help: 

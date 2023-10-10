@@ -1,0 +1,26 @@
+Prompt Template:
+
+[VARIABLE1] 과 관련된 기본 개념을 묻는 질문을  [PROMPT]개수 만큼 만들어줘. 
+[TARGETLANGUAGE]로 작성해줘.
+ [VARIABLE2]는 1부터 5까지 수로 표현되고, 숫자가 높을수록 높은 난이도로 설정해줘.
+[VARIABLE1: 성취기준] [VARIABLE2: 난이도(1~5)]
+
+Teaser:
+Mathematics problem recommendation
+
+PromptHint: number of problems
+
+Title: Mathematics problem recommendation
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: YSLEE
+AuthorURL: https://studentbot.co.kr/
+
+Community: Copywriting-00ea56f446414284
+ID: 1834751423968710656
+CreationTime: 2023-06-15T02:30:01.507Z
+RevisionTime: 2023-06-15T05:38:07.409Z
+Help: 

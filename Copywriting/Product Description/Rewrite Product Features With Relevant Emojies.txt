@@ -1,0 +1,34 @@
+Prompt Template:
+[PROMPT]
+Given above  are the features of a product
+Now rephrase them precisely, add more key points and make it more attractive and cherish so buyer would buy it immediately after reading it.   
+
+Add a little description to given prompt items.
+Also, add relevant emojis in the front and end.
+don't rename the product.
+
+Additionally at the end make sure you add additional emojis to chose from!
+
+please don't repeat the same emojis twice in additional emojis!
+
+Please write in [TARGETLANGUAGE] language.
+
+Teaser:
+Rewrite Product features  to make more attractive 
+
+PromptHint: Product Name, Features
+
+Title: Rewrite Product Features With Relevant Emojies
+
+Topic: Copywriting
+
+Activity: Product Description
+
+AuthorName: Visualmasterpieces
+AuthorURL: https://www.instagram.com/visualmasterpieces_/
+
+Community: Copywriting-00ea56f446414284
+ID: 1829741566781296640
+CreationTime: 2023-06-01T06:42:38.475Z
+RevisionTime: 2023-06-01T11:30:03.854Z
+Help: 

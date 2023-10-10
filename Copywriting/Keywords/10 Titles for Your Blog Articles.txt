@@ -1,0 +1,22 @@
+Prompt Template:
+Suggest me 10 blog article title with some details on. All output shall be in [TARGETLANGUAGE], [PROMPT]
+
+Teaser:
+Write 10 titles for your blog article with one keyword.
+
+PromptHint: [write your one keyword here]
+
+Title: 10 Titles for Your Blog Articles
+
+Topic: Copywriting
+
+Activity: keywords
+
+AuthorName: PRaffiliatr
+AuthorURL: https://www.praffiliatr.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1836085639633432576
+CreationTime: 2023-06-18T18:51:43.31Z
+RevisionTime: 2023-06-18T18:57:33.194Z
+Help: 

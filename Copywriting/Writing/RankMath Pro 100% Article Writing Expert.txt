@@ -31,5 +31,5 @@ AuthorURL: https://getgenie.ai/?rui=487
 Community: Copywriting-00ea56f446414284
 ID: 1804492909165416448
 CreationTime: 2023-03-23T14:33:29.402Z
-RevisionTime: 2023-05-03T19:59:33.409Z
+RevisionTime: 2023-05-21T00:14:18.572Z
 Help: 

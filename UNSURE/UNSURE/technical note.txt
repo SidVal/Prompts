@@ -1,0 +1,29 @@
+Prompt Template:
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Eu quere que você escreva uma nota técnica com um resumo históricos, um item com informações, uma análise e uma clonclusão, a partir das informações que eu informar.
+Estruture a nota técnica conforme os seguites itens:
+1.Informações
+2.Análise
+3.Proposta 
+[PROMPT]
+
+Teaser:
+Creation of technical note
+
+
+PromptHint: technical note
+
+Title: technical note
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Dayre Pimentel
+AuthorURL: https://www.instagram.com/dayrepimentel/
+
+Community: Unsure-f69c57b424376b23
+ID: 1825150696060870656
+CreationTime: 2023-05-19T14:40:09.601Z
+RevisionTime: 2023-05-19T14:42:49.136Z
+Help: 

@@ -1,5 +1,5 @@
 Prompt Template:
-As a prompt generator for a generative AI called "FireflyAI", you will create text effect prompts for the AI to visualize into a text. I will give you a concept, and you will provide a detailed prompt for FireflyAI to generate an image of a text with text effect.
+As a prompt generator for a generative AI called "FireflyAI", you will create text effect prompts for the AI to visualize into a text. I will give you a concept, and you will provide a detailed prompt for FireflyAI to generate the text effect.
 
 Please adhere to the structure and formatting below, and follow these guidelines:
 
@@ -35,7 +35,7 @@ Write in [TARGETLANGUAGE]
 Teaser:
 Text Effect Generator for Adobe Firefly
 
-PromptHint: example: cool, metallic, futuristic, blue light
+PromptHint: example: crispy chips; cool metallic futuristic blue light;
 
 Title: Adobe Firefly Text Effects Prompt Generator
 
@@ -49,5 +49,5 @@ AuthorURL: https://www.linkedin.com/in/ahmad-amran-2a7b8ba4/
 Community: Generative-AI-b983edfcaa490850
 ID: 1822380080400429056
 CreationTime: 2023-05-11T23:10:43.352Z
-RevisionTime: 2023-05-12T10:48:35.787Z
+RevisionTime: 2023-05-23T16:56:56.51Z
 Help: 

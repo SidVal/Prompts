@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE]"Rewrite the following content into Jobs article Starting Job Introduction Paragraph, Job Positions, Job Benefits, Job Requirements, and How to apply: "[PROMPT]
+
+Teaser:
+Step Two
+
+PromptHint: [Enter Content Here]
+
+Title: Step Two
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Ahmed Naeem
+AuthorURL: https://www.facebookcom/ahmednaeemlife
+
+Community: Copywriting-00ea56f446414284
+ID: 1830587626613366784
+CreationTime: 2023-06-03T14:44:34.858Z
+RevisionTime: 2023-06-08T06:21:44.346Z
+Help: 

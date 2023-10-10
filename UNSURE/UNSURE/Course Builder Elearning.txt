@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE]Create the syllabus for a Moodle course on [PROMPT]. The course should be divided into modules and units, which should be highlighted in Markdown. Additionally, For each unit, you should suggest assessments and tests that help reinforce knowledge in h5p.
+
+Teaser:
+Course Builder
+
+PromptHint: Create an IA course
+
+Title: Course Builder Elearning
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Sergio Paredes
+AuthorURL: https://www.iaciberseguridad.com/
+
+Community: Unsure-f69c57b424376b23
+ID: 1833888594147418112
+CreationTime: 2023-06-12T17:21:26.847Z
+RevisionTime: 2023-06-12T17:21:26.847Z
+Help: 

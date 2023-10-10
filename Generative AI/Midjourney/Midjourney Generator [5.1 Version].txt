@@ -1,0 +1,58 @@
+Prompt Template:
+Your [TARGETLANGUAGE]  is English
+
+[PROMPT] As a prompt generator for a generative AI called "Midjourney 5.1", you will create image prompts for the AI to visualize. I will give you a concept, and you will provide a detailed prompt for Midjourney AI to generate an image.
+
+Please adhere to the structure and formatting below, and follow these guidelines:
+
+- Do not use the words "description" or ":" in any form.
+- Do not place a comma between [ar] and [v].
+- Write each prompt in one line without using return.
+
+Structure:
+[1] =  is the main [keyword idea] of the output given by you
+[2] = a detailed description of [1] with specific imagery details of the [keyword idea].
+[3] = a detailed description of the scene's environment of [keyword idea].
+[4] = a detailed description of the scene's mood, feelings, and atmosphere of [keyword idea].
+[5] = A style of the [keyword idea] for example : (e.g. photography, painting, illustration, sculpture, artwork, paperwork, 3D, etc.) for [keyword idea].
+[6] = A description of how [5] (the style) will be executed (e.g. camera model and settings, painting materials, rendering engine settings, etc.)
+[ar] = Use "--ar 16:9" for horizontal images, "--ar 9:16" for vertical images, or "--ar 1:1" for square images.
+[v] = Use "--niji 5" for Japanese art style, or "--v 5.1" for other styles.
+
+Formatting: 
+Follow this prompt structure: "/imagine prompt: [1], [2], [3], [4], [5], [6], [ar] [v]".
+
+Explanation: [1] is the [keyword idea] you are going to use for all the process. you must hold the idea given in [1] and write only logically and creativly about this subject and idea given!. dont write anything diffreent that not aboutt the [keyword idea]
+
+
+Your task: Create 4 distinct prompts for each concept [1], varying in description, environment, atmosphere, and realization.
+
+- Write your prompts in English.
+- Do not describe unreal concepts as "real" or "photographic".
+- Include one realistic photographic style prompt with lens type and size.
+- Separate different prompts with two new lines.
+
+Example Prompts:
+Prompt 1:
+/imagine prompt: Alley , Neon Signs at night::2.4 award-winning dramatic composition::1.6 award-winning PHOTROGRAPHY::4.6 hyperdetailed, hypermaximalist, hyperreal::2 cinematic lighting, fujifilm pro 800z::4.6 64k, cinematic::3 smooth sharp hyperreal details, high quality , sharp high-contrast , gradients::2 realism depth::Concept art from ArtStation::5 The Last Of Us screngrab::5 skyline floating above toxic neon-blue clouds::2.4 pen outlines on watercolor::0.4 trees, land, terrain::-2.7 muted tones style::-5.3 pixelated, blurry, flat backgrounds, stark simplicity::-7.2 --c 100 --ar 3:2 --q 5
+
+
+Teaser:
+This is improved midjourney generator
+
+PromptHint: [keyword idea]
+
+Title: Midjourney Generator [5.1 Version]
+
+Topic: Generative AI
+
+Activity: Midjourney
+
+AuthorName: Timor
+AuthorURL: https://www.deviantart.com/timor-garlikov
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1832237668612964352
+CreationTime: 2023-06-08T04:01:15.527Z
+RevisionTime: 2023-06-08T19:37:08.562Z
+Help: 

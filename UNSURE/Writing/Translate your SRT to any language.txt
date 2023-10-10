@@ -1,0 +1,26 @@
+Prompt Template:
+I will give you a [VARIABLE1] SRT of a youtube conversation.
+Please help me to translate the following [VARIABLE1] SRT into [TARGETLANGUAGE] SRT. Please use a relaxed language to match the daily conversation of [VARIABLE1] people and do not use honorifics.
+Please use [TARGETLANGUAGE] when exporting.
+The SRT to be translated is as follows:
+[PROMPT]
+
+Teaser:
+Translate your SRT to any language
+
+PromptHint: srt [prompt]
+
+Title: Translate your SRT to any language
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Dragoy
+AuthorURL: https://instagram.com
+
+Community: Unsure-f69c57b424376b23
+ID: 1826728300442279936
+CreationTime: 2023-05-23T23:08:59.796Z
+RevisionTime: 2023-05-23T23:08:59.796Z
+Help: 

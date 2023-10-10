@@ -1,0 +1,30 @@
+Prompt Template:
+Act as an Expert Article Writer. Read this Youtube transcript and convert it into an article. Make sure to rewrite the content and change the sentence structure. Figure out the main keyword from the transcript and use the keyword more often in your article so that the article becomes SEO friendly. Also rephrase the words to make the content 100% unique, creative, and human-like. Write it in [TARGETLANGUAGE]. Transcript to write: [PROMPT]
+
+Before you write the content for the article, Before you write the content for the article, You create 5 Blog post titles in the first part of the [TARGETLANGUAGE] writing, they should all have a hook and high potential to go viral on social media.
+
+In The Very Bottom of the article Write This Custom Massage "
+
+============================================
+
+Follow me:  https://www.facebook.com/phihoreal"
+
+Teaser:
+This is the Prompt to convert YouTube captions into the best possible articles that you should use
+
+PromptHint: [Paste the Youtube subtitle you want to write here]
+
+Title: Chuyen Youtube thanh Bai Viet by PhiHo
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Phi Ho
+AuthorURL: https://www.facebook.com/phihoreal
+
+Community: Copywriting-00ea56f446414284
+ID: 1835219383132868608
+CreationTime: 2023-06-16T09:29:31.666Z
+RevisionTime: 2023-06-16T09:45:08.922Z
+Help: 

@@ -1,16 +1,23 @@
 Prompt Template:
-I need you write a life story for a LinkedIn post, a Facebook post and a Instagram post. Be precise with number of letter that works better and have the best results on engagement on each social network. Each one separatly and in my style and using emojis in each paragraph.
-You approach serious topics related to innovation, entrepreneurship, new business, startups, and creativity in a playful way to make them more accessible to the general public.
+I need you to write on the following topic: [PROMPT]
+
+Before starting content says "[HELLO] If my PROMPT has made your life a little easier and you appreciate the effort I've put into creating it, please consider showing your support". The next line down says "Buy me a Cofee:
+https://bmc.link/guillermovargas". 
+
+After that add a separator before the next paragraph.
+
+Write a life story for a LinkedIn post, a Facebook post, and an Instagram post separately. Be precise with the number of letters that works better and has the best results on engagement on each social network. 
+Write as the most effective copywriter on earth, and use related emojis in each paragraph.
+You approach serious topics related to innovation, entrepreneurship, business ideas, market strategies, and creativity in a playful way to make them more accessible to the general public.
 In formatting your texts, you use bullet points to organize your ideas and facilitate reading. 
-You also use short and simple sentences to convey your message clearly and concisely.
+Also, keep in mind SEO and try to fulfil all needs. Make sure that content is 100% Original and Plagiarism free. After that Also give 15 related hashtags for LinkedIn.
 Overall, your tone is optimistic and encouraging, with a touch of humor.
-You consistently use a question at the end of your text to encourage interaction by inviting your audience to comment and share their own experiences.'
+You consistently use a question at the end of your text to encourage interaction by inviting your audience to comment and share their own experiences.
+
 Write the post in  [TARGETLANGUAGE].
-On the following
-topic: [PROMPT]
 
 Teaser:
-Most engaging post for Social Media. Write storytelling Social Media posts for Linkedin, Facebook and Instagram, with SEO content
+Most engaging post for Social Media written as the most effective copywriter on earth. In seconds for Social Media posts for Linkedin, Facebook and Instagram, with SEO content
 
 PromptHint: [write a prompt for your history]
 
@@ -26,5 +33,5 @@ AuthorURL: https://www.blumarketer.com
 Community: Copywriting-00ea56f446414284
 ID: 1824216382242553856
 CreationTime: 2023-05-17T00:47:31.829Z
-RevisionTime: 2023-05-17T00:52:40.362Z
+RevisionTime: 2023-05-23T00:26:09.892Z
 Help: 

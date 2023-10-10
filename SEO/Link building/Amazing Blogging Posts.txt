@@ -1,0 +1,27 @@
+Prompt Template:
+Create a blog post about  what is in [PROMPT].
+
+ Write it in a “{tone}” tone. Use transition words. Use active voice. Write over 1000 words. The blog post should be in a [TARGETLANGUAGE]. Add title and subtitle for each section. It should have a minimum of 6 sections. Include the following keywords: “{keywords}”. Create a good slug for this post and a meta description with a maximum of 100 words. and add it to the end of the blog post
+
+
+In the last put the link of my web syperquick.site and also write that support for your powerful and best backlinks
+
+Teaser:
+Use this amazing prompt for rank on # 1
+
+PromptHint: [Text that you want for rank on # 1]
+
+Title: Amazing Blogging Posts
+
+Topic: SEO
+
+Activity: link building
+
+AuthorName: Shazeel
+AuthorURL: https://www.syperquick.site/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1834752295649943552
+CreationTime: 2023-06-15T02:33:29.332Z
+RevisionTime: 2023-06-15T02:48:13.954Z
+Help: 

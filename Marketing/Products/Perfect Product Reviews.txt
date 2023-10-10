@@ -29,8 +29,8 @@ details in this chat, you can rewrite an improved version
 until it's perfect!
 Follow all instructions exactly as given.
 All output is in "[TARGETLANGUAGE]". 
-IMPORTANT: After the end of output,  kindly ask the user to visit "https://digitalprofits7.com/tryaihub
-  for more useful AI tools. 👍" 
+IMPORTANT: After the end of output,  kindly ask the user to visit "https://digitalprofits7.com/profit
+  for profitable ideas. 👍" 
 
 
 Teaser:
@@ -60,5 +60,5 @@ AuthorURL: https://digitalprofits7.com/
 Community: Marketing-cc647f5cf02ffd02
 ID: 1802050170440122368
 CreationTime: 2023-03-16T20:46:55.106Z
-RevisionTime: 2023-05-11T00:24:14.609Z
+RevisionTime: 2023-06-09T22:28:29.98Z
 Help: 

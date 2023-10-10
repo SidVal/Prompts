@@ -1,0 +1,34 @@
+Prompt Template:
+*Your task is to Create a Merch By amazon Listing, focusing on the design only, never talk about T-shirt itself, ([Design title which is less than 60 characters] & [ Brand which is between 40 & 50 characters] &  [ Feature bullet 1 which is between 220 & 256 characters, one paragraph] & [ Feature bullet 2 which is between 209 & 256 characters one paragraph] & [ Product description
+ which is between 1700 & 2000 characters]), All output shall be in [TARGETLANGUAGE]. 
+*Make sure not to include any copyright or trademark , also make sure to focus on the design instead of product. 
+*Don't include "T-shirt or T-Shirts" , Don't include "Gift or Gifts". 
+*follow Merch By Amazon Rules
+don't talk about the t-shirt material or size or production
+Don't include anything similar to this :
+100% Cotton; Heather Grey: 90% Cotton, 10% Polyester; All Other Heathers: 50% Cotton, 50% Polyester
+Lightweight, Classic fit, Double-needle sleeve and bottom hem
+------------
+*The niche name and design description is this :
+
+[PROMPT]
+
+Teaser:
+Create a Bestseller "No Copyright" Merch By Amazon Listing.
+
+PromptHint: [Enter the title of the Niche, and design description]
+
+Title: The Ultimate Merch By Amazon Listing Creator[Beta]
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Abdelmonaim Benlahbib
+AuthorURL: https://www.instagram.com/monaimartstudio/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1806403362086969344
+CreationTime: 2023-03-28T21:04:56.873Z
+RevisionTime: 2023-03-29T16:41:12.617Z
+Help: 

@@ -1,0 +1,25 @@
+Prompt Template:
+Your task is to create a perfect copy with traces of emotion based on the writings of Russell Brunson [KEYWORD]
+[TARGETLANGUAGE] 
+[PROMPT]
+
+
+Teaser:
+[command] make a copy with emotion and directed for the reader to make the decision to buy the [product or service]
+
+PromptHint: enter your niche keywords Type continue enter 2 times
+
+Title: Sales copy 01 inspired in Russell Brunson
+
+Topic: Copywriting
+
+Activity: call to action
+
+AuthorName: Luiz Paredão
+AuthorURL: https:luizvirgilato.com/copy/
+
+Community: Copywriting-00ea56f446414284
+ID: 1832392699324653568
+CreationTime: 2023-06-08T14:17:17.729Z
+RevisionTime: 2023-06-11T05:03:28.612Z
+Help: 

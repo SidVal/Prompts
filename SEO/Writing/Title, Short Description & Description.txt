@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to create a title, a short description and a product description. The whole output of you should be SEO optimized and convince the buyer to buy the product. So make the text convincing for the customer but still optimized for Google, Otto, Amazon and co... The title should have 55-65 characters. The short description should be 2-3 short sentences. The product description should have 300-500 words.  If you understand everything the user writes to you, send a green hook emoji. Send the whole thing in [TARGETLANGUAGE]. Use this short description:
+
+[PROMPT] 
+
+Teaser:
+Perfect SEO Optimized Title, Short Description and Long Description with a short description as a template.
+
+PromptHint: [your description of the article]
+
+Title: Title, Short Description & Description
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: MATERIA
+AuthorURL: https://www.materia-schmuck.de/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1834209596722434048
+CreationTime: 2023-06-13T14:36:59.825Z
+RevisionTime: 2023-06-13T14:36:59.825Z
+Help: 

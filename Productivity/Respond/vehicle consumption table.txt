@@ -1,0 +1,29 @@
+Prompt Template:
+[TARGETLANGUAGE] [PROMPT]
+
+descreva em uma tabela o consumo do veiculo pesquisado 
+descreva o consumo em etanol e gasolina na cidade e na estrada...
+se o veiculo não usa etanol preencha a tabela de etanol apenas em 0
+
+não precisa ser em dados atualizados
+
+Teaser:
+
+vehicle consumption table: BANJOS
+
+PromptHint: [vehicle]
+
+Title:  vehicle consumption table
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: ESTEVÃO B ANJOS
+AuthorURL: https://youtu.be/oBfppryVhd8
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1832501487466176512
+CreationTime: 2023-06-08T21:29:34.843Z
+RevisionTime: 2023-06-09T15:27:21.147Z
+Help: 

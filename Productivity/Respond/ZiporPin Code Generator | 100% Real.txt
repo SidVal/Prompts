@@ -1,0 +1,23 @@
+Prompt Template:
+generate zip code of this: "[PROMPT]" in [TARGETLANGUAGE]
+
+
+Teaser:
+Generate genuine and real zip codes for the location you provided... Enter detailed location for better results!
+
+PromptHint: [Location]
+
+Title: Zip/Pin Code Generator | 100% Real
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: Abhishek
+AuthorURL: https://thissit.com/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1824404805096046592
+CreationTime: 2023-05-17T13:16:15.337Z
+RevisionTime: 2023-05-21T15:36:22.963Z
+Help: 

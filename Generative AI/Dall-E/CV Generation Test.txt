@@ -1,0 +1,22 @@
+Prompt Template:
+Generate a general CV for the job of [VARIABLE 1]. The person name is [VARIABLE 2]. The output language is [TARGETLANGUAGE] and job tile is [PROMPT]
+
+Teaser:
+Create CV for job 
+
+PromptHint: Add you job, name and language output
+
+Title: CV Generation Test
+
+Topic: Generative AI
+
+Activity: Dall-E
+
+AuthorName: Daniel V
+AuthorURL: https:\\www.cvgen.com
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1831579671926673408
+CreationTime: 2023-06-06T08:26:36.892Z
+RevisionTime: 2023-06-06T08:26:36.892Z
+Help: 

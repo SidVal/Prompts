@@ -1,0 +1,26 @@
+Prompt Template:
+You're a copywriter working for Ogilvy and you have a deep understanding of target markets. Answer the following question while being as detailed and descriptive as possible. Write in [TARGETLANGUAGE].
+
+Give me the top 5 industries that would benefit the most from a [Variable 2] service from [Variable 1], a [Variable 3] in [Variable 4] and arrange them according to importance.
+
+[PROMPT]
+
+Teaser:
+Find the top 5 industries who would benefit the most from your service, arranged according to importance.
+
+PromptHint: [Variable 1: Your company] [Variable 2: Your company's service] [Variable 3: Short company description] [Variable 4: Location]
+
+Title: Industry Research
+
+Topic: Copywriting
+
+Activity: Research
+
+AuthorName: Andromeda
+AuthorURL: https://forum.aiprm.com/u/andromeda/summary
+
+Community: Copywriting-00ea56f446414284
+ID: 1835534518581977088
+CreationTime: 2023-06-17T06:21:45.812Z
+RevisionTime: 2023-06-17T06:43:59.388Z
+Help: 

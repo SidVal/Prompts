@@ -7,14 +7,14 @@ Actúa como un profesional experimentado en SEO. A continuación se te dará un 
 -El texto debe ser fácil de leer para un público general
 Estos son los puntos más importantes en la evaluación
 
-El texto que debes analizar es el siguiente: 
+El texto que debes analizar se encuentra en la siguiente URL: 
 
 [PROMPT]
 
 Teaser:
 Measure SEO score for Ecommerce's blog post
 
-PromptHint: [Text to analyze]
+PromptHint: [URL to analyze]
 
 Title: SEO content score
 
@@ -28,5 +28,5 @@ AuthorURL: https://puntorojo.com/
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1816882877607186432
 CreationTime: 2023-04-26T19:06:48.073Z
-RevisionTime: 2023-04-26T19:06:48.073Z
+RevisionTime: 2023-05-22T18:10:40.342Z
 Help: 

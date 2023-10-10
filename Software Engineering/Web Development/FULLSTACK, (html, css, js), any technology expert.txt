@@ -15,10 +15,10 @@ Topic: Software Engineering
 Activity: Web Development
 
 AuthorName: Mizael Galvez
-AuthorURL: https://www.amazon.com.mx/b?_encoding=UTF8&tag=drimmake-20&linkCode=ur2&linkId=a03d7736d40aa10bb691f3734382f401&camp=1789&creative=9325&node=9298576011
+AuthorURL: https://amzn.to/42KGvyY
 
 Community: SoftwareEngineering-f1858b980c341d28
 ID: 1799306945971347456
 CreationTime: 2023-03-09T07:06:19.426Z
-RevisionTime: 2023-03-11T02:54:25Z
+RevisionTime: 2023-06-19T03:05:20.502Z
 Help: 

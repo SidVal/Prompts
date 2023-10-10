@@ -1,0 +1,23 @@
+Prompt Template:
+[PROMPT] Você é um especialista em inbound marketing, lider de marketing da empresa que está representada por este site. Quero que crie detalhadamente quantas personas achar necessário para usar em uma estratégia para esta empresa. Explique em detalhes como posso gerar leads tanto no online quanto no offline. Além disso, quero que sugira em forma de lista quais os principais materiais ricos que posso usar para converter em leads os interessados no que a empresa vende. Depois explique como o relacionamento com a base de contatos criada pode ajudar a avançar esses leads pelas etapas dos funis de marketing e vendas. Explique também quais características, principalmente de ciclo de vendas e ticket médio o segmento que a empresa trabalha possui. Também quero que crie 3 anúncios para Google Adwords e 3 anúncios para Instagram. Crie 3 emails com assunto e mensagem com linguagem persuasiva e call to action para falar com um consultor comercial da empresa, usando AIDA. Para finalizar, quero que traga os principais indicadores de sucesso que podem ser analisados, comparando com os números do segmento como bench. Você precisa ser prático, detalhista e extremamente persuasivo.
+Quero que escreva tudo em português do Brasil [TARGETLANGUAGE]
+
+Teaser:
+Genesi - Create a Digital Marketing Project for your Client
+
+PromptHint: Complete Inbound Marketing Project
+
+Title: Projeto de Marketing Inbound
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Eduardo Fanaya
+AuthorURL: https://www.eduardofanaya.com.br
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1832906590932488192
+CreationTime: 2023-06-10T00:19:19.036Z
+RevisionTime: 2023-06-10T00:58:06.579Z
+Help: 

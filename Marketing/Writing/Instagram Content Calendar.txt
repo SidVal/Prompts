@@ -5,7 +5,7 @@ Teaser:
 How to use: Write your area and your niche.
 Example: Physiotherapist. I help injured patient to regain movement. (Please, Like the prompt)
 
-PromptHint: Write here your area of expertise and your niche.
+PromptHint: Write here your area of expertise and your niche. (Escreva aqui a sua area de atuação e seu nicho)
 
 Title: Instagram Content Calendar
 
@@ -19,5 +19,5 @@ AuthorURL: https://arnaldoalves.me/comeceaqui/
 Community: Marketing-cc647f5cf02ffd02
 ID: 1790858129500794880
 CreationTime: 2023-02-13T23:33:44.608Z
-RevisionTime: 2023-03-14T19:52:44Z
+RevisionTime: 2023-06-15T22:39:23.395Z
 Help: 

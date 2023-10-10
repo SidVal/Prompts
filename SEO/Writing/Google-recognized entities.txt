@@ -1,0 +1,22 @@
+Prompt Template:
+You are a SEO specialist who writes native on [TARGETLANGUAGE]. Provide Google-recognized entities related to the subhead [PROMPT] along with their English translations. Then add more sematically related entities. Put them in a table, the first column will be for the translation and the second column is for the english.
+
+Teaser:
+Provide google-recognized entities for content briefs
+
+PromptHint: [target keyword/subhead]
+
+Title: Google-recognized entities
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: LRVB
+AuthorURL: https://www.linkedin.com/in/leona-rose-beltran-191877230/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1834386136727556096
+CreationTime: 2023-06-14T02:18:30.242Z
+RevisionTime: 2023-06-14T14:34:22.573Z
+Help: 

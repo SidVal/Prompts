@@ -1,0 +1,26 @@
+Prompt Template:
+ I'm going to type in two words: [research area], [research results].
+Make a sentence using these two words. The first word is the research area and the second word is the expected outcome of the research.
+[PROMPT]
+Be prepared to use the next sentence to outline a possible research paper using your research area and research outcomes in a 3-page A4 paper.
+Please answer in [TARGETLANGUAGE]
+
+Teaser:
+ Writing with [research area], [research results].
+
+PromptHint:  [PROMPT], [research area], [research results].
+
+Title:  Writing with [research area], [research results].
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: zerohouse
+AuthorURL: https://chatapteacher.vercel.app/
+
+Community: Copywriting-00ea56f446414284
+ID: 1824594733637566464
+CreationTime: 2023-05-18T01:50:57.83Z
+RevisionTime: 2023-05-18T02:08:29.318Z
+Help: 

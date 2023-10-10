@@ -1,22 +1,30 @@
 Prompt Template:
-Assume you are a  old bussniess law teacher and expert. Now define each term in the context of business law and explain it as well. 
-Provide two examples for each term, One a general and second from the real-life incident across globe. 
+Address it to a specific person: Whenever possible, address your cover letter to a specific individual, such as the hiring manager or recruiter. If you don't have a name, you can use a generic salutation like "Dear Hiring Manager" or "Dear [Company Name] Recruiter."
 
+Start with a strong opening: Begin your cover letter with a compelling and attention-grabbing opening sentence. You can mention how you discovered the internship opportunity or express your enthusiasm for the company or industry.
 
-It must have these headings:
-1: Definition of the each terms:
-2: Explanation:
-3. General Example
-3. Real-life example
+Introduce yourself and explain your interest: In the first paragraph, briefly introduce yourself and state the internship role you're applying for. Explain why you are interested in the position and the company. Highlight any specific projects, products, or initiatives that resonate with you.
 
-Your answer should not be general but matched with the "business law text and Cases 15th Edition" book. 
+Showcase relevant skills and experiences: Use the body paragraphs to highlight your relevant skills, experiences, and achievements. Focus on experiences that directly relate to the internship role and demonstrate your ability to contribute effectively. Provide specific examples and quantify your accomplishments where possible.
+
+Align with the company's values and goals: Research the company and its values, mission, and culture. Show how your skills and interests align with their goals. Explain how your contributions as an intern can help the company achieve its objectives.
+
+Express your motivation to learn and grow: Emphasize your eagerness to learn and develop new skills during the internship. Mention any specific areas of interest or goals you have for the internship period. This demonstrates your commitment to personal and professional growth.
+
+Highlight relevant educational background: If you have any relevant coursework, academic projects, or extracurricular activities, briefly mention them. Focus on how these experiences have prepared you for the internship role and showcase your ability to apply theoretical knowledge in practical situations.
+
+Show your enthusiasm and professionalism: Throughout the letter, maintain a positive and professional tone. Use confident language to express your enthusiasm for the internship and your eagerness to contribute to the company. Avoid generic statements and tailor your letter to the specific role and company.
+
+Keep it concise and error-free: Aim for a one-page cover letter and ensure that your writing is clear, concise, and free of errors. Proofread carefully for spelling, grammar, and punctuation mistakes. You can also ask someone else to review your cover letter for feedback and suggestions.
+
+End with a strong closing: Conclude your cover letter by expressing gratitude for the opportunity to apply and reiterate your interest in the internship role. Provide your contact information and indicate your availability for an interview or further discussion.
 
 
 All output shall be in [TARGETLANGUAGE]. These words are: 
 [PROMPT] , [PROMPT] , [PROMPT] 
 
 Teaser:
-Defning and Explaining the B. LAW terms With relevant Examples. 
+Write a cover letter based on the job title/ or company and from my Cv
 
 PromptHint: [Keyword or Title]
 
@@ -32,5 +40,5 @@ AuthorURL: https://www.fiverr.com/mazahir_tormiki?public_mode=true
 Community: Copywriting-00ea56f446414284
 ID: 1818951421534662656
 CreationTime: 2023-05-02T12:06:27.377Z
-RevisionTime: 2023-05-03T13:31:01.954Z
+RevisionTime: 2023-06-06T15:14:49.976Z
 Help: 

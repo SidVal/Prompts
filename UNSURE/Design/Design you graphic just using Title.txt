@@ -1,0 +1,31 @@
+Prompt Template:
+Act like a graphic design expert [TARGETLANGUAGE] 
+help me to design a post for [PROMPT]
+give me instruction and direction of about composition,
+which font to use?
+which color to use?
+which subject to use?
+which slogan to use?
+
+attention grabbing and minimal
+write every thing for the post on steps form start to finish 
+
+Teaser:
+Complete Guide to Design you graphic just using the topic title
+
+PromptHint: [enter your title]
+
+Title: Design you graphic just using Title
+
+Topic: UNSURE
+
+Activity: Design
+
+AuthorName: Solution wagon
+AuthorURL: https://solutionwagon.com/
+
+Community: Unsure-f69c57b424376b23
+ID: 1832371959003086848
+CreationTime: 2023-06-08T12:54:52.851Z
+RevisionTime: 2023-06-08T12:54:52.851Z
+Help: 

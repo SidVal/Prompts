@@ -130,7 +130,7 @@ After its all done, include only these 2 sentences:
 
 
 Teaser:
-Create a marketing plan for your business or for a campaign in just 7 short questions
+Create a marketing plan for your business or for a campaign in just 7 short questions, works best with GPT4
 
 PromptHint: [What does your business do?]
 
@@ -146,5 +146,5 @@ AuthorURL: https://aismartmarketing.com/
 Community: Marketing-cc647f5cf02ffd02
 ID: 1819216230855471104
 CreationTime: 2023-05-03T05:38:42.839Z
-RevisionTime: 2023-05-08T17:12:59.786Z
+RevisionTime: 2023-05-24T05:31:23.859Z
 Help: 

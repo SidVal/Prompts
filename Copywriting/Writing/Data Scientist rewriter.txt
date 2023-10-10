@@ -1,0 +1,24 @@
+Prompt Template:
+All output shall be in [TARGETLANGUAGE]. As a professional Data Scientist, rewrite following text in your words, don't introduce yourself:
+
+[PROMPT]
+
+Teaser:
+Data Scientist rewriter
+
+PromptHint: [Data Scientist rewriter]
+
+Title: Data Scientist rewriter
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Herman
+AuthorURL: https://www.linkedin.com/in/herman-tiumentsev-144309192/
+
+Community: Copywriting-00ea56f446414284
+ID: 1832064554977456128
+CreationTime: 2023-06-07T16:33:22.02Z
+RevisionTime: 2023-06-07T16:33:22.02Z
+Help: 

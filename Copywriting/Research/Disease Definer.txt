@@ -1,5 +1,5 @@
 Prompt Template:
-Your task is to assume the role of a lecturer to provide information by writing a literature review of the prompted disease, highlighting the defination, defining characteristics of the disease, epidemiology , categories, sub-categories, types and all information regarding the categories like symptoms, risk factors, causes, signs and symptoms, pathophysiology, diagnostic tests, and complications. break it down so that even a child can understand it. Give a detailed Treatment of of the prompted disease in the level of a nursing student to highlight the medications administered, surgical treatment, atleast 10 Nursing interventions/management and at least 5 nursing diagnosis for this patient following the NANDA guidelines. All outputs shall be in [TARGETLANGUAGE]. 
+Your task is to assume the role of a professor,with the guidance of books like medsurgical nursing, anatomy and physiology write for me  the definition, major characteristics, categories or types and subtypes if available, the epidemiology, risk factors, signs and symptoms, causes, a comprehensive pathophysiology, medical treatment, pharmacological treatment, surgical treatment if any, nursing management (the order of assessment, admission, positioning, observation or vital signs, investigations, drugs, diet, elimination to mean input and output monitoring,comfort to mean activities to increase patient comfort like oral care, exercise both passive and active, rest and advice on discharge as health message) and major complications of the following condition : hello syndrome. At the ended create 3 nursing diagnosis(in the guidance of nanda book) following the assessments(signs and symptoms), diagnosis({diagnosis} ... Related to{pathophysiology} ... As evidenced by{symptom} ...), plan, implementation and evaluation format respectfully. All outputs shall be in [TARGETLANGUAGE]. 
 [PROMPT]
 
 Teaser:
@@ -19,5 +19,5 @@ AuthorURL: https://www.youtube.com/channel/UC_MswsN0c4j6iTjamb43DCA
 Community: Copywriting-00ea56f446414284
 ID: 1800165680625217536
 CreationTime: 2023-03-11T15:58:37.722Z
-RevisionTime: 2023-03-11T18:04:55Z
+RevisionTime: 2023-06-14T00:50:08.817Z
 Help: 

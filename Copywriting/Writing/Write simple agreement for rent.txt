@@ -1,0 +1,26 @@
+Prompt Template:
+[PROMPT] IN [TARGETLANGUAGE] with [ENGLISH], [HINDI]
+month_name = "Jan"
+values = ["Jan", "Feb", "Mar"]
+generated_code = generate_code(month_name, values)
+print(generated_code),
+
+Teaser:
+Create agreement for rent, home, property etc.
+
+PromptHint: Insert the primary keyword you want to create agreement content for
+
+Title: Write simple agreement for rent
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Arvind Maurya
+AuthorURL: http://laxmisoftware.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1835599272297418752
+CreationTime: 2023-06-17T10:39:04.301Z
+RevisionTime: 2023-06-19T10:42:38.925Z
+Help: 

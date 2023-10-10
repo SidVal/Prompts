@@ -5,7 +5,7 @@ Sort them in chronological order from newest to oldest. If you encounter a job t
 The data is: [PROMPT]
 
 Teaser:
-This prompt saves you the hassle of cleaning up your LinkedIn career or education history data when copied from an experience page on LinkedIn.
+This prompt saves you the hassle of cleaning up LinkedIn career or education history data when copied from an experience page on LinkedIn.
 
 
 PromptHint: Paste your LinkedIn career or education history data here!
@@ -22,5 +22,5 @@ AuthorURL: https://aubs.digital/
 Community: Productivity-b5a49cdd0796137a
 ID: 1806965217188634624
 CreationTime: 2023-03-30T10:17:33.568Z
-RevisionTime: 2023-04-13T14:06:04.128Z
+RevisionTime: 2023-05-24T19:58:16.521Z
 Help: 

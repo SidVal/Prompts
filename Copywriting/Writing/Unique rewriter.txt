@@ -1,0 +1,26 @@
+Prompt Template:
+want you to act as a rewriter that fluently speak and rewrite in your own wording, make it unique, friendly, plagrism and copywriter free in [TARGETLANGUAGE] . The text to be rewritten is this:
+
+[PROMPT]
+
+keep the result length almost similier to the [PROMPT] and also rewrite in the same format.
+
+Teaser:
+Rewrite this line or paragrapgh in your own wording, make it unique, friendly, plagrism and copywriter free.
+
+PromptHint: Write you line/Paragraph Here (Keep the text under 100 to 150 words)
+
+Title: Unique rewriter
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Zee
+AuthorURL: https://zeequetech.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1831270239208472576
+CreationTime: 2023-06-05T11:57:02.383Z
+RevisionTime: 2023-06-05T13:13:07.439Z
+Help: 

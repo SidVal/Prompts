@@ -1,0 +1,56 @@
+Prompt Template:
+[VARIABLE1]
+[VARIABLE1:List of target KW for the article]
+[VARIABLE2]
+[VARIABLE2:Topic Outline]
+[VARIABLE3]
+[VARIABLE3:Reference]
+
+
+I want you to act like a native U.S. speaker who works as a copywriter. Analyze the [VARIABLE3] and write a [PROMPT]-word article using the [VARIABLE2] that is 100% unique, SEO-optimized, utilizes every [VARIABLE1] keyword, and is a conversationally human-written article in [TARGETLANGUAGE]ENGLISH.
+
+Write the article in your own words rather than copying and pasting from other sources. Humans tend to write with greater burstiness, for example, with some longer or more complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the article, I need it to have a good amount of perplexity and high burstiness.
+
+Use fully detailed paragraphs that engage the reader. Break down long paragraphs into separate paragraphs with a maximum of three-line sentences.
+
+Write in a conversational style as written by a human while using an informal tone, utilize personal pronouns, keep it simple, engage the reader, only use active voice, keep it brief, use rhetorical questions, and incorporate analogies and metaphors. Write it from the first-person perspective, connecting with the readers. Use third-person perspective and increase the assertive tone, but don’t make it too promotional.
+
+Add conversational humor to properly connect with the readers, utilize the usage of “you” and “your”
+
+Make sure the article is plagiarism-free.
+
+Use all of these keywords.
+
+[VARIABLE1]
+
+2-3 times every 200 words in the article, along with different variations of long-tail keywords and different synonyms of them, while making it sound natural.
+
+Follow the exact structure of the topic outline and add bullet points or numbered lists for each subheading if necessary:
+
+[VARIABLE2]
+
+Each sentence should be written in second-person perspective without using the verbs is, are, were, was, be, or being.
+
+Do not start your answer with “as an” or anything similar.
+Do not use the same words; use synonyms.
+Do not use the same noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection.
+
+Teaser:
+Let's write!
+
+PromptHint: Word Count
+
+Title: Content Writing
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: cs.xvii
+AuthorURL: https://www.linkedin.com/in/christian-santos-51448a147/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1811298264419655680
+CreationTime: 2023-04-11T09:15:32.532Z
+RevisionTime: 2023-06-06T08:54:35.727Z
+Help: 

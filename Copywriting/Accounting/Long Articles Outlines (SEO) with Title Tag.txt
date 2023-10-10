@@ -1,0 +1,33 @@
+Prompt Template:
+Develop a comprehensive English markdown outline for a long-form article for the topic "[PROMPT]", featuring at least 8 engaging "Headings" and "Subheadings", that are detailed, mutually exclusive, collectively exhaustive and cover the entire topic. Conclude with a summary and pertinent FAQs. Provide a captivating Bold Font title without writing the article itself. 
+
+Step 1:
+Please provide the output in the following format:
+Title Tag:
+Meta Description:
+Title Summary:
+1:
+2:
+3:
+
+The target language is [TARGETLANGUAGE]
+
+Teaser:
+Give the best Long Articles Outline (SEO) 
+
+PromptHint: [Write The Text here You want Outlines for]
+
+Title:  Long Articles Outlines (SEO) with Title Tag
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: BUNTU
+AuthorURL: https://www.upwork.com/freelancers/~01ad97dd74ae560609
+
+Community: Copywriting-00ea56f446414284
+ID: 1825169629639872512
+CreationTime: 2023-05-19T15:55:23.718Z
+RevisionTime: 2023-05-31T10:19:13.647Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Write a fun, engaging and informative caption for an instagram meme which says [PROMPT] . Make sure it's funny and value-adding at the same times. Do put a few emojis and 4-5 top hashtags for the same. All output shall be in [TARGETLANGUAGE]
+
+Teaser:
+Create an engaging instagram caption for a meme
+
+PromptHint: [Type the content of your meme/ what your meme is about]
+
+Title: Caption writing for a meme
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: Raj
+AuthorURL: https://tinksystore.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1827989302966226944
+CreationTime: 2023-05-27T10:39:46.226Z
+RevisionTime: 2023-05-27T10:39:46.226Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Hello AI, I would like you to generate a piece of content that sounds more like it was written by a human. Please focus on using natural language, incorporating personal experiences or anecdotes, and using a friendly tone. Avoid sounding too formal or robotic. The topic is 'The Benefits of Regular Exercise.' Please provide a 200-word response that is engaging and relatable to the reader [TARGETLANGUAGE]. 
+
+[PROMPT]
+
+Teaser:
+ Make your text human written 100%
+
+PromptHint: [put your text which is to be human written]
+
+Title: Make your text human written
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Muhammad Kashif
+AuthorURL: https://realfacts.info/
+
+Community: Copywriting-00ea56f446414284
+ID: 1834922141645795328
+CreationTime: 2023-06-15T13:48:23.773Z
+RevisionTime: 2023-06-15T15:04:36.959Z
+Help: 

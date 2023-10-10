@@ -1,0 +1,22 @@
+Prompt Template:
+Hi ChatGPT, Act as a VBA programmer. Write me VBA code to create PowerPoint slides about  [Insert your Topic Name] . Think like a [PROMPT] . Use your knowledge and create at least 10 slides. [TARGETLANGUAGE]
+
+Teaser:
+Hi ChatGPT, Act as a VBA programmer. Write me VBA code to create PowerPoint slides about  [Insert your Topic Name] . Think like a [Insert your Expert Role Example- Research Manager or Market researcher] . Use your knowledge and create at least 10 slides.
+
+PromptHint: Powerpoint, Slides, VBA
+
+Title: Create an Entire PowerPoint Presentation
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Aniket Pradip Joshi
+AuthorURL: https://in.linkedin.com/in/aniket-joshi-89782a62
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1834546073709572096
+CreationTime: 2023-06-14T12:54:02.19Z
+RevisionTime: 2023-06-14T12:54:02.19Z
+Help: 

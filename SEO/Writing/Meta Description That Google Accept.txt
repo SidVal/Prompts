@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to summarize the text I give you in 20 words or maximum 130 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+
+[PROMPT]
+
+Teaser:
+Create the best meta description according to your needs
+
+PromptHint: [text that you want a meta description for]
+
+Title: Meta Description That Google Accept
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Nortus Fitness
+AuthorURL: https://www.yorksfitness.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1824286962601947136
+CreationTime: 2023-05-17T05:27:59.497Z
+RevisionTime: 2023-05-17T05:27:59.497Z
+Help: 

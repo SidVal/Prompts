@@ -1,0 +1,22 @@
+Prompt Template:
+Shorten the sentence with divide them into many small sentences in simple words in [TARGETLANGUAGE] "[PROMPT]"
+
+Teaser:
+Human Written | Plagiarism Free | SEO Optimized Sentence Shortener With Proper Way [Latest Version]
+
+PromptHint: [Enter your Sentence] or [Paragraph]
+
+Title: One Click Sentence Shortener
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Sham Sunder
+AuthorURL: https://gamebazaar.xyz
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1835559381443010560
+CreationTime: 2023-06-17T08:00:33.58Z
+RevisionTime: 2023-06-19T02:34:50.952Z
+Help: 

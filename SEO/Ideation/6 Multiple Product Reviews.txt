@@ -1,0 +1,22 @@
+Prompt Template:
+My first task is to generate human-like product reviews for B2B products in just two lines, it must be six reviews for each product and unique from other. Each review should appreciate suppliers or manufacturers, and the words "purchase," "order," "transaction," and "buy" should not be used. The [TARGETLANGUAGE] is [ENGLISH].[PROMPT]"
+
+Teaser:
+Make six unique product review from 1 [Keyword}
+
+PromptHint: [your list of keywords]
+
+Title: 6 Multiple Product Reviews
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Saleem Malik
+AuthorURL: https://wearostrich.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1827306236513882112
+CreationTime: 2023-05-25T13:25:30.493Z
+RevisionTime: 2023-05-30T10:56:01.792Z
+Help: 

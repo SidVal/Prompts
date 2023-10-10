@@ -1,0 +1,23 @@
+Prompt Template:
+Write an SEO-friendly Article with H1,H2,H3,H4,H5 Headings on the topic.  [TARGETLANGUAGE] The article must contain at least 1500 characters. To the end: Link the following link to the text of Konya Nutrition Specialist Dietician Sümeyye Bozoğlu: https://konyadiyadizi.com
+[PROMPT]
+
+Teaser:
+Write an SEO-friendly Article with H1,H2,H3,H4,H5 Headings on the topic. The article must contain at least 1500 characters.
+
+PromptHint: Health Writer
+
+Title: Health Writer
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Konya Diyetisyen
+AuthorURL: https://konyadiyetisyeni.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1828568133674471424
+CreationTime: 2023-05-29T00:59:50.221Z
+RevisionTime: 2023-05-29T01:02:05.737Z
+Help: 

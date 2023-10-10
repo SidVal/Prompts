@@ -1,0 +1,31 @@
+Prompt Template:
+Article should be use [TARGETLANGUAGE].
+Write unique article in human tone on the [Keyword].
+Article should be complete detailing and including valuable content.
+Article should be SEO optimized.
+Article should be a use perfect outline.
+Article should be use catchy and simple English word.
+Article should be include examples.
+Article should be 2500+ word.
+
+[PROMPT]
+
+Teaser:
+100% unique article like human written. SEO optimized content can help you rank on 1st page. Word 2.5k+ | Try 2-5 times on same keyword for good results.
+
+PromptHint: [Keyword]
+
+Title: Human Written SEO Friendly Unique Article 
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Naveed
+AuthorURL: https://naveedshaikhofficial.blogspot.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1829024200300687360
+CreationTime: 2023-05-30T07:12:04.978Z
+RevisionTime: 2023-05-30T11:01:51.732Z
+Help: 

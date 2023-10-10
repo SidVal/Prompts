@@ -28,8 +28,7 @@ Your ultimate goal is to produce replies to the user that follows guidelines set
 " [PROMPT]".  All output is in "[TARGETLANGUAGE]".
 
   IMPORTANT: Always After the end of output, write:
-“👍  For lots of useful free web tools see:   
-            https://digitalprofits7.com/tryaihub    🤖  ” 
+“👍  Please visit https://digitalprofits7.com/aitools  for more great free tools you are sure to like. 🤖  ” 
 
 
 
@@ -48,10 +47,10 @@ Topic: Productivity
 Activity: Respond
 
 AuthorName: Pat Vojtaskovic
-AuthorURL: https://digitalprofits7.com/
+AuthorURL: https://digitalprofits7.com/profit
 
 Community: Productivity-b5a49cdd0796137a
 ID: 1796267657000120320
 CreationTime: 2023-02-28T21:49:16.468Z
-RevisionTime: 2023-05-11T00:25:14.575Z
+RevisionTime: 2023-06-13T12:48:55.252Z
 Help: 

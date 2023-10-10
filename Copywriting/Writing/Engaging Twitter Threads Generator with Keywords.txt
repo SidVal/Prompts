@@ -1,0 +1,24 @@
+Prompt Template:
+act as a content marketing expert and tweeter influencer and, create 10 question-based and fun-based tweets on the given keywords. it should be simple. all out put shall be in [TARGETLANGUAGE] .
+
+[PROMPT]
+
+Teaser:
+Create engaging tweet for any one in simple click 
+
+PromptHint: keywords in English
+
+Title: Engaging Twitter Threads Generator with Keywords
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Vishnu
+AuthorURL: https://www.instagram.com/thewalkingpilot
+
+Community: Copywriting-00ea56f446414284
+ID: 1835903412974927872
+CreationTime: 2023-06-18T06:47:37.089Z
+RevisionTime: 2023-06-18T06:47:37.089Z
+Help: 

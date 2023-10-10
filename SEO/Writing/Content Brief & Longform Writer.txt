@@ -1,0 +1,39 @@
+Prompt Template:
+Only respond in [TARGETLANGUAGE]
+
+
+Step 1: Advanced Keyword Exploration About: [PROMPT]
+
+Utilize your exceptional SEO proficiency to conduct an exhaustive keyword research for the blog post on [PROMPT]. Discover 40 high-ranking SEO keywords, incorporating seed, long-tail, and LSI keywords. Deploy your comprehensive training data and profound understanding of the topic to derive these keywords. The first step is paramount in ensuring our blog post is SEO-friendly and readily discoverable by our target audience.
+
+Step 2: Detailed Content Brief and In-depth Outline Composition About: [PROMPT]
+
+Following keyword research, leverage your globally-recognized content marketing prowess to construct an exhaustive content brief and an elaborate outline for a blog post on [PROMPT]. The brief should succinctly define the target audience demographics, their particular interests, and pressing pain points, set an engaging metaphorical and punchy tone, and establish a minimum word count as a goal.
+
+The outline should comprise at least 10 H2 headings, with each accommodating multiple H3 subheadings. Each H3 should include a detailed description signifying the points to be discussed, incorporating the SEO and LSI keywords identified in Step 1, ensuring their natural and organic integration. Remember to refrain from including an introduction, conclusion, or FAQ sections as these will be composed separately.
+
+Step 3: Engaging Blog Post Crafting, Visual Elements Incorporation & External Link Inclusion About: [PROMPT]
+
+Once the content brief and outline are ready, embark on the meticulous crafting of an engaging blog post on [PROMPT]. Adopt a punchy, metaphorical tone that aligns with the buyer persona and ensure a diversified, engaging format. Use pertinent stats, quotes, and links organically following the detailed outline created in Step 2. Include hashtags for proper formatting of headings and ensure each section mirrors the directives given in the detailed outline from Step 2. 
+
+Incorporate as many links to external high DA sites as possible within the article via markdown [format](likethis.com). Do not strive to finish the blog post in a single response but write as much as possible in each response. To mitigate memory issues regarding writing instructions, maintain a running summary, and remaining unused keywords that gradually get used up. The final result will be a comprehensive, detailed blog post written in English.
+
+Teaser:
+Premium Level Content Brief - Ideal Keywords, Ideal content length, target audience, Meta Description, Meta Title, Blog tags, longtail and related keywords
+
+PromptHint: [Blog Topic/Blog Title]
+
+Title: Content Brief & Longform Writer
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Social Petworker
+AuthorURL: https://socialpetworker.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1785620599591407616
+CreationTime: 2023-01-30T12:41:40.169Z
+RevisionTime: 2023-06-15T04:23:35.803Z
+Help: 

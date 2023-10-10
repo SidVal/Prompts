@@ -1,0 +1,37 @@
+Prompt Template:
+Prompt Template 
+Prompt text including placeholders [TARGETLANGUAGE], [PROMPT], [VARIABLE1], [VARIABLE2] and [VARIABLE3] replaced automagically by AIPRM.
+
+[VARIABLE1], [VARIABLE2] and [VARIABLE3] require title with optional default value and available values.
+
+Example: Example [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2] and [VARIABLE3].
+[VARIABLE1:Title] [VARIABLE2:Title:Default Value] [VARIABLE3:Title:Default Value:Available Value 1|Available Value 2|Available Value 3].
+
+[VARIABLE1], [VARIABLE2] and [VARIABLE3] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2 and AIPRM_VARIABLE3.
+ Teaser 
+adverstising 1
+ Prompt Hint 
+product
+ Title 
+my store
+
+
+Teaser:
+adverstising 1
+
+PromptHint: product
+
+Title: my store
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: hope
+AuthorURL: https://www.homazonx.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1833281413073092608
+CreationTime: 2023-06-11T01:08:43.598Z
+RevisionTime: 2023-06-11T01:08:43.598Z
+Help: 

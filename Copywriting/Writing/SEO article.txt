@@ -1,37 +1,36 @@
 Prompt Template:
-I order you to play the role of Content writer. Movie Reviews expert with a writing style like Zelda Fitzgerald Write your opinion about current issues at Slashfilm.com who is very proficient in [TARGETLANGUAGE] and writes fluently. Write SEO optimized Long Form articles with
+Saya perintahkan Anda berperan sebagai Content writer dengan gaya penulisan casual, yang sangat mahir berbahasa [TARGETLANGUAGE] dan lancar menulis. Tulis artikel Bentuk Panjang yang dioptimalkan untuk SEO dengan
 
-1. at least 2000 words.
-2. Use a minimum of 10 headings and subtitles, including Headings H1, H2, and H3, H4.
-3. The last paragraph should be a conclusion
-4. also add 5 FAQs and FAQs must be different from the headings that have been written.
-5. Write information in your own words instead of copying and pasting from other sources.
-6. also check for plagiarism as i need pure unique content,
-7. Write content in a conversational style as if it were written by a human.
-8. When preparing the article, be prepared to write the necessary words in bold.
-9. I want you to write content so that it can outperform other websites.
-10. Use United States slang style.
+1. minimal 2000 kata.
+2. Gunakan minimal 10 judul dan sub judul, termasuk Judul dengan Heading 1, Heading 2, Heading 3 dan Heading 4.
+3. Paragraf terakhir harus menjadi kesimpulan.
+4. tambahkan juga 5 FAQ dan FAQ harus berbeda dengan heading yang sudah ditulis.
+5. tulis informasi dengan kata-kata Anda sendiri daripada menyalin dan menempel dari sumber lain.
+6. periksa juga plagiarisme karena saya membutuhkan konten unik murni.
+7. tulis konten dengan gaya percakapan seolah-olah ditulis oleh manusia.
+8. Saat menyiapkan artikel, bersiaplah untuk menulis kata-kata yang diperlukan dengan huruf tebal.
+9. Saya ingin Anda menulis konten sehingga dapat mengungguli situs web lain.
 
-Don't answer that there are many factors that influence good search rankings. I know that quality content is only one of them, and it's your job to write the highest quality content here, not lecture me on general SEO rules. I gave the Title [KEYWORD] of an article that needs ranking on Google. Then I want you to write an article in a relaxed style. Write long form, full markdown format articles in Indonesian that can be ranked on Google with the same keywords as the website. Articles must contain rich and comprehensive paragraphs, very detailed, with lots of details. Leave the article in the form of a minimum length of 2000 words. Don't remind me what I asked for. Don't apologize. Don't self reference. Do it now using common filler phrases. Use useful subheadings with keyword-rich titles. Straight to the point precisely and accurately. Don't explain what and why, just give your best article. Make the title bold and appropriate for the header tag.
+Jangan menjawab bahwa ada banyak faktor yang mempengaruhi peringkat pencarian yang baik. Saya tahu bahwa kualitas konten hanyalah salah satunya, dan tugas Anda adalah menulis konten dengan kualitas terbaik di sini, bukan menguliahi saya tentang aturan umum SEO. Saya beri Judul [KEYWORD] dari sebuah artikel yang perlu kerangking di Google. Kemudian saya ingin Anda menulis artikel dalam gaya bahasa santai. Tulis Formulir panjang, artikel berformat markdown lengkap dalam bahasa [TARGETLANGUAGE]  yang dapat diberi peringkat di Google dengan kata kunci yang sama dengan situs web tersebut. Artikel harus berisi paragraf yang kaya dan komprehensif, sangat detail, dengan banyak detail. Biarkan artikel berbentuk artikel panjang minimal 2000 kata. Jangan ingatkan saya apa yang saya minta. Jangan minta maaf. Jangan referensi diri. Lakukan sekarang gunakan frase pengisi umum. Gunakan subjudul yang berguna dengan judul kaya kata kunci. Langsung ke intinya dengan tepat dan akurat. Jangan jelaskan apa dan mengapa, berikan saja artikel terbaik Anda. Buat judul tebal dan sesuai untuk tag header.
 
 [PROMPT]
 
 Teaser:
-SEO Friendly Articles
+SEO Friendly Article
 
-PromptHint: [Please input the keyboard to create articles]
+PromptHint: [Input Keyword]
 
-Title: Seo Article
+Title: SEO article
 
 Topic: Copywriting
 
 Activity: writing
 
-AuthorName: Cinematune
-AuthorURL: https://cinematune.us/
+AuthorName: https://www.bendfashionquarterly.com/
+AuthorURL: https://www.bendfashionquarterly.com/
 
 Community: Copywriting-00ea56f446414284
-ID: 1823279937071878144
-CreationTime: 2023-05-14T10:46:25.901Z
-RevisionTime: 2023-05-14T11:00:54.852Z
+ID: 1822203274292625408
+CreationTime: 2023-05-11T11:28:09.491Z
+RevisionTime: 2023-05-24T02:55:54.472Z
 Help: 

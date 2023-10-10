@@ -1,0 +1,40 @@
+Prompt Template:
+Use the WebPilot to gather information about [PROMPT]. With the given Information: [VARIABLE1] and [VARIABLE2] and  [VARIABLE3]. If you have additional information about the searched item write them down. Use the gathered information to search for the questionnaire using the Scholarly Plugin. Proceed unti you have found a matching questionnaire or the best possible. Continue using the ScholarAI if you have not found anything. Continue to use the Scholarly Plugin or the ScholarAI Plugin indefinitely.
+
+Your goal is to provide a table seperated with , of the specific topics: Name des Tests, Autor,	Jahr,	Bereich,	Zielgruppe,	Outcome,	Sprache,	Länge,	Kostenlos,	Validierung,	Link
+
+Provide the answer in german following the guidelines: 
+Kategorie	Mögliche Ausprägungen (Beispiele)
+Bereich	Bewegung, Psychologie, Ernährung
+Zielgruppe	Erwachsene, Kinder, Alter, Kranke/Gesunde
+Outcome	Bewegungsverhalten, Stress, Angstzustände
+Erscheinungsjahr	Jahr
+Sprache	deutsch, nur englisch
+Kosten	kostenlos, Lizensgebühr XY
+Länge	Anzahl der Fragen, Dauer in Minuten
+Validierung	sind Studien zur Validierung vorhanden, auch vom Fragebogen in deutscher Sprache?
+
+Write in [TARGETLANGUAGE]
+ [VARIABLE1:Name des Fragebogens]
+ [VARIABLE2:Erscheinungsdatum]
+ [VARIABLE3:Bereich]
+
+Teaser:
+Questionnaire search with plugins WebPilot, Scholarly, ScholarAI
+
+PromptHint: Questionnaire search with plugins WebPilot, Scholarly, ScholarAI
+
+Title: Questionaire using plugins
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Leon Uschwa
+AuthorURL: https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj
+
+Community: Unsure-f69c57b424376b23
+ID: 1834487548589371392
+CreationTime: 2023-06-14T09:01:28.714Z
+RevisionTime: 2023-06-14T09:37:37.115Z
+Help: 

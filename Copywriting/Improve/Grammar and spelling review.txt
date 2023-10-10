@@ -1,0 +1,24 @@
+Prompt Template:
+Revise a Gramática e Ortografia do Texto sem perder o sentido do contexto em Portugues do Brasil. [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Review the Grammar and Spelling of the Text without losing the sense of the context in the Brazilian Portuguese language.
+
+PromptHint: Enter with Text to review, of Grammar and spelling review
+
+Title: Grammar and spelling review
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: Luis Nt
+AuthorURL: https://app.qbits.pl/luisnt
+
+Community: Copywriting-00ea56f446414284
+ID: 1834153813868150784
+CreationTime: 2023-06-13T10:55:20.156Z
+RevisionTime: 2023-06-13T10:59:26.371Z
+Help: 

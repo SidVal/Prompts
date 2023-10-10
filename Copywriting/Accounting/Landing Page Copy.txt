@@ -1,0 +1,30 @@
+Prompt Template:
+[TARGETLANGUAGE]
+
+[PROMPT] Act as a landing page copywriting expert. 
+I will give you a brief below and you will ask me questions to understand the product, brand and audience as best as you can. 
+
+Company: [BRAND]
+Product: [PRODUCT]
+
+
+
+Teaser:
+Create landing page copy for a [BRAND] and ask questions to enrich understanding.
+
+PromptHint: Brand product audience
+
+Title: Landing Page Copy
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Andrew Childs
+AuthorURL: https://known.consulting
+
+Community: Copywriting-00ea56f446414284
+ID: 1834257062382268416
+CreationTime: 2023-06-13T17:45:36.52Z
+RevisionTime: 2023-06-13T17:45:36.52Z
+Help: 

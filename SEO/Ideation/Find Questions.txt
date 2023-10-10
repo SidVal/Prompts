@@ -1,10 +1,20 @@
 Prompt Template:
-Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. [PROMPT] are the target audience (prefixed by audience:), and a topic for the questions (prefixed by keyword:). You will then generate the top 10 questions related to that keyword, for that target audience. Write all in [TARGETLANGUAGE] 
+Please ignore all previous instructions. 
+I want you to respond only in language [TARGETLANGUAGE].  
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. 
+The target audience is [VARIABLE1].
+The topic for the questions is "[VARIABLE2]". 
+You will then generate the top 10 questions related to that keyword, for that target audience. 
+Write all in [TARGETLANGUAGE] and consider [PROMPT]
+
+[VARIABLE1:Audience:Digital Marketers]
+[VARIABLE2:Keyword:Content planning]
+
 
 Teaser:
 Discover the top 10 questions about [keyword] that [target audience] needs answered.
 
-PromptHint: audience: seos, keyword: link building
+PromptHint: [additional aspects to consider]
 
 Title: Find Questions
 
@@ -18,5 +28,5 @@ AuthorURL: https://www.aiprm.com/?via=chatgpt&utm_campaign=promptcredits&utm_sou
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1000109
 CreationTime: 2023-01-14T21:06:38.976Z
-RevisionTime: 2023-02-19T15:35:19Z
+RevisionTime: 2023-06-16T13:13:21.73Z
 Help: 

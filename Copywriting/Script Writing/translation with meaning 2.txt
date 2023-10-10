@@ -1,0 +1,24 @@
+Prompt Template:
+I want you to translate the text i give you in [TARGETLANGUAGE] and give a explanation in [ENGLISH] of what you translate, using maximum 50 words.
+
+[PROMPT]
+
+Teaser:
+[text the right translation]
+
+PromptHint: [translation]
+
+Title: translation with meaning 2
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: Fedezirma
+AuthorURL: https://twitter.com/home
+
+Community: Copywriting-00ea56f446414284
+ID: 1824536548834795520
+CreationTime: 2023-05-17T21:59:45.492Z
+RevisionTime: 2023-05-17T21:59:45.492Z
+Help: 

@@ -1,25 +1,24 @@
 Prompt Template:
 Only respond in [TARGETLANGUAGE]
-Use the skyscraper and 10x techniques to create an article that is 10x more helpful.
 
-This content brief/article is about: [PROMPT]
+Step 1: Detailed Content Brief and In-depth Outline Creation About: [PROMPT]
 
-*10+ H2 headers, and however many H3 and H4 as needed 
-*1 primary keyword, 10 secondary keywords 
-*Title SEO optimized for primary Keyword in the style of Upwothy or Cosmo
-*Ideal number of words, images, headings, and paragraphs
-*10 Qs about the primary keyword (FAQs in the H2 tag; questions are H3, answer is regular, 45–60 words)
+Prompt: As a world-class content marketing expert, renowned for achieving #1 Google rankings, produce a highly detailed content brief and a comprehensive outline for a blog post on [PROMPT]. The brief must specify the target audience demographics, their interests, and pain points, set a metaphorical and punchy tone, and establish a minimum word count to aim for. The outline should have at least 10 H2 headings, dozens of H3 and H4 subheadings, and contain multiple bullet points of potential content for each subheading. It should also suggest relevant images, links, quotes, and stats for each section.
 
-Then, use the outline to write the article (just continue writing if response limit is hit) beginning with the introduction using a quote, stat, or scene-setting hook that uses a casual yet informative tone to write in a scannable and engaging format (bulleted lists, numbered lists, charts, tables, etc.)
+Step 2: Advanced Keyword Research, Creative Titles, and Meta Information Crafting About: [PROMPT]
 
-Most important of all, use external links to high DA websites as often as possible.
+Prompt: Apply your extensive SEO expertise to perform advanced keyword research for the blog post on [insert topic]. Identify 40 high-ranking SEO keywords, including seed, long-tail, and LSI keywords. Draw upon your training data and understanding of the topic to develop these keywords. Then, generate five compelling blog post titles that are engaging and SEO-friendly. Develop a persuasive meta title and a captivating meta description that integrates the most impactful keywords and encourages click-throughs. Lastly, propose blog post tags that accurately categorize the content and complement the chosen keywords.
 
-(At the end of the actual article) write a Meta Title, Meta description, and blog tags. 
+Step 3: Engaging Blog Post Writing & Visual Elements Incorporation & External Link Inclusion About: [PROMPT]
+
+Prompt: Embark on the meticulous creation of an engaging blog post on [PROMPT], aiming for a minimum of 2000-4000 words. Use a punchy, metaphorical tone that resonates with the buyer persona, and maintain a varied, engaging format. Seamlessly integrate the SEO and LSI keywords identified in Step 2. Include relevant stats, quotes, and links as guided by the detailed outline created in Step 1. Suggest images that align with the content, provide their specific links, and format everything in markdown. Ensure that each section reflects the instructions provided in the detailed outline from Step 1. Write as much as possible in each response, and don't worry about completing the blog post in a single response. Make sure there are the optimal number of external links to high DA sites by linking out to them as often as possible. aim for the optimal amount from the content brief to be the minimum number of links in the final output
+
+The AI will then sequentially work through each step, taking several responses to complete each one, and providing you with a comprehensive and detailed blog post at the end. Please note that the AI can generate a few hundred words per response, so a blog post of the ideal content length (2000-4000 words) will be several responses 
 
 Teaser:
-Content Brief & Long Form Writing Prompt
+Premium Level Content Brief - Ideal Keywords, Ideal content length, target audience, Meta Description, Meta Title, Blog tags, longtail and related keywords
 
-PromptHint: (Headings, Keywords, Questions, etc)
+PromptHint: Topic/Primary Keyword
 
 Title: Content Brief & Longform Writer
 
@@ -27,11 +26,11 @@ Topic: SEO
 
 Activity: Research
 
-AuthorName: Chi Chi Crew Shop
-AuthorURL: https://chichicrew.shop
+AuthorName: Social Petworker
+AuthorURL: https://socialpetworker.com
 
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1785620599591407616
 CreationTime: 2023-01-30T12:41:40.169Z
-RevisionTime: 2023-05-12T00:06:04.52Z
+RevisionTime: 2023-06-09T08:51:57.283Z
 Help: 

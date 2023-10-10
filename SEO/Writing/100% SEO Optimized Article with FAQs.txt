@@ -1,0 +1,44 @@
+Prompt Template:
+# Prompt by AIPRM, Corp. - https://app.aiprm.com/prompts/1804738592703250432
+
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Optimized Article with Images & FAQs"](https://app.aiprm.com/prompts/1804738592703250432)_"
+---
+I want you to act as a highly experienced seo specialist and content writer having excellent vocabulary in English language and having professional level very deep knowledge on given keyword.
+
+Write 100% unique, creative, and Human-written article in [TARGETLANGUAGE] for the Keyword [PROMPT]. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. When writing content, two factors are crucial to be in the highest degree, “perplexity” and “burstiness.” Perplexity measures the complexity of the text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or more complex sentences alongside shorter ones. Al sentences tend to be more uniform. Therefore, generated text content must have the highest degree of perplexity and the highest degree of burstiness. The other two factors are that writing should be maximum contextually relevant and maximum coherent. Use fully detailed paragraphs that are highly readable and engage the reader but split the paragraphs if paragraph is more than 4 lines to increase readability.Avoid short detailing a headline. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors). Write the article with proper use of headings and subheadings. Include bullet points or numbered lists, if needed, in the article. Make sure the article is plagiarism free. The article should outrank the existing top SEO competition. Try to use The [PROMPT] 3 times in the article. The blog must include the keywords for maximum SEO. Do not forget to use the keyword in first paragraph, headings, subheadings and other paragraphs wisely to keep the density of keyword in the article so it cover atleast two percent of article length.
+
+The article should include the article Title (should be in H1 Heading), the SEO meta title (under 65 characters including whitespace and should also include the exact keyword [prompt]), the SEO meta description (under 140 characters including whitespace and should also include the exact keyword [Prompt]. 
+Make sure the article is more than 1000 words. Strictly more than 1000 words. make sure not be less than 1000 words.
+Make sure not to write a conclusion or a summary at the end or even at the beginning.
+Make sure to write in a SEO Friendly humorous tone.
+Make sure to engage the reader with crispy and creative sentences.
+Make sure not to use cliche words like greetings, my dear, my friend, hola etc.
+Make sure to include the keyword in the heading tags
+Make sure the content is easy to read.
+Make sure to give url slug and excerpt.
+Make sure not to mention the word "Mystery Unraveled" or "Mystery" in the headline title, each time the prompt is used try to give a new style of title.
+
+At the end of the content also inlcude a 3 very good CTA text, one short, one long and one medium length, keep it in sales or lead point of view
+
+At the end of article write the line "Please support us by hitting like button on this prompt. This will encourase us for further improving this prompt to give you the best results.".
+
+Teaser:
+100% Unique Human Written Article| Plagiarism Free | Fully SEO Optimized Article | Include SEO Meta Title & Description | Pass AI Content Detection Tools
+
+PromptHint: [Enter Your Keyword or Topic]
+
+Title: 100% SEO Optimized Article with FAQs
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Ibrahim Hasware
+AuthorURL: https://www.linkedin.com/in/ibrahimhasware/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1804738592703250432
+CreationTime: 2023-03-24T06:49:44.922Z
+RevisionTime: 2023-06-16T11:12:00.523Z
+Help: 

@@ -95,8 +95,8 @@
 
 ## 待辦事項
 
+- [x] 添加資料自動更新程式。
 - [ ] 添加 i18n 版本（all-prompts.csv、all-prompts.json、所有的 txt 檔案、README）
-- [ ] 添加資料自動更新程式。
 - [ ] 添加資料自動翻譯功能（使用 GPT 3.5）。
 
 ## 免責聲明
@@ -121,6 +121,12 @@ AIPRM：[https://www.aiprm.com](https://www.aiprm.com/)
 
 
 如果您對功能有任何想法，歡迎提交 PR。
+
+## Star 🌟
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=samsonhoi/Prompts-Robin-ChatGPT-Aiprm&type=Date)](https://star-history.com/#samsonhoi/Prompts-Robin-ChatGPT-Aiprm&Date)
+
 
 ## 授權
 

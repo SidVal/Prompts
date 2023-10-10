@@ -1,0 +1,31 @@
+Prompt Template:
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Crie um enunciado;
+Elabore questões subjetivas com 4 opções A, B, C, D;
+Apenas uma questão por vez;
+Questões diferenciadas;
+Use lacunas quando necessário.
+Apenas uma questão verdadeira;
+Informe a resposta correta;
+Quando possível use tabela, gráfico ou imagem.
+[PROMPT]
+
+Teaser:
+Creation of subjective questions
+
+PromptHint: [Subject]
+
+Title:  Creation of subjective questions
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Aurelio Ramos 
+AuthorURL: https://www.instagram.com/?next=%2F
+
+Community: Copywriting-00ea56f446414284
+ID: 1836219206199930880
+CreationTime: 2023-06-19T03:42:28.061Z
+RevisionTime: 2023-06-19T04:43:46.325Z
+Help: 

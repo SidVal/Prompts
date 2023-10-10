@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE] Suppose you are a SEO expert so analyize this website [PROMPT] and give me 50 keyword related to this website
+
+Teaser:
+Enter your [Website URL] to get 50 relevant keywords for SEO.
+
+PromptHint: Enter your [Website URL]
+
+Title: SEO Keyword Research
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Sumit Saini
+AuthorURL: https://dgtlsumit.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1831705201892126720
+CreationTime: 2023-06-06T16:45:25.568Z
+RevisionTime: 2023-06-06T17:03:03.475Z
+Help: 

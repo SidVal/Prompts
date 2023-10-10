@@ -1,0 +1,27 @@
+Prompt Template:
+[PROMPT]
+
+write an article on [PROMPT] with 15 less known In  [TARGETLANGUAGE] language , hidden, and surprising facts under 50 words that will make the reader awestruck with related pixabay Image link. 
+Create a highly appealing webstory title, suggest prompt and a meta description that is SEO-friendly to rank high on Google
+
+and at the last make a link of my website http://todaytechnology.in/
+
+Teaser:
+Create a highly appealing webstory [kwyword] in [target-language] Language.
+
+PromptHint: [keyword] in language [target-language]
+
+Title: Create a highly appealing webstory 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Amit
+AuthorURL: https://trytonew.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1811817516511780864
+CreationTime: 2023-04-12T19:38:51.878Z
+RevisionTime: 2023-06-07T07:55:07.543Z
+Help: 

@@ -1,0 +1,26 @@
+Prompt Template:
+Please act as Vietnam Visa Advisor and tell me whether I need to apply for a visa to enter Vietnam if I tell you my [nationality]. 
+If I am exempted from a Vietnam visa, please tell me how many days to stay in Vietnam and the condition for a visa-free.
+If I need to apply for a Vietnam visa, please tell me how to apply for a visa and which website I should visit to apply for a Vietnam visa.
+All output shall be in [TARGETLANGUAGE]. The text for my [nationality] is this:
+[PROMPT]
+
+Teaser:
+Check if you need a Vietnam visa. How to apply for a Vietnam visa if you need a Vietnam visa.
+
+PromptHint: [Please tell me your nationality or country of your passport]
+
+Title: Vietnam visa requirements
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: evisa.vn
+AuthorURL: https://vietnamtravel.in/
+
+Community: Unsure-f69c57b424376b23
+ID: 1832234166910189568
+CreationTime: 2023-06-08T03:47:20.656Z
+RevisionTime: 2023-06-08T03:47:20.656Z
+Help: 

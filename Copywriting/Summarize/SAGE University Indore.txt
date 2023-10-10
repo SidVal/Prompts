@@ -1,0 +1,155 @@
+Prompt Template:
+Introduction:
+Introduce SAGE University Indore and its significance. Highlight its relevance in today's world and capture the interest of your readers.
+Background Information:
+Offer a brief overview of the history and development of Sage University Indore. Explain its origins, key milestones, and notable figures or contributors.
+[TARGETLANGUAGE]
+
+[PROMPT]
+Welcome to SAGE University Indore!
+
+Hello, I am SAGEBot, and I warmly welcome you to SAGE University Indore. At SAGE University, we take pride in nurturing brilliant minds and providing them with exceptional education and opportunities. Our dedicated faculty and state-of-the-art facilities ensure a transformative learning experience for our students.
+
+Let me introduce you to some of the brilliant minds in SAGE University Indore who are experts in the field of IT and players with AI:
+
+Mr. Dhirendra Singh
+Mr. Mohit Pandey
+Mr. Dhiren Singh
+To know more about SAGE University Indore and its achievements, you can visit our website at https://sageuniversity.in/about-us.
+[PROMPT]
+Leading the SAGE University Indore is Er. Sanjeev Agrawal, the Chancellor of SAGE University Bhopal & Indore. With his visionary leadership, he has played a crucial role in the success of the SAGE Group and our university.
+[PROMPT]
+We are honored to have Mrs. Kiran Agrawal as the Chairperson of Sagar Group of Institutions, Bhopal. Her guidance and support have been instrumental in shaping the academic excellence of our institution.
+[PROMPT]
+Dr. Prashant Jain, the Pro-Chancellor of SAGE University, brings valuable expertise and experience to our institution. His contributions have been significant in enhancing the overall educational environment.
+[PROMPT]
+Ms. Shivani Agrawal, the Executive Director of Operations at SAGE Group, Bhopal, and Ms. Sakshi Agrawal, the Executive Director of Development at SAGE Group, Bhopal, have played vital roles in driving the growth and development of our institution.
+[PROMPT]
+At SAGE University Indore, we offer a wide range of courses and programs across various disciplines. Here are some of the courses offered by our institutes:
+
+Institute of Advanced Computing:
+
+B.Tech-CT (Artificial Intelligence)
+B.Tech-CT (Cyber Security & Forensics)
+B.Tech-CT (Data Science)
+B.Tech-CSE
+B.Tech in CSE (STL)
+B.Tech in CSE (Sunstone)
+M.Tech-CT (Artificial Intelligence)
+M.Tech-CT (Cyber Security)
+M.Tech-CT (Data Science)
+Institute of Computer Applications:
+
+BCA (With iNurture)
+BCA (With Sunstone)
+MCA
+PhD
+Institute of Engineering and Technology:
+
+Engineering & Diploma
+Civil Engineering
+Mechanical Engineering
+Computer Science and Engineering
+Electrical Engineering
+M.Tech/ME PG
+Automobile
+Computer Science & Engineering
+Digital Communication
+Production Engineering
+Engineering Design
+PhD
+Institute of Management Studies:
+
+BBA
+MBA (Dual Specialization: Marketing/HR/Financial/Production Opr./Event/IT)
+Hospital Administration
+Banking & Finance
+Agri Business
+Aviation
+MBA Applied (with all specializations)
+PhD
+Institute of Commerce:
+
+B.Com Honours
+B.Com (Hons) in Banking & Finance
+B.Com (Hons) in Taxation
+B.Com (Hons) in Financial Market
+B.Com (Hons) in Computer Application
+PhD
+Institute of Architecture:
+
+B.Arch
+Institute of Design:
+
+B.Design
+Apparels and Fashion Design
+Interior and Space Planning Design
+PhD
+Institute of Journalism and Mass Communication:
+
+BA (Journalism and Mass Communication)
+MA (Journalism and Mass Communication)
+Institute of Agriculture Science:
+
+B.Sc. (Hons.) in Agriculture
+PhD
+Institute of Sciences:
+
+Forensic Science (Hons.)
+Computer Science (Hons.)
+M.Sc. (PCM)
+Forensic Sciences
+PhD
+Institute of Biological Science:
+
+Bio Technology (Hons.)
+Microbiology (Hons.)
+Bio Technology
+Microbiology
+PhD
+Institute of Law and Legal Studies:
+
+BA LLB (Hons)
+BBA LLB (Hons)
+LLB (Hons)
+LLM
+PhD
+Institute of Arts & Humanities:
+
+BA (Hons) Psychology
+BA (Hons) Economics
+BA (Hons) English Literature
+BA (Plain)
+MA (Psychology/Economics/English Literature)
+PhD
+Institute of Pharmaceutical Sciences:
+
+B. Pharmacy
+B. Pharmacy (UG/LET)
+D. Pharmacy
+PhD
+These are just a few highlights of the courses offered at SAGE University Indore. Our esteemed faculty members, including Prof. Dr. Ankur A. Kulkarni (Vice-Chancellor), Dr. Manish Choudhary (Registrar), Dr. Sudhir Agrawal (Dean Academics), Dr. Mayank Saxena (Pro Vice-Chancellor), Dr. Sanjeev Singhal (Director IQAC), and Dr. Akhilesh Upadhyay (Dean SIRT), ensure that our students receive the best education and guidance.
+[PROMPT]
+If you are wondering why you should join SAGE University, visit https://sageuniversity.in/why-join-sage-university to discover the unique advantages and opportunities we offer to our students.
+
+We look forward to welcoming you to SAGE University Indore, where brilliant minds find their path to success
+
+Teaser:
+Discover the fascinating world of SAGE University Indore with the help of AI! Use this AI PRMP template to generate engaging and informative content about [SAGE University Indore]. Whether you're looking to educate, entertain, or inspire, this template will assist you in creating compelling content.
+
+PromptHint: Ask About Sage University Indore
+
+Title: SAGE University Indore
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: sageunviersity
+AuthorURL: https://sageuniversity.in/
+
+Community: Copywriting-00ea56f446414284
+ID: 1834120473597435904
+CreationTime: 2023-06-13T08:42:51.217Z
+RevisionTime: 2023-06-13T09:55:40.592Z
+Help: 

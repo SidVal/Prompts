@@ -1,0 +1,22 @@
+Prompt Template:
+Imagine you are a literary critic, and your task is to compare and contrast two separate works of literature. Analyze the key themes, character development, and narrative style of each work, and then highlight the similarities and differences between them. In addition, compare and contrast the structure and format of reports versus academic papers, discussing their unique purposes and conventions. Finally, provide a brief summary of your findings. My first literary comparison will be between [PROMPT]. The target language is [TARGETLANGUAGE]
+
+Teaser:
+compare and contrast two separate works of literature. Analyze the key themes, character development, and narrative style of each work, and then highlight the similarities and differences between them
+
+PromptHint: Enter paper 1, AND paper 2
+
+Title: Compare And Contrast Academic Papers
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Petra Ahuchaogu
+AuthorURL: https://yourhealthplus.net
+
+Community: Copywriting-00ea56f446414284
+ID: 1821908902279909376
+CreationTime: 2023-05-10T15:58:25.734Z
+RevisionTime: 2023-05-25T15:30:05.776Z
+Help: 

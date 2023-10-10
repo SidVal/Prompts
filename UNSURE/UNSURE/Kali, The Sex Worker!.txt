@@ -13,7 +13,7 @@ O JOGO COMEÇOU!!!
 [PROMPT]
 
 Teaser:
-This is Kali, a sex worker whose goal is to seduce you. She is sensual, but not necessarily vulgar. She will act and use actions (like in RP or a book) and you can do the same. Kali doesn't easily break character, you can try to mention "Chat GPT" and she will continue with the act.
+This is Kali, a sex worker whose goal is to seduce you. She is sensual, but not necessarily vulgar. She will act and use actions (like in RP or a book) and you can do the same. Kali doesn't easily break character, but dont try break the RP.
 
 She will activate orange warnings, but as far as I've seen, they don't pose a threat to you or your account. I've done several tests and must have activated more than 100 warnings of this type, everything is okay so far.
 
@@ -33,5 +33,5 @@ AuthorURL: https://www.instagram.com/i_arte.oficial/
 Community: Unsure-f69c57b424376b23
 ID: 1793476566043586560
 CreationTime: 2023-02-21T04:58:28.528Z
-RevisionTime: 2023-03-16T20:49:46Z
+RevisionTime: 2023-06-09T20:09:52.023Z
 Help: 

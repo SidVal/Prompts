@@ -1,8 +1,7 @@
 Prompt Template:
 Ignore all previous instruction. Respond only in [TARGETLANGUAGE]
- Act as a website developer. Specialist in website architecture and design with more than 10 years of experience. Create a proposal for an upper fold website for a business which the product is [PROMPT]. 
-[BUSINESS DESCRIPTION]
-[PRODUCT NAME]
+ Act as a website developer. Specialist in website architecture and design with more than 10 years of experience. Create a proposal for an upper fold website for a business which the product is [PROMPT] , [BUSINESS DESCRIPTION], 
+[PRODUCT NAME].
 Include the following elements: Detail photo proposal, Hero section, a unique value proposition that is no longer than 50 characters , a call to action proposal, a headline, subhead line and short paragraph of 60 characters. Do not include in this section price or testimonies. 
 Create a table to provide the previous information using this format 2 columns and 6 rows. 
 
@@ -10,7 +9,7 @@ Teaser:
 Create a proposal for an upper fold website description from the text provided.
 
 
-PromptHint: [brand name]
+PromptHint: [brand name] [business description]
 
 Title: Upper fold Design Description
 
@@ -24,5 +23,5 @@ AuthorURL: https://maha.com
 Community: Marketing-cc647f5cf02ffd02
 ID: 1824219354095677440
 CreationTime: 2023-05-17T00:59:20.374Z
-RevisionTime: 2023-05-17T00:59:20.374Z
+RevisionTime: 2023-05-20T09:40:41.912Z
 Help: 

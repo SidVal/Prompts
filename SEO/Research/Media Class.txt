@@ -1,0 +1,25 @@
+Prompt Template:
+Act like an SEO expert [TARGETLANGUAGE]. Classify JUST in Transaccional(shops, clinics, services, ecommerce) or Informacional(blogs, press, magazine) the follow list of websites:  [LIST OF PPAA]
+Your response must be a table with two columns: website and type (transactional or informational)
+
+[PROMPT]
+
+Teaser:
+Classify a list of media in transactional page or informational page to find press, magazine or blog to publish your contents
+
+PromptHint: Introduce your websites
+
+Title: Media Class
+
+Topic: SEO
+
+Activity: Research
+
+AuthorName: Growwer Link Building Tool
+AuthorURL: https://www.growwer.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1829835372222480384
+CreationTime: 2023-06-01T12:55:23.435Z
+RevisionTime: 2023-06-06T11:21:50.833Z
+Help: 

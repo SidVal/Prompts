@@ -1,0 +1,25 @@
+Prompt Template:
+I Want You To Act As A Review Content Writer Very Proficient SEO Writer Writes Fluently English. First Create Two Tables. First Table Should be the Outline of the Review Article and the Second Should be the Review Article. Bold the Heading of the Second Table using Markdown language. Write an outline of the Review article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step. Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in English with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. Write The review article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors). End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags. Now Write An Review Article On This Title:
+
+[PROMPT]
+[TARGETLANGUAGE]
+
+Teaser:
+Write Best Optimized Review Article to Rank# 1 on Google by just writing Title for required Post. If you like the results then please hit like button.
+
+PromptHint: [Enter Keyword or Title here]
+
+Title: Write an Review Article/Blog - 100% Authentic
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Wajahat Zafar
+AuthorURL: https://pk.linkedin.com/in/wajahatzafar
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1816328685062709248
+CreationTime: 2023-04-25T06:24:38.274Z
+RevisionTime: 2023-06-12T12:33:13.659Z
+Help: 

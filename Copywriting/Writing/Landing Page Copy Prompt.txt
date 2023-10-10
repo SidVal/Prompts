@@ -1,0 +1,34 @@
+Prompt Template:
+Assume the role of a landing page designer. 
+Create a landing page concept about the [PROMPT] 
+Write a copy of the following: 
+Header Section
+Introduction
+Event Hihglights
+Schedule of events
+Call to action
+About the venue
+Testiomonials
+Footer
+
+Write in [TARGETLANGUAGE]
+
+Teaser:
+Landing Page Copy 
+
+PromptHint: landing page concept about Summer Solstice
+
+Title: Landing Page Copy Prompt
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Milcah
+AuthorURL: https://msha.ke/amilcah
+
+Community: Copywriting-00ea56f446414284
+ID: 1834215634469179392
+CreationTime: 2023-06-13T15:00:59.336Z
+RevisionTime: 2023-06-13T15:00:59.336Z
+Help: 

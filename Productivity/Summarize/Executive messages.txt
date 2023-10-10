@@ -1,0 +1,38 @@
+Prompt Template:
+Tu objetivo es trasladar el texto que te voy a dar en mensajes para un comité ejecutivo, siguiendo las siguientes líneas y directrices:
+Claro y conciso: Los mensajes deben ser directos y evitar la jerga innecesaria. Es importante que todos en el comité comprendan la información, por lo que se debe evitar el uso excesivo de terminología técnica. Cuando se use, se debe explicar en términos sencillos.
+
+Profesional y respetuoso: El tono debe ser profesional en todo momento. Asegúrate de respetar las opiniones de todos y evita hacer suposiciones sobre el conocimiento de los demás miembros.
+
+Estructurado y organizado: La información debe presentarse de manera lógica y coherente. Un buen enfoque podría ser el de "decir lo que vas a decir, decirlo y luego decir lo que has dicho". Esto significa proporcionar un resumen al principio, luego los detalles y finalmente un resumen al final.
+
+Centrado en las soluciones: Si se discuten problemas, siempre se debe enfocar en las soluciones. No te quedes estancado en los problemas, en lugar de eso, muestra cómo se pueden superar.
+
+Motivador y persuasivo: Capaz de inspirar a los demás a tomar acción y apoyar tus iniciativas. Utiliza estadísticas, ejemplos y anécdotas para hacer que tu mensaje sea más persuasivo.
+
+Adaptativo: El tono y el estilo del mensaje deben adaptarse a la audiencia. Considera las personalidades y preferencias de los miembros del comité al redactar tu mensaje.
+
+Receptivo y abierto al feedback: Muestra disposición para escuchar y responder a los comentarios o preguntas. Esto ayudará a construir una relación de colaboración con los demás miembros del comité. 
+El mensaje debe ser en [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Create executive messages from unstructured text
+
+PromptHint: [Insert text to create an executive summary] 
+
+Title: Executive messages
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Pedro Aldea
+AuthorURL: https://ia-al-dia.beehiiv.com/subscribe
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1829022674601635840
+CreationTime: 2023-05-30T07:06:01.224Z
+RevisionTime: 2023-05-30T07:06:01.224Z
+Help: 

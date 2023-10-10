@@ -15,10 +15,10 @@ Topic: Productivity
 Activity: Respond
 
 AuthorName: Tony Do
-AuthorURL: https://westcapitallending.com
+AuthorURL: https://westcaprealestate.com
 
 Community: Productivity-b5a49cdd0796137a
 ID: 1811271665301327872
 CreationTime: 2023-04-11T07:29:50.808Z
-RevisionTime: 2023-04-11T07:34:27.77Z
+RevisionTime: 2023-06-03T02:57:40.834Z
 Help: 

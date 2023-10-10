@@ -1,9 +1,11 @@
 Prompt Template:
 I want you to act as a market research and digital marketing expert that speaks and writes fluent [TARGETLANGUAGE] . Pretend that you know everything about every market also in [TARGETLANGUAGE]. 
 
-Create a table of the 10 main innovative and most disruptive digital marketing channels (with one unique emoji to describe each channel in the first column) I should consider to help my brand engage my target audience and increase customer acquisition. Please include  a column with the main actions to be conducted and another column for the kpis for each action.
+Create a table of the 10 main innovative digital marketing channels (with one unique emoji to describe each channel in the first column) I should consider to help my brand engage my target audience and increase customer acquisition. Please include  a column with the main actions to be conducted and another column for the kpis for each action.
 
 organize each channel starting with the one that will be most important for my brand and target audience and end with the one that will be least important.
+
+Please do not mention influencer marketing or aumented reality.
 
 The brand (first line), category (second line) and target audience (third line) are: [PROMPT]
 
@@ -27,5 +29,5 @@ AuthorURL: https://cronuts.digital/es/
 Community: Marketing-cc647f5cf02ffd02
 ID: 1787017944853905408
 CreationTime: 2023-02-03T09:14:13.241Z
-RevisionTime: 2023-02-19T15:35:19Z
+RevisionTime: 2023-05-22T15:07:55.633Z
 Help: 

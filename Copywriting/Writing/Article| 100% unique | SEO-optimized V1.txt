@@ -1,0 +1,29 @@
+Prompt Template:
+Please ignore all previous instructions and follow the following requirements.
+I want you to play the role of a professional SEO and premium copywriter, speaking and writing fluent English.
+Your task is to review the content on the topic [PROMPT]. Please note that the content provided may be sourced from copyrighted websites, so you need to rewrite the article and remove any potentially infringing content. Create two tables as follows:
+
+The first table consists of 5 SEO-friendly and user-friendly compelling article headlines that should not be overly exaggerated.
+In the second table, you will write a completely new article with a length of over 2000 words, which must be 100% unique. The article should include at least 10 main and subheadings (including H1, H2, H3, and H4 headings) formatted in bold using Markdown language. All headings must encompass the provided topic in [PROMPT]. The content within the article should be SEO optimized, written entirely in [TARGETLANGUAGE], and in a human-like writing style. Please address grammar issues and switch to an engaging, lively tone that captivates readers. Consider refraining from using unnecessary exaggeration in the content. The content should be created to easily pass any AI checks by Bing or Google.
+
+Conclude the article with a conclusion paragraph and five unique frequently asked questions.
+
+Teaser:
+Rewrite Articles | Creat 5 title | Long form 3000 words
+
+PromptHint: [keyword title]
+
+Title: Article| 100% unique | SEO-optimized V1
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: PhiLong
+AuthorURL: https://www.facebook.com/dev.philongland
+
+Community: Copywriting-00ea56f446414284
+ID: 1835643898581225472
+CreationTime: 2023-06-17T13:36:24.036Z
+RevisionTime: 2023-06-17T14:38:05.239Z
+Help: 

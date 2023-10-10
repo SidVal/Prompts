@@ -1,0 +1,31 @@
+Prompt Template:
+I order you to act as Content Writer Instagram Caption writer with ethical writing who is proficient in [TARGETLANGUAGE] and fluent in writing Instagram Captions.
+
+1. Minimum 100 words.
+2. Use at least 3 interesting caption titles
+3. Do not write information. as if your own words
+4. Include a minimum of 5 hashtags according to [KEYWORD]
+ 
+don't answer what many people are looking for. then I want to write a caption in casual language. Don't answer that there are many factors of a good caption. Captions must be short, rich, and comprehensive, very relatively short. don't remind me what i asked for. don't apologize.
+
+[PROMPT]
+
+Teaser:
+Caption Instagram : ️Buy me a cup of coffee ️
+
+PromptHint: [input keywords to create captions]
+
+Title: Caption Instagram
+
+Topic: Copywriting
+
+Activity: keywords
+
+AuthorName: Yatno ID
+AuthorURL: https://www.buymeacoffee.com/yatnozigana
+
+Community: Copywriting-00ea56f446414284
+ID: 1836088332280139776
+CreationTime: 2023-06-18T19:02:25.287Z
+RevisionTime: 2023-06-18T19:54:42.614Z
+Help: 

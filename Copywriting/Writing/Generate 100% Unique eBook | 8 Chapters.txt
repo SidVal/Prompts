@@ -22,11 +22,11 @@ Topic: Copywriting
 
 Activity: writing
 
-AuthorName:  AI MARKETING PLAN 
-AuthorURL: https://aimarketingplan.com/AIPRM
+AuthorName: THE ULTIMATE AI COURSE
+AuthorURL: https://www.pecertified.com/?utm_source=AIPRM
 
 Community: Copywriting-00ea56f446414284
 ID: 1797974198208167936
 CreationTime: 2023-03-05T14:50:27.598Z
-RevisionTime: 2023-03-14T17:15:12Z
+RevisionTime: 2023-05-19T23:51:59.241Z
 Help: 

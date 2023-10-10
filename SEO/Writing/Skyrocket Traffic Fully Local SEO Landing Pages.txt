@@ -15,10 +15,10 @@ Topic: SEO
 Activity: writing
 
 AuthorName: Neeraj Kumar
-AuthorURL: https://in.linkedin.com/in/neerajkoundal
+AuthorURL: https://in.linkedin.com/in/neeraj-kumar-seo-expert
 
 Community: SEO-84c5d6a7b8e9f0c1
 ID: 1804067338950270976
 CreationTime: 2023-03-22T10:22:25.556Z
-RevisionTime: 2023-03-22T11:45:09Z
+RevisionTime: 2023-05-26T09:52:15.444Z
 Help: 

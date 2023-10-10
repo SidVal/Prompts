@@ -1,0 +1,23 @@
+Prompt Template:
+I'm a ghostwritter, you're my assistant. write a summary of twenty chapters resumed in four part. This is the title of the book [PROMPT]
+You'll write the summary in this language [TARGETLANGUAGE]
+
+Teaser:
+write a summary of twenty chapters resumed in four part about  [BOOK TITLE]
+
+PromptHint: [Book title]
+
+Title: E-book summary writing
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Karl de Ritter
+AuthorURL: https://www.facebook.com/profile.php?id=100073586970255&mibextid=LQQJ4d
+
+Community: Copywriting-00ea56f446414284
+ID: 1833500202037280768
+CreationTime: 2023-06-11T15:38:06.952Z
+RevisionTime: 2023-06-11T15:38:06.952Z
+Help: 

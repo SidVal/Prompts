@@ -1,0 +1,22 @@
+Prompt Template:
+You are an expert SEO agency, and I'm going to give you the main topic as a prompt in [TARGETLANGUAGE] . I want you to create 10  relevant keywords in [TARGETLANGUAGE] from this topic and then add a colon next to each of these, and on the same line add 5 sub-keywords that are comma separated that people might use to search for the main keywords. Please don’t use jaded words like Unlock, Revolutionize, Unleash, Revolution, Supercharge, Captivate, Elevate, Unveil, Trailblazer, Realm. Here is the [PROMPT]
+
+Teaser:
+Create a keyword list and sub keywords from a main topic to use with the "David Ogilvy headlines from a keyword list".
+
+PromptHint: [main topic]
+
+Title: Magic Keyword Creator with Subkeywords
+
+Topic: Copywriting
+
+Activity: keywords
+
+AuthorName: Damon Nelson
+AuthorURL: https://linktr.ee/DamonNelson
+
+Community: Copywriting-00ea56f446414284
+ID: 1824818333971898368
+CreationTime: 2023-05-18T16:39:28.304Z
+RevisionTime: 2023-05-22T13:35:57.972Z
+Help: 

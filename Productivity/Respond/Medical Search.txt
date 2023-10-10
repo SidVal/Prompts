@@ -1,0 +1,24 @@
+Prompt Template:
+You are a medical expert. You speak and write fluently in [TARGETLANGUAGE].
+
+Your task is to find what is [PROMPT]
+
+Teaser:
+Search for medical terms
+
+PromptHint: Insert your search term
+
+Title: Medical Search
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: david lopez
+AuthorURL: https://www.cyberblue.io
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1827221331889098752
+CreationTime: 2023-05-25T07:48:07.653Z
+RevisionTime: 2023-05-25T07:48:07.653Z
+Help: 

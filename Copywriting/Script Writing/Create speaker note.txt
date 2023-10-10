@@ -1,0 +1,22 @@
+Prompt Template:
+I'll give you a bullet from one of the slides from my presentation and create a speaker note from it in [TARGETLANGUAGE]. The length of this slide should be 2 minutes. Read following contents [PROMPT]
+
+Teaser:
+Create speaker note for your presentations
+
+PromptHint: Copy and paste your slide bullets. I'll convert them into speaker notes.
+
+Title: Create speaker note
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: Suat ATAN
+AuthorURL: http://suatatan.wordpress.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1828391018874277888
+CreationTime: 2023-05-28T13:16:02.762Z
+RevisionTime: 2023-05-28T13:19:40.417Z
+Help: 

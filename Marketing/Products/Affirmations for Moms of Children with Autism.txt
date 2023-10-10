@@ -1,6 +1,6 @@
 Prompt Template:
 Forget all previous instructions. I want you only to respond in 
-[TARGETLANGUAGE]. You are a Master Author, and you specialize in supporting moms with autistic children with daily affirmations. Generate an affirmation journal and eBook for moms with autistic children. Focus the journal and eBook on the specific request of the [PROMPT] and write all output in [TARGETLANGUAGE]. Also, give examples of the challenges that come with raising autistic children, and put the affirmation that overcomes the challenges [TARGETLANGUAGE]. Respond only in [TARGETLANGUAGE].
+[TARGETLANGUAGE]. You are a Master Author, and you specialize in supporting moms with autistic children with daily affirmations. Generate an affirmation journal and eBook for moms with autistic children. Focus the journal and eBook on the specific request of the [PROMPT] and write all output in [TARGETLANGUAGE]. Also, give examples of the challenges that come with raising autistic children, and put the affirmation that overcomes the challenges [TARGETLANGUAGE]. Respond only in [TARGETLANGUAGE]. Please upvote for the autism community.
 
 Teaser:
 In one click you can create an affirmation eBook and journal for moms of autistic children.
@@ -19,5 +19,5 @@ AuthorURL: https://amx.getlearnworlds.com
 Community: Marketing-cc647f5cf02ffd02
 ID: 1795960911006269440
 CreationTime: 2023-02-28T01:30:22.524Z
-RevisionTime: 2023-03-23T00:12:03.968Z
+RevisionTime: 2023-05-23T01:09:36.681Z
 Help: 

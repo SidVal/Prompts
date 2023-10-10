@@ -1,0 +1,22 @@
+Prompt Template:
+Write an detailed post on the topic [PROMPT] for the social media that engages content [TARGETLANGUAGE]
+
+Teaser:
+Write an detailed post on any topic for the social media that engages content
+
+PromptHint: Enter your topic keyword
+
+Title: Detailed FB post that engages audience
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: RK Tanwri
+AuthorURL: https://www.rktanwri.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1834894085984096256
+CreationTime: 2023-06-15T11:56:54.782Z
+RevisionTime: 2023-06-15T11:56:54.782Z
+Help: 

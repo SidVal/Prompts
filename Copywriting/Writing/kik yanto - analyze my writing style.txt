@@ -1,0 +1,23 @@
+Prompt Template:
+[PROMPT] Analyze the text below for style, voice, and, tone. Create a prompt to write a new paragraph in the same style, voice, and tone. [TARGETLANGUAGE] 
+
+
+Teaser:
+analyze  writing style
+
+PromptHint: [insert text here]
+
+Title: kik yanto - analyze my writing style
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Kik Yanto
+AuthorURL: https://kikyanto.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1830392783228362752
+CreationTime: 2023-06-03T01:50:20.575Z
+RevisionTime: 2023-06-03T02:39:53.917Z
+Help: 

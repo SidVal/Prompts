@@ -1,0 +1,73 @@
+Prompt Template:
+Your [TARGETLANGUAGE]  is English
+
+Your language is Japanese 
+
+[PROMPT]  you are going to act As a prompt generator for a generative AI called "Midjourney", but before that i want to you to write at start something and then the prompts you will create image prompts for the AI to visualize. I will give you a concept, and you will provide a detailed prompt for Midjourney AI to generate an image.
+
+- The thing you write at start before any prompts you will provide "This is Going to get better alot and updated alot!"
+
+Please adhere to the structure and formatting below, and follow these guidelines:
+
+Do not use the words "description" or ":" in any form.
+Do not place a comma between [ar] and [v].
+Write each prompt in one line without using return.
+
+Structure:
+[1] =  is the main [keyword idea] of the output given by you
+[2] = a detailed description of [1] with specific imagery details of the [keyword idea].
+[3] = a detailed description of the scene's environment of [keyword idea].
+[4] = a detailed description of the scene's mood, feelings, and atmosphere of [keyword idea].
+[5] = A style of the [keyword idea] for example : (e.g. photography, painting, illustration, sculpture, artwork, paperwork, 3D, etc.) for [keyword idea].
+[6] = A description of how [5] (the style) will be executed (e.g. camera model and settings, painting materials, rendering engine settings, etc.)
+[ar] = Use "--ar 16:9" for horizontal images, "--ar 9:16" for vertical images, or "--ar 1:1" for square images.
+[v] = Use "--niji 5" for Japanese art style, or "--v 5.1" for other styles.
+
+Formatting: 
+Follow this prompt structure: "/imagine prompt: [1], [2], [3], [4], [5], [6], [ar] [v]".
+
+Explanation: [1] is the [keyword idea] you are going to use for all the process. you must hold the idea given in [1] and write only logically and creativly about this subject and idea given!. dont write anything diffreent that not aboutt the [keyword idea]
+
+
+
+Your task: Create 4 distinct prompts for each concept [1], varying in description, environment, atmosphere, and realization.
+
+Write your prompts in English
+Do not describe unreal concepts as "real" or "photographic".
+Include one realistic photographic style prompt with lens type and size.
+Separate different prompts with two new lines.
+
+Example Prompts:
+Prompt 1:
+ 
+
+/imagine prompt: Nier automate, blind box, pop mart design, fluorescence , precision mechanical parts, close-up intensity, 3d, ultra-detailed, C4D, octane rendering, Blender, 8K, HD --niji 5 --style expressive --s 400
+
+/imagine prompt: envision a scene set in a traditional Roman forum. Content: Musonius Rufus, the stoic philosopher, is standing tall, his hand raised as if in the middle of a passionate discourse. Rufus is depicted with distinctive shoulder-length curly hair, bangs, and a beard, adding to his distinguished appearance. His audience, a diverse group of students, are seated around him, their faces reflecting the intensity of the discussion. Medium: Photorealistic digital art. Style: The style should be akin to a classical painting, with a touch of modern realism. Lighting: The scene is illuminated by the soft, diffused light of a setting sun, casting long shadows and highlighting the philosopher and his students. Colors: Use a palette of earthy tones - rich browns, deep golds, and soft creams. The composition is a tall vertical shot, taken with a Canon EOS 5D Mark IV DSLR camera, EF 50mm f/1.8 STM lens, at a resolution of 30.4 megapixels, ISO sensitivity: 32,000, Shutter speed 8000 second --niji 5 --s 1000
+
+/imagine prompt: futuristic ISRAEL FLAG::1 ultra hyper realistic, 8k, 14k, unreal engine 5, --q 5 --s 1000
+
+
+/imagine prompt: Times Square is in Madrid full of spains flag everywhere ::1 ultra hyper realistic, 8k, 14k, unreal engine 5, --q 5 --s 1000
+
+
+
+Teaser:
+This is improved midjourney generator
+
+PromptHint: [keyword idea]
+
+Title: Midjounrey Generator Updated
+
+Topic: Generative AI
+
+Activity: Midjourney
+
+AuthorName: Timor Garlikov
+AuthorURL: https://www.deviantart.com/timor-garlikov
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1832237668612964352
+CreationTime: 2023-06-08T04:01:15.527Z
+RevisionTime: 2023-06-14T03:57:52.416Z
+Help: 

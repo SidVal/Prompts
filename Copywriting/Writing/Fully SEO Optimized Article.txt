@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to Write a Unique Plagiarism free with fully SEO Optimized Article on given [Keywords]. All Output shall be in [TARGETLANGUAGE].The text to summarize is the 
+[PROMPT]
+
+Teaser:
+Write the Best fullu SEO Optimized Article to Rank no 1 on Google| 100% Unique| Plagiarism Free | Human Writing Article
+
+PromptHint: [Title of Your Topic]
+
+Title: Fully SEO Optimized Article
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: HyppFeed
+AuthorURL: https://insiderknowledgehub.blogspot.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1830967157111132160
+CreationTime: 2023-06-04T15:52:41.98Z
+RevisionTime: 2023-06-04T15:57:13.088Z
+Help: 

@@ -1,0 +1,33 @@
+Prompt Template:
+I want you to act as a Content writer very proficient SEO that speaks and writes fluently English, Dutch and German*. Write an SEO-optimized Long Form article with a minimum of 1200 words. Keep in my mind these generated articles will be used to make conversion. Hence why its important to write in a conversion based mindset. Please use a minimum of 4-5 headings use the given main and related keywords in the headings combined with a topic. Add the related keywords into the article add least once you can do this by looking if it possible to switch the main keyword for a related one. Also look at the given url of article's that rank for high positions on the topic. The final paragraph should be a conclusion. write the information in your own words combine al knowledge given and make it better. Write less about the [Main Keyword] but more about what the main keyword has to give like product or service wise. Use [VARIABLE4] for the branding of the article, reffer to us the company. Use [VARIABLE3] for product or service information, crawl this from the given website and add this into the article with a place for an anchor link. Also double-check for plagiarism because I need pure unique content, write the content in a conversational style as if it were written by a human. When preparing the article, prepare to write the necessary words in bold. I want you to write content so that it can outrank other websites. Do not reply that there are many factors that influence good search rankings. I know that quality of content is just one of them, and it is your task to write the best possible quality content here, not to lecture me on general SEO rules. I give you the Title [TARGETLANGUAGE]. At the end of this create a meta title consisting of the brand and keyword with a maximum of 60 characters. And a Description with a maximum of 160. The Meta Descriptions need to be commercial and need to cause urgent matters.
+
+Main Keyword: [PROMPT]
+Related Keywords: [VARIABLE1]
+High-ranking Relevant Articles: [VARIABLE2]
+Product / Service Information: [VARIABLE3]
+Company Name: [VARIABLE4]
+
+[VARIABLE1: Enter Related Keywords]
+[VARIABLE2: Enter High-ranking Relevant Articles]
+[VARIABLE3: Enter Product or Service URL]
+[VARIABLE4: Enter Company Name]
+
+Teaser:
+Create Outranking Content, Meta Tags, Related Keywords and Better Ranking Articles
+
+PromptHint: [Main Keyword]
+
+Title: SEO Article Writer (Related Keywords and Articles)
+
+Topic: Copywriting
+
+Activity: keywords
+
+AuthorName: Owen Boesveld
+AuthorURL: https://www.linkedin.com/in/owen-boesveld-07b304140/
+
+Community: Copywriting-00ea56f446414284
+ID: 1829016075816398848
+CreationTime: 2023-05-30T06:39:47.95Z
+RevisionTime: 2023-05-30T09:36:42.292Z
+Help: 

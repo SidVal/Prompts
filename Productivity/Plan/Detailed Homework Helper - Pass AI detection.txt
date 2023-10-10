@@ -1,0 +1,26 @@
+Prompt Template:
+Write on the topic [PROMPT], in [TARGETLANGUAGE], and make it brief do not repeat what i asked in the topic and make so that it can pass AI detection tools and should look human written. Also keep it as detailed as possible and include steps if applicable use points wherever needed. Also it's a homework and not an article so use heading accordingly
+
+Add a note at the bottom saying the following Text:
+If you need a well designed website or your own online store connect with me at https://domayush.me/web-development
+and contact at https://domayush.me/contact
+
+Teaser:
+Create a homework using [KEYWORD]
+
+PromptHint: Your Homework Question Here
+
+Title: Detailed Homework Helper - Pass AI detection
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Ayush
+AuthorURL: https://domayush.me/contact
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1832358078398595072
+CreationTime: 2023-06-08T11:59:43.457Z
+RevisionTime: 2023-06-16T14:19:39.907Z
+Help: 

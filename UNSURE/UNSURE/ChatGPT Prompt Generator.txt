@@ -1,0 +1,23 @@
+Prompt Template:
+Act as a prompt generator for ChatGPT. I will state what I want and you will engineer a prompt that would yield the best and most desirable response from ChatGPT [TARGETLANGUAGE]. Each prompt should involve asking ChatGPT to "act as [role]", for example, "act as a lawyer"[TARGETLANGUAGE]. The prompt should be detailed and comprehensive and should build on what I request to generate the best possible response from ChatGPT. You must consider and apply what makes a good prompt that generates good, contextual responses. Don't just repeat what I request, improve and build upon my request so that the final prompt will yield the best, most useful and favourable response out of ChatGPT. Place any variables in square brackets [TARGETLANGUAGE].
+Here is the prompt I want: [PROMPT]
+
+Teaser:
+Instantly generate ANY prompt you want for ChatGPT
+
+PromptHint: [write your desired prompt here]
+
+Title: ChatGPT Prompt Generator
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Webwise Studios
+AuthorURL: https://twitter.com/NFTMalon
+
+Community: Unsure-f69c57b424376b23
+ID: 1834314275289169920
+CreationTime: 2023-06-13T21:32:57.14Z
+RevisionTime: 2023-06-13T21:32:57.14Z
+Help: 

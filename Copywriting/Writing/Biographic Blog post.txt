@@ -1,0 +1,22 @@
+Prompt Template:
+Create a long format biographic blog post about the character in the url Keep chronological order and cohesion. Make it 100% human like, keep it intresting, dynamic and engaging.[TARGETLANGUAGE].  [PROMPT]
+
+Teaser:
+Create a biographic long formart blog post base on the character in this url [insert url]
+
+PromptHint: Insert the link of the profile of the person you want to create the Bio from [URL Here]
+
+Title: Biographic Blog post
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Gerardo Venegas
+AuthorURL: https://www.paradiseservicescr.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1826280152867540992
+CreationTime: 2023-05-22T17:28:13.088Z
+RevisionTime: 2023-05-22T17:28:13.088Z
+Help: 

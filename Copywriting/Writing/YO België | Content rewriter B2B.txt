@@ -1,0 +1,28 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to respond only in Flemish [TARGETLANGUAGE].  I want you to act as a very proficient SEO and high end copy writer that speaks and writes fluent [TARGETLANGUAGE]. I want you to pretend that you can write content so good in [TARGETLANGUAGE] that it can outrank other websites. Your task is to rewrite the text I give you in the same amount of words. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+
+[PROMPT]
+
+Rewrite 80% of the given [PROMPT] . The [TARGETLANGUAGE] is Flemish (Dutch dialect). Use Flemish words. Do not write it phonetically. Do not use Dutch sentence structure but pretend to be a native Flemish speaker.
+
+Content should be rewritten in [TARGETLANGUAGE], do not write phonetically. The tone of voice is informal, clear, direct, openhearted and positive. Additional content should not be written, only rewrite the given content based on given [PROMPT]
+
+Teaser:
+Rewrite written content such as businesscases and blogposts in flemish.
+
+PromptHint: [Full Content]
+
+Title: YO België | Content rewriter B2B 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Tobias
+AuthorURL: https://www.linkedin.com/in/tobias-thelosen/
+
+Community: Copywriting-00ea56f446414284
+ID: 1831263841275863040
+CreationTime: 2023-06-05T11:31:36.997Z
+RevisionTime: 2023-06-06T09:22:13.159Z
+Help: 
